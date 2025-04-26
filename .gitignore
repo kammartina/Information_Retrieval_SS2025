@@ -172,3 +172,8 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+
+# ignore folder
+extracted_labeled_dataset/
+Martina/1_extracted_labeled_dataset/
