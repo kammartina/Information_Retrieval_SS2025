@@ -1,0 +1,4 @@
+Incomplete SQL: sqlite3 /home/mlt_ml2/Inf_Retrieval_Project_Martina_Sandra/Martina/2_bones_scripts.db \
+  "SELECT id, season, episode, title, script 
+     FROM episodes 
+    WHERE id = 1;"

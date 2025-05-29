@@ -1,0 +1,663 @@
+the twisted bones in the melted truck
+season 6, episode 8
+(the sun is rising over the trees, panning over to a white truck stopped on the side of the road. through the windshield, a man - dead - is seen in the driver's seat. a spark is seen behind him, turning into a full-fledged fire and then a massive explosion.)
+int. booth's apartment - day
+(booth and hannah are in the bedroom, getting ready for the day.)
+['hannah', 'hannah burley', 'journalist hannah', 'booth’s girlfriend']: my editor wants me to tie my story of inner-city crime in dc with federal cutbacks to law enforcement.
+['booth', 'agent booth', 'special agent booth', 'special agent seeley booth', 'seeley', 'seeley booth', 'mr. booth', 'mr booth', 'officer booth', 'boothy', 'boothie', 'bth', 'bohth', 'boof', 'dr. booth']: ah, all right, gotta love that, huh? more money for us. tell you what, maybe the bureau could get me a computer that doesn't run on coal.
+(booth walks towards the washroom.)
+['hannah', 'hannah burley', 'journalist hannah', 'booth’s girlfriend']: i'm gonna ambush senator jankow today. he chairs a committee.
+(booth leans against the doorway to look back at hannah, who is wearing a see-through lace blouse.)
+['booth', 'agent booth', 'special agent booth', 'special agent seeley booth', 'seeley', 'seeley booth', 'mr. booth', 'mr booth', 'officer booth', 'boothy', 'boothie', 'bth', 'bohth', 'boof', 'dr. booth']: you go like that, he'll tell you anything you want to know.
+(hannah chuckles, turns around and accidentally trips. a framed picture of booth and parker falls to the ground and the glass breaks. hannah picks it up and sits on the bed.)
+['hannah', 'hannah burley', 'journalist hannah', 'booth’s girlfriend']: oh god. i'm sorry.
+(booth sits down beside her.)
+['booth', 'agent booth', 'special agent booth', 'special agent seeley booth', 'seeley', 'seeley booth', 'mr. booth', 'mr booth', 'officer booth', 'boothy', 'boothie', 'bth', 'bohth', 'boof', 'dr. booth']: don't worry about it. it's okay.
+['hannah', 'hannah burley', 'journalist hannah', 'booth’s girlfriend']: i told you i'm not very good with kids.
+['booth', 'agent booth', 'special agent booth', 'special agent seeley booth', 'seeley', 'seeley booth', 'mr. booth', 'mr booth', 'officer booth', 'boothy', 'boothie', 'bth', 'bohth', 'boof', 'dr. booth']: you're great with everybody, okay? and i'll tell you what, parker can't wait to meet you.
+['hannah', 'hannah burley', 'journalist hannah', 'booth’s girlfriend']: really?
+['booth', 'agent booth', 'special agent booth', 'special agent seeley booth', 'seeley', 'seeley booth', 'mr. booth', 'mr booth', 'officer booth', 'boothy', 'boothie', 'bth', 'bohth', 'boof', 'dr. booth']: yeah, really.
+['hannah', 'hannah burley', 'journalist hannah', 'booth’s girlfriend']: i'd feel more comfortable if he was a crooked senator. i know how to deal with that.
+(booth's cellphone rings.)
+['booth', 'agent booth', 'special agent booth', 'special agent seeley booth', 'seeley', 'seeley booth', 'mr. booth', 'mr booth', 'officer booth', 'boothy', 'boothie', 'bth', 'bohth', 'boof', 'dr. booth']: oh, work. (he answers) booth. oh yeah, okay. i'm on my way. (hangs up the phone and picks up his suit jacket from the bed) 'k, gotta go. got a case. (he kisses hannah and points to the frame) don't worry about that, all right?
+ext. crime scene - day
+(fire fighters and police are working to free the body from the melted truck. booth and brennan are speaking with the arson investigator. )
+arson investigator: call came in at six a.m. passing motorist called 911, said she saw a ball of fire on the side of the road.
+['brennan', 'dr. brennan', 'dr brennan', 'temperance', 'temperance brennan', 'dr. temperance', 'dr temperance', 'dr. temperance brennan', 'dr temperance brennan', 'bones', 'temp', 'dr bones', 'ms. brennan', 'ms brennan', 'brnnan', 'brannan', 'dr.brennan', 'dr.brenan']: where's the point of ignition?
+arson investigator: there is none.
+['brennan', 'dr. brennan', 'dr brennan', 'temperance', 'temperance brennan', 'dr. temperance', 'dr temperance', 'dr. temperance brennan', 'dr temperance brennan', 'bones', 'temp', 'dr bones', 'ms. brennan', 'ms brennan', 'brnnan', 'brannan', 'dr.brennan', 'dr.brenan']: as an arson investigator, you should know that every fire has a point of ignition.
+arson investigator: not if it was hit by an asteroid.
+['brennan', 'dr. brennan', 'dr brennan', 'temperance', 'temperance brennan', 'dr. temperance', 'dr temperance', 'dr. temperance brennan', 'dr temperance brennan', 'bones', 'temp', 'dr bones', 'ms. brennan', 'ms brennan', 'brnnan', 'brannan', 'dr.brennan', 'dr.brenan']: even an asteroid with the diameter as small as five metres would leave a huge crater. (points to the ground) there's no crater.
+arson investigator: (to booth) she serious?
+['booth', 'agent booth', 'special agent booth', 'special agent seeley booth', 'seeley', 'seeley booth', 'mr. booth', 'mr booth', 'officer booth', 'boothy', 'boothie', 'bth', 'bohth', 'boof', 'dr. booth']: always. (to brennan) bones, that was a joke, 'k? the whole asteroid thing was a joke.
+['brennan', 'dr. brennan', 'dr brennan', 'temperance', 'temperance brennan', 'dr. temperance', 'dr temperance', 'dr. temperance brennan', 'dr temperance brennan', 'bones', 'temp', 'dr bones', 'ms. brennan', 'ms brennan', 'brnnan', 'brannan', 'dr.brennan', 'dr.brenan']: oh! that's amusing because it's such an absurd theory. (she punches the arson investigator on the shoulder) good one.
+['booth', 'agent booth', 'special agent booth', 'special agent seeley booth', 'seeley', 'seeley booth', 'mr. booth', 'mr booth', 'officer booth', 'boothy', 'boothie', 'bth', 'bohth', 'boof', 'dr. booth']: check this out, bones. vin plate. digits are missing.
+['brennan', 'dr. brennan', 'dr brennan', 'temperance', 'temperance brennan', 'dr. temperance', 'dr temperance', 'dr. temperance brennan', 'dr temperance brennan', 'bones', 'temp', 'dr bones', 'ms. brennan', 'ms brennan', 'brnnan', 'brannan', 'dr.brennan', 'dr.brenan']: i'll give it to angela, see what she can do. (to the arson investigator) this white powder. i assume it's residue from fire retardant used to control the blaze although (continues with a smile) it could be the remnants of a highly localized blizzard. (laughs while the arson investigator and booth look at her strangely) the likelihood of a blizzard is even more remote than an asteroid hitting the earth. do you get it?
+arson investigator: (ignores brennan's joke) it's not retardant. by the time the fire fighters arrived on scene, the blaze had burned itself out.
+['brennan', 'dr. brennan', 'dr brennan', 'temperance', 'temperance brennan', 'dr. temperance', 'dr temperance', 'dr. temperance brennan', 'dr temperance brennan', 'bones', 'temp', 'dr bones', 'ms. brennan', 'ms brennan', 'brnnan', 'brannan', 'dr.brennan', 'dr.brenan']: then i'll need to bag the powder for hodgins to analyse.
+(the fire fighters finally manage to remove the roof of the truck to reveal the bones of the victim.)
+['brennan', 'dr. brennan', 'dr brennan', 'temperance', 'temperance brennan', 'dr. temperance', 'dr temperance', 'dr. temperance brennan', 'dr temperance brennan', 'bones', 'temp', 'dr bones', 'ms. brennan', 'ms brennan', 'brnnan', 'brannan', 'dr.brennan', 'dr.brenan']: oh.
+['booth', 'agent booth', 'special agent booth', 'special agent seeley booth', 'seeley', 'seeley booth', 'mr. booth', 'mr booth', 'officer booth', 'boothy', 'boothie', 'bth', 'bohth', 'boof', 'dr. booth']: wow, this is a first. melted bones.
+['brennan', 'dr. brennan', 'dr brennan', 'temperance', 'temperance brennan', 'dr. temperance', 'dr temperance', 'dr. temperance brennan', 'dr temperance brennan', 'bones', 'temp', 'dr bones', 'ms. brennan', 'ms brennan', 'brnnan', 'brannan', 'dr.brennan', 'dr.brenan']: no, not possible. bones don't melt.
+['booth', 'agent booth', 'special agent booth', 'special agent seeley booth', 'seeley', 'seeley booth', 'mr. booth', 'mr booth', 'officer booth', 'boothy', 'boothie', 'bth', 'bohth', 'boof', 'dr. booth']: you know, usually i defer all things bones to you but, you know, i've cooked with a lot of cheese. that is melting.
+int. jeffersonian - forensic platform
+(cam is looking at x-rays while brennan is inspecting the body. hodgins enters.)
+['hodgins', 'jack hodgins', 'jack', 'dr. hodgins', 'dr hodgins', 'dr. jack', 'mr. hodgins', 'hodges', 'hodg', 'jack h', 'hodginz', 'dr hodges']: woah, look at that!
+['brennan', 'dr. brennan', 'dr brennan', 'temperance', 'temperance brennan', 'dr. temperance', 'dr temperance', 'dr. temperance brennan', 'dr temperance brennan', 'bones', 'temp', 'dr bones', 'ms. brennan', 'ms brennan', 'brnnan', 'brannan', 'dr.brennan', 'dr.brenan']: you're excited about the decedent, dr. hodgins?
+['hodgins', 'jack hodgins', 'jack', 'dr. hodgins', 'dr hodgins', 'dr. jack', 'mr. hodgins', 'hodges', 'hodg', 'jack h', 'hodginz', 'dr hodges']: sure! booth said the dude melted into the truck.
+['cam', 'camille', 'camille saroyan', 'dr. saroyan', 'dr saroyan', 'dr cam', 'dr. cam', 'cam s', 'ms. saroyan', 'ms saroyan', 'dr. camille', 'cammy', 'camil', 'cam saroyan']: at this point, we haven't been able to determine gender.
+['brennan', 'dr. brennan', 'dr brennan', 'temperance', 'temperance brennan', 'dr. temperance', 'dr temperance', 'dr. temperance brennan', 'dr temperance brennan', 'bones', 'temp', 'dr bones', 'ms. brennan', 'ms brennan', 'brnnan', 'brannan', 'dr.brennan', 'dr.brenan']: and bones don't melt, dr. hodgins. the melting process represents a change of state from a solid to a liquid, an impossibility with bones.
+['hodgins', 'jack hodgins', 'jack', 'dr. hodgins', 'dr hodgins', 'dr. jack', 'mr. hodgins', 'hodges', 'hodg', 'jack h', 'hodginz', 'dr hodges']: i know but they sure appear to be melted.
+['cam', 'camille', 'camille saroyan', 'dr. saroyan', 'dr saroyan', 'dr cam', 'dr. cam', 'cam s', 'ms. saroyan', 'ms saroyan', 'dr. camille', 'cammy', 'camil', 'cam saroyan']: but how? i haven't seen a fire hot enough to do this.
+['brennan', 'dr. brennan', 'dr brennan', 'temperance', 'temperance brennan', 'dr. temperance', 'dr temperance', 'dr. temperance brennan', 'dr temperance brennan', 'bones', 'temp', 'dr bones', 'ms. brennan', 'ms brennan', 'brnnan', 'brannan', 'dr.brennan', 'dr.brenan']: (hands hodgins a bag of the white powder) found at the scene. a light dusting over most of the wreckage. it could give us cause of death.
+['cam', 'camille', 'camille saroyan', 'dr. saroyan', 'dr saroyan', 'dr cam', 'dr. cam', 'cam s', 'ms. saroyan', 'ms saroyan', 'dr. camille', 'cammy', 'camil', 'cam saroyan']: i think i found that.
+(cam walks over to the bones and points to a bullet lodged into one of the bones.)
+['brennan', 'dr. brennan', 'dr brennan', 'temperance', 'temperance brennan', 'dr. temperance', 'dr temperance', 'dr. temperance brennan', 'dr temperance brennan', 'bones', 'temp', 'dr bones', 'ms. brennan', 'ms brennan', 'brnnan', 'brannan', 'dr.brennan', 'dr.brenan']: oh.
+['hodgins', 'jack hodgins', 'jack', 'dr. hodgins', 'dr hodgins', 'dr. jack', 'mr. hodgins', 'hodges', 'hodg', 'jack h', 'hodginz', 'dr hodges']: a bullet.
+['cam', 'camille', 'camille saroyan', 'dr. saroyan', 'dr saroyan', 'dr cam', 'dr. cam', 'cam s', 'ms. saroyan', 'ms saroyan', 'dr. camille', 'cammy', 'camil', 'cam saroyan']: we presumed the victim died in a fire.
+['brennan', 'dr. brennan', 'dr brennan', 'temperance', 'temperance brennan', 'dr. temperance', 'dr temperance', 'dr. temperance brennan', 'dr temperance brennan', 'bones', 'temp', 'dr bones', 'ms. brennan', 'ms brennan', 'brnnan', 'brannan', 'dr.brennan', 'dr.brenan']: but he was shot in the chest.
+['hodgins', 'jack hodgins', 'jack', 'dr. hodgins', 'dr hodgins', 'dr. jack', 'mr. hodgins', 'hodges', 'hodg', 'jack h', 'hodginz', 'dr hodges']: melted. (brennan gives him a look) sorry, but i don't know any other word for it.
+opening credits
+act two
+int. jeffersonian - forensic platform
+(daisy and cam are wearing protective gear while cam is spraying the bones with liquid nitrogen.)
+['daisy', 'daisy wick', 'intern daisy', 'ms. wick', 'd. wick', 'miss wick', 'daizy', 'dasi']: i can do this! it was my idea to remove the bones with liquid nitrogen and the fbi is giving me the psych evaluation so i can get security clearance to work unsupervised.
+['cam', 'camille', 'camille saroyan', 'dr. saroyan', 'dr saroyan', 'dr cam', 'dr. cam', 'cam s', 'ms. saroyan', 'ms saroyan', 'dr. camille', 'cammy', 'camil', 'cam saroyan']: but, you don't have that clearance yet and this is very expensive equipment, which i am responsible for.
+['daisy', 'daisy wick', 'intern daisy', 'ms. wick', 'd. wick', 'miss wick', 'daizy', 'dasi']: you just think it's cool.
+['cam', 'camille', 'camille saroyan', 'dr. saroyan', 'dr saroyan', 'dr cam', 'dr. cam', 'cam s', 'ms. saroyan', 'ms saroyan', 'dr. camille', 'cammy', 'camil', 'cam saroyan']: maybe.
+['daisy', 'daisy wick', 'intern daisy', 'ms. wick', 'd. wick', 'miss wick', 'daizy', 'dasi']: careful not to saturate any particular section. too much nitric oxide can cause the bones to fracture.
+['cam', 'camille', 'camille saroyan', 'dr. saroyan', 'dr saroyan', 'dr cam', 'dr. cam', 'cam s', 'ms. saroyan', 'ms saroyan', 'dr. camille', 'cammy', 'camil', 'cam saroyan']: i know, ms. wick.
+['daisy', 'daisy wick', 'intern daisy', 'ms. wick', 'd. wick', 'miss wick', 'daizy', 'dasi']: is the psych evaluation intimidating? i mean, was it difficult for you to pass it?
+['cam', 'camille', 'camille saroyan', 'dr. saroyan', 'dr saroyan', 'dr cam', 'dr. cam', 'cam s', 'ms. saroyan', 'ms saroyan', 'dr. camille', 'cammy', 'camil', 'cam saroyan']: perhaps you could focus on how we're going to identify the victim.
+['daisy', 'daisy wick', 'intern daisy', 'ms. wick', 'd. wick', 'miss wick', 'daizy', 'dasi']: there's no flesh so that rules out fingerprints and since the skull appears melted, we can discount facial reconstruction and dental comparisons. maybe i could think a little clearer if i was using the equipment? (cam gives her a look) please? i already have the gear on.
+['cam', 'camille', 'camille saroyan', 'dr. saroyan', 'dr saroyan', 'dr cam', 'dr. cam', 'cam s', 'ms. saroyan', 'ms saroyan', 'dr. camille', 'cammy', 'camil', 'cam saroyan']: (sighs) okay. just once. (she hands daisy the nozzle) but, be careful!
+['daisy', 'daisy wick', 'intern daisy', 'ms. wick', 'd. wick', 'miss wick', 'daizy', 'dasi']: since you've become a mom, you're a lot less trusting. (daisy squeals as the spray starts)
+int. jeffersonian - angela's office
+(angela has the truck's plates on the angelatron while video conferring with booth, who is in his office at the fbi.)
+['angela', 'angela montenegro', 'ms. montenegro', 'ms montenegro', 'ang', 'ange', 'an', 'a.montenegro', 'angella', 'angla', 'angelina', 'miss montenegro', 'angela m', 'dr. angela']: so, i've been working on the vin number.
+['booth', 'agent booth', 'special agent booth', 'special agent seeley booth', 'seeley', 'seeley booth', 'mr. booth', 'mr booth', 'officer booth', 'boothy', 'boothie', 'bth', 'bohth', 'boof', 'dr. booth']: oh, good. i hope.
+['angela', 'angela montenegro', 'ms. montenegro', 'ms montenegro', 'ang', 'ange', 'an', 'a.montenegro', 'angella', 'angla', 'angelina', 'miss montenegro', 'angela m', 'dr. angela']: yeah, well, i etched it with hydrochloric acid, cupric chloride, and distilled water.
+['booth', 'agent booth', 'special agent booth', 'special agent seeley booth', 'seeley', 'seeley booth', 'mr. booth', 'mr booth', 'officer booth', 'boothy', 'boothie', 'bth', 'bohth', 'boof', 'dr. booth']: yada yada yada. okay, say something that's gonna make me happy.
+['angela', 'angela montenegro', 'ms. montenegro', 'ms montenegro', 'ang', 'ange', 'an', 'a.montenegro', 'angella', 'angla', 'angelina', 'miss montenegro', 'angela m', 'dr. angela']: well, a little happy, a little sad. i was able to restore the last four digits but that's it.
+int. fbi headquarters - booth's office
+['booth', 'agent booth', 'special agent booth', 'special agent seeley booth', 'seeley', 'seeley booth', 'mr. booth', 'mr booth', 'officer booth', 'boothy', 'boothie', 'bth', 'bohth', 'boof', 'dr. booth']: well, based on the truck's rear axle, it was a nine-inch dana spicer model - american-made pick-up from '94 to '02.
+['angela', 'angela montenegro', 'ms. montenegro', 'ms montenegro', 'ang', 'ange', 'an', 'a.montenegro', 'angella', 'angla', 'angelina', 'miss montenegro', 'angela m', 'dr. angela']: yada yada.
+['booth', 'agent booth', 'special agent booth', 'special agent seeley booth', 'seeley', 'seeley booth', 'mr. booth', 'mr booth', 'officer booth', 'boothy', 'boothie', 'bth', 'bohth', 'boof', 'dr. booth']: well, with your four numbers, i should be able to get a match from the dmv. thanks for making me happy.
+['angela', 'angela montenegro', 'ms. montenegro', 'ms montenegro', 'ang', 'ange', 'an', 'a.montenegro', 'angella', 'angla', 'angelina', 'miss montenegro', 'angela m', 'dr. angela']: you got it.
+(booth closes the conversation. sweets has entered his office.)
+['booth', 'agent booth', 'special agent booth', 'special agent seeley booth', 'seeley', 'seeley booth', 'mr. booth', 'mr booth', 'officer booth', 'boothy', 'boothie', 'bth', 'bohth', 'boof', 'dr. booth']: do you ever knock?
+['sweets', 'dr. sweets', 'dr sweets', 'lance', 'lance sweets', 'dr. lance', 'dr lance sweets', 'dr lance', 'agent sweets', 'doc sweets', 'l.sweets']: i got a message you wanted to see me.
+['booth', 'agent booth', 'special agent booth', 'special agent seeley booth', 'seeley', 'seeley booth', 'mr. booth', 'mr booth', 'officer booth', 'boothy', 'boothie', 'bth', 'bohth', 'boof', 'dr. booth']: yeah, actually. have a seat. (sweets sits.) i need your professional opinion on a personal matter.
+['sweets', 'dr. sweets', 'dr sweets', 'lance', 'lance sweets', 'dr. lance', 'dr lance sweets', 'dr lance', 'agent sweets', 'doc sweets', 'l.sweets']: this is a rare moment. is it about dr. brennan and hannah?
+['booth', 'agent booth', 'special agent booth', 'special agent seeley booth', 'seeley', 'seeley booth', 'mr. booth', 'mr booth', 'officer booth', 'boothy', 'boothie', 'bth', 'bohth', 'boof', 'dr. booth']: no. sorry to disappoint.
+['sweets', 'dr. sweets', 'dr sweets', 'lance', 'lance sweets', 'dr. lance', 'dr lance sweets', 'dr lance', 'agent sweets', 'doc sweets', 'l.sweets']: okay. sorry. shouldn't have jumped the gun. go ahead.
+['booth', 'agent booth', 'special agent booth', 'special agent seeley booth', 'seeley', 'seeley booth', 'mr. booth', 'mr booth', 'officer booth', 'boothy', 'boothie', 'bth', 'bohth', 'boof', 'dr. booth']: it's about parker. parker didn't like hannah.
+['sweets', 'dr. sweets', 'dr sweets', 'lance', 'lance sweets', 'dr. lance', 'dr lance sweets', 'dr lance', 'agent sweets', 'doc sweets', 'l.sweets']: oh.
+['booth', 'agent booth', 'special agent booth', 'special agent seeley booth', 'seeley', 'seeley booth', 'mr. booth', 'mr booth', 'officer booth', 'boothy', 'boothie', 'bth', 'bohth', 'boof', 'dr. booth']: yeah, right?
+['sweets', 'dr. sweets', 'dr sweets', 'lance', 'lance sweets', 'dr. lance', 'dr lance sweets', 'dr lance', 'agent sweets', 'doc sweets', 'l.sweets']: i understand your concern. when did they meet?
+['booth', 'agent booth', 'special agent booth', 'special agent seeley booth', 'seeley', 'seeley booth', 'mr. booth', 'mr booth', 'officer booth', 'boothy', 'boothie', 'bth', 'bohth', 'boof', 'dr. booth']: no, they haven't, you know, he stays with me on the weekends when she's not around. he knows that we're dating so last weekend, at breakfast, i ask him if he wants some chocolate milk. he looks at me, he goes, "daddy, i hate your new girlfriend".
+['sweets', 'dr. sweets', 'dr sweets', 'lance', 'lance sweets', 'dr. lance', 'dr lance sweets', 'dr lance', 'agent sweets', 'doc sweets', 'l.sweets']: did you ask him why?
+['booth', 'agent booth', 'special agent booth', 'special agent seeley booth', 'seeley', 'seeley booth', 'mr. booth', 'mr booth', 'officer booth', 'boothy', 'boothie', 'bth', 'bohth', 'boof', 'dr. booth']: no, i didn't, it was awkward. he went back to watching cartoons. i mean, the point is, like, they have to meet sometime, right?
+['sweets', 'dr. sweets', 'dr sweets', 'lance', 'lance sweets', 'dr. lance', 'dr lance sweets', 'dr lance', 'agent sweets', 'doc sweets', 'l.sweets']: well, yeah, if your relationship with hannah is serious then -
+['booth', 'agent booth', 'special agent booth', 'special agent seeley booth', 'seeley', 'seeley booth', 'mr. booth', 'mr booth', 'officer booth', 'boothy', 'boothie', 'bth', 'bohth', 'boof', 'dr. booth']: - it is serious.
+['sweets', 'dr. sweets', 'dr sweets', 'lance', 'lance sweets', 'dr. lance', 'dr lance sweets', 'dr lance', 'agent sweets', 'doc sweets', 'l.sweets']: i wasn't questioning that -
+['booth', 'agent booth', 'special agent booth', 'special agent seeley booth', 'seeley', 'seeley booth', 'mr. booth', 'mr booth', 'officer booth', 'boothy', 'boothie', 'bth', 'bohth', 'boof', 'dr. booth']: - it sounded like you were.
+['sweets', 'dr. sweets', 'dr sweets', 'lance', 'lance sweets', 'dr. lance', 'dr lance sweets', 'dr lance', 'agent sweets', 'doc sweets', 'l.sweets']: no, i wasn't.
+['booth', 'agent booth', 'special agent booth', 'special agent seeley booth', 'seeley', 'seeley booth', 'mr. booth', 'mr booth', 'officer booth', 'boothy', 'boothie', 'bth', 'bohth', 'boof', 'dr. booth']: well, it's serious.
+['sweets', 'dr. sweets', 'dr sweets', 'lance', 'lance sweets', 'dr. lance', 'dr lance sweets', 'dr lance', 'agent sweets', 'doc sweets', 'l.sweets']: then they have to meet. parker could be angry because he senses how much hannah means to you and feels that you don't want him to meet her.
+['booth', 'agent booth', 'special agent booth', 'special agent seeley booth', 'seeley', 'seeley booth', 'mr. booth', 'mr booth', 'officer booth', 'boothy', 'boothie', 'bth', 'bohth', 'boof', 'dr. booth']: but i do, i just want it to be right. i want it to be a perfect time.
+['sweets', 'dr. sweets', 'dr sweets', 'lance', 'lance sweets', 'dr. lance', 'dr lance sweets', 'dr lance', 'agent sweets', 'doc sweets', 'l.sweets']: right, do you think there is such a thing?
+['booth', 'agent booth', 'special agent booth', 'special agent seeley booth', 'seeley', 'seeley booth', 'mr. booth', 'mr booth', 'officer booth', 'boothy', 'boothie', 'bth', 'bohth', 'boof', 'dr. booth']: enough with the questions, all right? just earn your coin and tell me what to do.
+['sweets', 'dr. sweets', 'dr sweets', 'lance', 'lance sweets', 'dr. lance', 'dr lance sweets', 'dr lance', 'agent sweets', 'doc sweets', 'l.sweets']: accept that you're entering a situation where the outcome is uncertain. the only thing certain is your love for your son and his trust in you. if you trust him as much and trust hannah, then, it might take a little time but i think the three of you should be fine.
+['booth', 'agent booth', 'special agent booth', 'special agent seeley booth', 'seeley', 'seeley booth', 'mr. booth', 'mr booth', 'officer booth', 'boothy', 'boothie', 'bth', 'bohth', 'boof', 'dr. booth']: fine. (sweets smiles. booth points a finger at him.) if you're wrong about this, you're paying.
+int. jeffersonian
+(daisy and hodgins are walking onto the forensic platform)
+['daisy', 'daisy wick', 'intern daisy', 'ms. wick', 'd. wick', 'miss wick', 'daizy', 'dasi']: that white powder is magnesium oxide, isn't it?
+['hodgins', 'jack hodgins', 'jack', 'dr. hodgins', 'dr hodgins', 'dr. jack', 'mr. hodgins', 'hodges', 'hodg', 'jack h', 'hodginz', 'dr hodges']: (he swipes his access card) yeah, how did you know?
+['daisy', 'daisy wick', 'intern daisy', 'ms. wick', 'd. wick', 'miss wick', 'daizy', 'dasi']: as you saw, the victim's bones appeared to have melted which is not possible.
+['hodgins', 'jack hodgins', 'jack', 'dr. hodgins', 'dr hodgins', 'dr. jack', 'mr. hodgins', 'hodges', 'hodg', 'jack h', 'hodginz', 'dr hodges']: right, because...
+daisy and hodgins: (simultaneously) ... bones don't melt.
+['daisy', 'daisy wick', 'intern daisy', 'ms. wick', 'd. wick', 'miss wick', 'daizy', 'dasi']: exactly. but, magnesium burns hot and fast. if the bones were exposed to a magnesium fire, which burned between 15 and 45 minutes, at a temperature of 500 degrees celsius then -
+['hodgins', 'jack hodgins', 'jack', 'dr. hodgins', 'dr hodgins', 'dr. jack', 'mr. hodgins', 'hodges', 'hodg', 'jack h', 'hodginz', 'dr hodges']: ... the biogenetic composition and structure of the bone mineral would have crystallized and the bones would appear as if they had melted!
+(they walk off the forensic platform after hodgins notes something down on a clipboard)
+['daisy', 'daisy wick', 'intern daisy', 'ms. wick', 'd. wick', 'miss wick', 'daizy', 'dasi']: yes. although, i thought of it first, if anyone from the fbi should ask.
+(they continue walking into...)
+int. jeffersonian - ookey room
+['hodgins', 'jack hodgins', 'jack', 'dr. hodgins', 'dr hodgins', 'dr. jack', 'mr. hodgins', 'hodges', 'hodg', 'jack h', 'hodginz', 'dr hodges']: really? but for magnesium to ignite, it needs to be wet first. so, last night, when the mass spec identified magnesium, i checked the meteorological charts (he pulls up the information on the computer) a light rain fell last night in the vicinity where the body was found and i believe i thought of that first but then, i am king of the lab and you? you are my serf.
+int. jesse's chopper shop
+(booth is walking through the shop. he turns off randy siminoff's equipment to catch his attention.)
+randy siminoff: (takes off welding helmut) what the -
+['booth', 'agent booth', 'special agent booth', 'special agent seeley booth', 'seeley', 'seeley booth', 'mr. booth', 'mr booth', 'officer booth', 'boothy', 'boothie', 'bth', 'bohth', 'boof', 'dr. booth']: (flashes his badge) fbi. looking for jesse wilson.
+randy siminoff: jesse's in the back.
+['booth', 'agent booth', 'special agent booth', 'special agent seeley booth', 'seeley', 'seeley booth', 'mr. booth', 'mr booth', 'officer booth', 'boothy', 'boothie', 'bth', 'bohth', 'boof', 'dr. booth']: (gestures to a garbage bin) any chance those are magnesium scraps?
+randy siminoff: yeah, we use cast magnesium discs in the wheels, why?
+['booth', 'agent booth', 'special agent booth', 'special agent seeley booth', 'seeley', 'seeley booth', 'mr. booth', 'mr booth', 'officer booth', 'boothy', 'boothie', 'bth', 'bohth', 'boof', 'dr. booth']: i don't know. just got a thing for magnesium, that's all.
+(booth continues walking. stops when he sees jesse wilson.)
+['booth', 'agent booth', 'special agent booth', 'special agent seeley booth', 'seeley', 'seeley booth', 'mr. booth', 'mr booth', 'officer booth', 'boothy', 'boothie', 'bth', 'bohth', 'boof', 'dr. booth']: (flashes his badge) jesse wilson?
+jesse wilson: yeah.
+['booth', 'agent booth', 'special agent booth', 'special agent seeley booth', 'seeley', 'seeley booth', 'mr. booth', 'mr booth', 'officer booth', 'boothy', 'boothie', 'bth', 'bohth', 'boof', 'dr. booth']: fbi, agent booth.
+jesse wilson: can i help you?
+['booth', 'agent booth', 'special agent booth', 'special agent seeley booth', 'seeley', 'seeley booth', 'mr. booth', 'mr booth', 'officer booth', 'boothy', 'boothie', 'bth', 'bohth', 'boof', 'dr. booth']: yeah, you missing a truck, jesse?
+jesse wilson: no.
+['booth', 'agent booth', 'special agent booth', 'special agent seeley booth', 'seeley', 'seeley booth', 'mr. booth', 'mr booth', 'officer booth', 'boothy', 'boothie', 'bth', 'bohth', 'boof', 'dr. booth']: well, we found a burnt truck registered to your company's name with a dead body in the driver's seat with a bullet in his chest.
+jesse wilson: was the truck haulin' magnesium?
+['booth', 'agent booth', 'special agent booth', 'special agent seeley booth', 'seeley', 'seeley booth', 'mr. booth', 'mr booth', 'officer booth', 'boothy', 'boothie', 'bth', 'bohth', 'boof', 'dr. booth']: and if it was?
+jesse wilson: then the driver was george lyford, an employee. didn't show up this morning. he's dead?
+['booth', 'agent booth', 'special agent booth', 'special agent seeley booth', 'seeley', 'seeley booth', 'mr. booth', 'mr booth', 'officer booth', 'boothy', 'boothie', 'bth', 'bohth', 'boof', 'dr. booth']: as dead as dead could be.
+jesse wilson: poor bastard was having money problems. so, i gave him those mag scraps so he could make a few extra bucks at the recycling plant.
+['booth', 'agent booth', 'special agent booth', 'special agent seeley booth', 'seeley', 'seeley booth', 'mr. booth', 'mr booth', 'officer booth', 'boothy', 'boothie', 'bth', 'bohth', 'boof', 'dr. booth']: magnesium, that's expensive stuff. you just gave it to him, just like that, 'cause you're a nice guy?
+jesse wilson: yeah, we've been friends since high school. never done anything for a friend in need?
+['booth', 'agent booth', 'special agent booth', 'special agent seeley booth', 'seeley', 'seeley booth', 'mr. booth', 'mr booth', 'officer booth', 'boothy', 'boothie', 'bth', 'bohth', 'boof', 'dr. booth']: that tattoo you have on your inside forearm - that military?
+jesse wilson: yeah. patton's third army. my granddaddy kill a bunch of nazi in world war ii. he was a real hero.
+['booth', 'agent booth', 'special agent booth', 'special agent seeley booth', 'seeley', 'seeley booth', 'mr. booth', 'mr booth', 'officer booth', 'boothy', 'boothie', 'bth', 'bohth', 'boof', 'dr. booth']: right. he teach you how to fire a gun? your friend, george, there, he was kill by a 9 mm slug. i checked the registry and you own a german luger - nine millimetre. they used those gun in wwii, right?
+jesse wilson: i don't like your implication.
+['booth', 'agent booth', 'special agent booth', 'special agent seeley booth', 'seeley', 'seeley booth', 'mr. booth', 'mr booth', 'officer booth', 'boothy', 'boothie', 'bth', 'bohth', 'boof', 'dr. booth']: i can only imagine, i mean, you see your old friend stealing your magnesium and loading it into your truck. you follow him and -
+jesse wilson: - i gave him those scraps 'cause his wife was raggin' on him to bring in more money. now, ou can either arrest me or you get the hell out of my shop.
+['booth', 'agent booth', 'special agent booth', 'special agent seeley booth', 'seeley', 'seeley booth', 'mr. booth', 'mr booth', 'officer booth', 'boothy', 'boothie', 'bth', 'bohth', 'boof', 'dr. booth']: right.
+(booth leaves.)
+int. jeffersonian - bone room
+(daisy is examining the bones. brennan walks in and clears her throat.)
+['daisy', 'daisy wick', 'intern daisy', 'ms. wick', 'd. wick', 'miss wick', 'daizy', 'dasi']: i was looking at the bullet trauma again. our initial presumption was not correct. the bullet was not cause of death.
+['brennan', 'dr. brennan', 'dr brennan', 'temperance', 'temperance brennan', 'dr. temperance', 'dr temperance', 'dr. temperance brennan', 'dr temperance brennan', 'bones', 'temp', 'dr bones', 'ms. brennan', 'ms brennan', 'brnnan', 'brannan', 'dr.brennan', 'dr.brenan']: your evidence, ms. wick.
+['daisy', 'daisy wick', 'intern daisy', 'ms. wick', 'd. wick', 'miss wick', 'daizy', 'dasi']: well, on the x-ray, it appeared the bullet was embedded quite deeply into the sternum. but, after my excellent observation that magnesium caused the bones to crystallize and thus only appear to be melted, i re-examined the point of entry.
+(daisy enlarges the x-ray on the screen.)
+['brennan', 'dr. brennan', 'dr brennan', 'temperance', 'temperance brennan', 'dr. temperance', 'dr temperance', 'dr. temperance brennan', 'dr temperance brennan', 'bones', 'temp', 'dr bones', 'ms. brennan', 'ms brennan', 'brnnan', 'brannan', 'dr.brennan', 'dr.brenan']: the bullet only penetrated a few millimetres.
+['daisy', 'daisy wick', 'intern daisy', 'ms. wick', 'd. wick', 'miss wick', 'daizy', 'dasi']: not enough to cause death or even incapacitation.
+['brennan', 'dr. brennan', 'dr brennan', 'temperance', 'temperance brennan', 'dr. temperance', 'dr temperance', 'dr. temperance brennan', 'dr temperance brennan', 'bones', 'temp', 'dr bones', 'ms. brennan', 'ms brennan', 'brnnan', 'brannan', 'dr.brennan', 'dr.brenan']: so, the bone warped around the bullet because of the extreme heat of the magnesium fire. very good.
+['daisy', 'daisy wick', 'intern daisy', 'ms. wick', 'd. wick', 'miss wick', 'daizy', 'dasi']: i know. you'll put in a good word for me with the fbi, won't you? for my clearance?
+['brennan', 'dr. brennan', 'dr brennan', 'temperance', 'temperance brennan', 'dr. temperance', 'dr temperance', 'dr. temperance brennan', 'dr temperance brennan', 'bones', 'temp', 'dr bones', 'ms. brennan', 'ms brennan', 'brnnan', 'brannan', 'dr.brennan', 'dr.brenan']: it's a psych evaluation. i'm of no value when it comes to that.
+['daisy', 'daisy wick', 'intern daisy', 'ms. wick', 'd. wick', 'miss wick', 'daizy', 'dasi']: that's true.
+['brennan', 'dr. brennan', 'dr brennan', 'temperance', 'temperance brennan', 'dr. temperance', 'dr temperance', 'dr. temperance brennan', 'dr temperance brennan', 'bones', 'temp', 'dr bones', 'ms. brennan', 'ms brennan', 'brnnan', 'brannan', 'dr.brennan', 'dr.brenan']: so, if the bullet didn't kill him, how did it get there?
+['daisy', 'daisy wick', 'intern daisy', 'ms. wick', 'd. wick', 'miss wick', 'daizy', 'dasi']: perhaps it was shot from a great distance so the impact wasn't sufficient to be fatal?
+(cam enters.)
+['cam', 'camille', 'camille saroyan', 'dr. saroyan', 'dr saroyan', 'dr cam', 'dr. cam', 'cam s', 'ms. saroyan', 'ms saroyan', 'dr. camille', 'cammy', 'camil', 'cam saroyan']: booth talked to the owner of the truck, jesse wilson. wilson id'd the victim as george lyford.
+['brennan', 'dr. brennan', 'dr brennan', 'temperance', 'temperance brennan', 'dr. temperance', 'dr temperance', 'dr. temperance brennan', 'dr temperance brennan', 'bones', 'temp', 'dr bones', 'ms. brennan', 'ms brennan', 'brnnan', 'brannan', 'dr.brennan', 'dr.brenan']: we'll get lyford's medical records and confirm.
+['cam', 'camille', 'camille saroyan', 'dr. saroyan', 'dr saroyan', 'dr cam', 'dr. cam', 'cam s', 'ms. saroyan', 'ms saroyan', 'dr. camille', 'cammy', 'camil', 'cam saroyan']: wilson claims the victim had been fighting with his wife about money. one week ago, the wife took out an insurance policy on george's life.
+['daisy', 'daisy wick', 'intern daisy', 'ms. wick', 'd. wick', 'miss wick', 'daizy', 'dasi']: oh my god. the wife totally torched him! (brennan gives her a look.) i was just trying to go with my gut. it's an fbi thing.
+act three
+int. high school
+(booth and brennan are standing outside kathy lyford's classroom, where she has detention duty.)
+['booth', 'agent booth', 'special agent booth', 'special agent seeley booth', 'seeley', 'seeley booth', 'mr. booth', 'mr booth', 'officer booth', 'boothy', 'boothie', 'bth', 'bohth', 'boof', 'dr. booth']: that's kathy lyford, the victim's wife. she has detention duty for another hour, so...
+['brennan', 'dr. brennan', 'dr brennan', 'temperance', 'temperance brennan', 'dr. temperance', 'dr temperance', 'dr. temperance brennan', 'dr temperance brennan', 'bones', 'temp', 'dr bones', 'ms. brennan', 'ms brennan', 'brnnan', 'brannan', 'dr.brennan', 'dr.brenan']: i was once placed in detention for calling my science teacher a fool.
+['booth', 'agent booth', 'special agent booth', 'special agent seeley booth', 'seeley', 'seeley booth', 'mr. booth', 'mr booth', 'officer booth', 'boothy', 'boothie', 'bth', 'bohth', 'boof', 'dr. booth']: you can't do that, bones.
+['brennan', 'dr. brennan', 'dr brennan', 'temperance', 'temperance brennan', 'dr. temperance', 'dr temperance', 'dr. temperance brennan', 'dr temperance brennan', 'bones', 'temp', 'dr bones', 'ms. brennan', 'ms brennan', 'brnnan', 'brannan', 'dr.brennan', 'dr.brenan']: booth, he was trying to teach quantum mechanics without even a rudimentary understanding of planck's constant. what would you have called him?
+['booth', 'agent booth', 'special agent booth', 'special agent seeley booth', 'seeley', 'seeley booth', 'mr. booth', 'mr booth', 'officer booth', 'boothy', 'boothie', 'bth', 'bohth', 'boof', 'dr. booth']: you have every right. i didn't know the details, i'm sorry.
+(kathy lyford looks up from her desk and sees booth and brennan through the window. booth holds up his badge and taps the glass.)
+['booth', 'agent booth', 'special agent booth', 'special agent seeley booth', 'seeley', 'seeley booth', 'mr. booth', 'mr booth', 'officer booth', 'boothy', 'boothie', 'bth', 'bohth', 'boof', 'dr. booth']: fbi. i need to talk to you for one second. (randy siminoff turns around in his seat. he turns to brennan.) woah, do you see that kid right there in the red hat? i saw him at the chopper shop. i tell you what, when i talk to kathy out here, you go in there and talk to him.
+['brennan', 'dr. brennan', 'dr brennan', 'temperance', 'temperance brennan', 'dr. temperance', 'dr temperance', 'dr. temperance brennan', 'dr temperance brennan', 'bones', 'temp', 'dr bones', 'ms. brennan', 'ms brennan', 'brnnan', 'brannan', 'dr.brennan', 'dr.brenan']: no. teenagers are dull-witted and very difficult to talk to.
+['booth', 'agent booth', 'special agent booth', 'special agent seeley booth', 'seeley', 'seeley booth', 'mr. booth', 'mr booth', 'officer booth', 'boothy', 'boothie', 'bth', 'bohth', 'boof', 'dr. booth']: sorry, bones, but you're all i got, okay? i can't go in there and question him - you know, i need a parent or an advocate but you're not law enforcement (whispers the last part because kathy lyford is making her way out) so you can ask anything that you want.
+(kathy lyford opens the door.)
+kathy lyford: can i help you guys?
+['booth', 'agent booth', 'special agent booth', 'special agent seeley booth', 'seeley', 'seeley booth', 'mr. booth', 'mr booth', 'officer booth', 'boothy', 'boothie', 'bth', 'bohth', 'boof', 'dr. booth']: yeah, (shows his badge) fbi. we just have to ask you a few questions, if you don't mind.
+kathy lyford: of course.
+(kathy lyford and booth leave and brennan enters the classroom.)
+int. high school - classroom
+(seated are randy siminoff, paul linoto, jill macintosh, and amber flaire. amber is sitting on randy's lap.)
+jill macintosh: you the sub?
+['brennan', 'dr. brennan', 'dr brennan', 'temperance', 'temperance brennan', 'dr. temperance', 'dr temperance', 'dr. temperance brennan', 'dr temperance brennan', 'bones', 'temp', 'dr bones', 'ms. brennan', 'ms brennan', 'brnnan', 'brannan', 'dr.brennan', 'dr.brenan']: no. i'm a forensic anthropologist. and, for the record, i'm totally against detention as a form of juvenile punishment.
+paul linoto: yeah, if i wanna smoke, it's none of big brother's business.
+['brennan', 'dr. brennan', 'dr brennan', 'temperance', 'temperance brennan', 'dr. temperance', 'dr temperance', 'dr. temperance brennan', 'dr temperance brennan', 'bones', 'temp', 'dr bones', 'ms. brennan', 'ms brennan', 'brnnan', 'brannan', 'dr.brennan', 'dr.brenan']: oh, your big brother attends this school.
+paul linoto: i'm talking about the teachers. we have rights. i take american history so i know.
+jill macintosh: they try to control everything we do, you know, like we're still kids or something.
+['brennan', 'dr. brennan', 'dr brennan', 'temperance', 'temperance brennan', 'dr. temperance', 'dr temperance', 'dr. temperance brennan', 'dr temperance brennan', 'bones', 'temp', 'dr bones', 'ms. brennan', 'ms brennan', 'brnnan', 'brannan', 'dr.brennan', 'dr.brenan']: you are certainly not kids. you've probably been menstruating for several years. in many primitive cultures, you'd be responsible for children of your own by now.
+jill macintosh: hm. you're cool.
+['brennan', 'dr. brennan', 'dr brennan', 'temperance', 'temperance brennan', 'dr. temperance', 'dr temperance', 'dr. temperance brennan', 'dr temperance brennan', 'bones', 'temp', 'dr bones', 'ms. brennan', 'ms brennan', 'brnnan', 'brannan', 'dr.brennan', 'dr.brenan']: i am?
+amber flaire: yeah, maybe you can help get me out of here. i don't even know why i'm here in the first place.
+jill macintosh: you cheated on the chem. test.
+amber flaire: i'm from a broken home. that's gotta count for something.
+['brennan', 'dr. brennan', 'dr brennan', 'temperance', 'temperance brennan', 'dr. temperance', 'dr temperance', 'dr. temperance brennan', 'dr temperance brennan', 'bones', 'temp', 'dr bones', 'ms. brennan', 'ms brennan', 'brnnan', 'brannan', 'dr.brennan', 'dr.brenan']: well, what about you, sir? (she points to randy) why are you here?
+(randy scoffs.)
+amber flaire: randy doesn't talk much.
+paul linoto: the dude downloaded porn on the library computer.
+amber flaire: you're a little horn dog, aren't you? you know, i have a better way to make you unzip your pants.
+(amber rips open the zipper of his jeans. he pushes her off.)
+randy siminoff: damn it, amber!
+(the other students laugh.)
+['brennan', 'dr. brennan', 'dr brennan', 'temperance', 'temperance brennan', 'dr. temperance', 'dr temperance', 'dr. temperance brennan', 'dr temperance brennan', 'bones', 'temp', 'dr bones', 'ms. brennan', 'ms brennan', 'brnnan', 'brannan', 'dr.brennan', 'dr.brenan']: as adolescents, your decision-making process is compromised by hormonal changes. you can hardly be held accountable for your behaviour. (to randy) you work repairing motorcycles, don't you?
+(randy gets up and leaves without answering.)
+amber flaire: told you he didn't like to talk.
+int. high school - hallway
+kathy lyford: (crying) are you sure it's george?
+['booth', 'agent booth', 'special agent booth', 'special agent seeley booth', 'seeley', 'seeley booth', 'mr. booth', 'mr booth', 'officer booth', 'boothy', 'boothie', 'bth', 'bohth', 'boof', 'dr. booth']: yeah, i'm sure.
+kathy lyford: okay, i gotta go. i should call his parents.
+(she starts to walk off but booth stops her.)
+['booth', 'agent booth', 'special agent booth', 'special agent seeley booth', 'seeley', 'seeley booth', 'mr. booth', 'mr booth', 'officer booth', 'boothy', 'boothie', 'bth', 'bohth', 'boof', 'dr. booth']: kathy, uh, last week - you took out a real expensive life insurance policy on your husband.
+kathy lyford: so?
+['booth', 'agent booth', 'special agent booth', 'special agent seeley booth', 'seeley', 'seeley booth', 'mr. booth', 'mr booth', 'officer booth', 'boothy', 'boothie', 'bth', 'bohth', 'boof', 'dr. booth']: i think you know what i'm suggesting here.
+kathy lyford: wait. that - that policy was george's idea. okay? we've been trying to have a baby and if something happened to him, he wanted to make sure that we were okay.
+['booth', 'agent booth', 'special agent booth', 'special agent seeley booth', 'seeley', 'seeley booth', 'mr. booth', 'mr booth', 'officer booth', 'boothy', 'boothie', 'bth', 'bohth', 'boof', 'dr. booth']: your husband didn't come home last night; you don't find that odd?
+kathy lyford: i was on a field trip with my students in mt. vernon. i wasn't even going to see him until tonight.
+['booth', 'agent booth', 'special agent booth', 'special agent seeley booth', 'seeley', 'seeley booth', 'mr. booth', 'mr booth', 'officer booth', 'boothy', 'boothie', 'bth', 'bohth', 'boof', 'dr. booth']: i see.
+kathy lyford: i had no reason to believe he was missing, okay? i love my husband. i will - i will do anything to help your investigation.
+['booth', 'agent booth', 'special agent booth', 'special agent seeley booth', 'seeley', 'seeley booth', 'mr. booth', 'mr booth', 'officer booth', 'boothy', 'boothie', 'bth', 'bohth', 'boof', 'dr. booth']: good. i'd like you to come along with me for further questioning.
+kathy lyford: fine.
+int. jeffersonian - bone room
+(daisy and hodgins are discussing the victim.)
+['daisy', 'daisy wick', 'intern daisy', 'ms. wick', 'd. wick', 'miss wick', 'daizy', 'dasi']: i extracted the bullet from the victim's sternum. i assumed he was shot.
+['hodgins', 'jack hodgins', 'jack', 'dr. hodgins', 'dr hodgins', 'dr. jack', 'mr. hodgins', 'hodges', 'hodg', 'jack h', 'hodginz', 'dr hodges']: logical assumption.
+['daisy', 'daisy wick', 'intern daisy', 'ms. wick', 'd. wick', 'miss wick', 'daizy', 'dasi']: but, there are no striations on it.
+['hodgins', 'jack hodgins', 'jack', 'dr. hodgins', 'dr hodgins', 'dr. jack', 'mr. hodgins', 'hodges', 'hodg', 'jack h', 'hodginz', 'dr hodges']: which means it wasn't fired from a gun.
+['daisy', 'daisy wick', 'intern daisy', 'ms. wick', 'd. wick', 'miss wick', 'daizy', 'dasi']: so, how would it have wound up embedded in his chest?
+['hodgins', 'jack hodgins', 'jack', 'dr. hodgins', 'dr hodgins', 'dr. jack', 'mr. hodgins', 'hodges', 'hodg', 'jack h', 'hodginz', 'dr hodges']: you suggesting i conduct an experiment?
+['daisy', 'daisy wick', 'intern daisy', 'ms. wick', 'd. wick', 'miss wick', 'daizy', 'dasi']: my idea, so, you have to let me help, right? (sees the look hodgins gives her and adds) your highness.
+(hodgins smiles and starts to walk out.)
+int. fbi headquarters - booth's office
+(booth is sitting at his desk and hannah walks in.)
+['hannah', 'hannah burley', 'journalist hannah', 'booth’s girlfriend']: hey. (shows him the picture she dropped, now in a new frame) i hope the frame's okay.
+(booth gets up)
+['booth', 'agent booth', 'special agent booth', 'special agent seeley booth', 'seeley', 'seeley booth', 'mr. booth', 'mr booth', 'officer booth', 'boothy', 'boothie', 'bth', 'bohth', 'boof', 'dr. booth']: look at that. that's great.
+['hannah', 'hannah burley', 'journalist hannah', 'booth’s girlfriend']: you two look so much alike and the world is better for it.
+(hannah hands him the picture)
+['booth', 'agent booth', 'special agent booth', 'special agent seeley booth', 'seeley', 'seeley booth', 'mr. booth', 'mr booth', 'officer booth', 'boothy', 'boothie', 'bth', 'bohth', 'boof', 'dr. booth']: i want you to meet him.
+['hannah', 'hannah burley', 'journalist hannah', 'booth’s girlfriend']: (surprised) you sure?
+['booth', 'agent booth', 'special agent booth', 'special agent seeley booth', 'seeley', 'seeley booth', 'mr. booth', 'mr booth', 'officer booth', 'boothy', 'boothie', 'bth', 'bohth', 'boof', 'dr. booth']: you don't wanna meet him?
+['hannah', 'hannah burley', 'journalist hannah', 'booth’s girlfriend']: of course. but -
+['booth', 'agent booth', 'special agent booth', 'special agent seeley booth', 'seeley', 'seeley booth', 'mr. booth', 'mr booth', 'officer booth', 'boothy', 'boothie', 'bth', 'bohth', 'boof', 'dr. booth']: - what?
+['hannah', 'hannah burley', 'journalist hannah', 'booth’s girlfriend']: when i told you i wasn't very good with kids... that's true. i don't wanna mess anything up between you and your son.
+['booth', 'agent booth', 'special agent booth', 'special agent seeley booth', 'seeley', 'seeley booth', 'mr. booth', 'mr booth', 'officer booth', 'boothy', 'boothie', 'bth', 'bohth', 'boof', 'dr. booth']: look, i love you, all right? he's gonna love you, too. (he walks around his desk to stand in front of hannah) and don't think of him as a kid; just think of him as a short guy who's not allowed to drink.
+['hannah', 'hannah burley', 'journalist hannah', 'booth’s girlfriend']: what if he hates me?
+['booth', 'agent booth', 'special agent booth', 'special agent seeley booth', 'seeley', 'seeley booth', 'mr. booth', 'mr booth', 'officer booth', 'boothy', 'boothie', 'bth', 'bohth', 'boof', 'dr. booth']: that's impossible.
+int. fbi headquarters - interrogation room
+(sweets is talking to kathy lyford)
+kathy lyford: look, i already told that booth guy that george and i were in debt. why do i have to keep going through this?
+['sweets', 'dr. sweets', 'dr sweets', 'lance', 'lance sweets', 'dr. lance', 'dr lance sweets', 'dr lance', 'agent sweets', 'doc sweets', 'l.sweets']: well, the fbi feels that i could provide a different perspective.
+kathy lyford: you're a shrink. you guys make things up. i don't have to say anything, you know
+['sweets', 'dr. sweets', 'dr sweets', 'lance', 'lance sweets', 'dr. lance', 'dr lance sweets', 'dr lance', 'agent sweets', 'doc sweets', 'l.sweets']: i know but cooperating would certainly help your situation. so, you and your husband, you fought over money.
+kathy lyford: like any couple, sure.
+['sweets', 'dr. sweets', 'dr sweets', 'lance', 'lance sweets', 'dr. lance', 'dr lance sweets', 'dr lance', 'agent sweets', 'doc sweets', 'l.sweets']: these are, uh, credit card statements (he holds up some papers) from the past year. i see you liked buying things off infomercials.
+kathy lyford: well, you can get good deals on tv because they buy in bulk.
+['sweets', 'dr. sweets', 'dr sweets', 'lance', 'lance sweets', 'dr. lance', 'dr lance sweets', 'dr lance', 'agent sweets', 'doc sweets', 'l.sweets']: gotcha. you also like online auctions... oh! i see you bought star wars trading cards.
+kathy lyford: yeah. growing up, me and my brothers were all fans of 'the force'.
+['sweets', 'dr. sweets', 'dr sweets', 'lance', 'lance sweets', 'dr. lance', 'dr lance sweets', 'dr lance', 'agent sweets', 'doc sweets', 'l.sweets']: i understand. i'm a star warrior, myself. (he clears his throat and imitates c3po) 'don't you call me a mindless philosopher, you overweight glob of grease'.
+kathy lyford: excuse me?
+['sweets', 'dr. sweets', 'dr sweets', 'lance', 'lance sweets', 'dr. lance', 'dr lance sweets', 'dr lance', 'agent sweets', 'doc sweets', 'l.sweets']: c3po. i sounded just like him. from star wars? that's, like, the most quoted line in the movie.
+kathy lyford: yeah, of course.
+['sweets', 'dr. sweets', 'dr sweets', 'lance', 'lance sweets', 'dr. lance', 'dr lance sweets', 'dr lance', 'agent sweets', 'doc sweets', 'l.sweets']: can you explain to me why you spent $500 on a jedi knight trading card with a red border when it's value was less than a dollar?
+kathy lyford: i don't know. i guess i made a mistake.
+['sweets', 'dr. sweets', 'dr sweets', 'lance', 'lance sweets', 'dr. lance', 'dr lance sweets', 'dr lance', 'agent sweets', 'doc sweets', 'l.sweets']: what about the, uh, clone wars card you bought last month? again, you spent $500 but you could probably find it right now online for fifty cents.
+kathy lyford: look, when i get stressed, i shop. you don't have to make it into a big deal.
+['sweets', 'dr. sweets', 'dr sweets', 'lance', 'lance sweets', 'dr. lance', 'dr lance sweets', 'dr lance', 'agent sweets', 'doc sweets', 'l.sweets']: i'm not making this into anything it's not. i assure you.
+kathy lyford: okay.
+ext. street - day
+(booth and brennan are walking towards the royal diner.)
+['booth', 'agent booth', 'special agent booth', 'special agent seeley booth', 'seeley', 'seeley booth', 'mr. booth', 'mr booth', 'officer booth', 'boothy', 'boothie', 'bth', 'bohth', 'boof', 'dr. booth']: so, hannah's gonna meet parker tomorrow.
+['brennan', 'dr. brennan', 'dr brennan', 'temperance', 'temperance brennan', 'dr. temperance', 'dr temperance', 'dr. temperance brennan', 'dr temperance brennan', 'bones', 'temp', 'dr bones', 'ms. brennan', 'ms brennan', 'brnnan', 'brannan', 'dr.brennan', 'dr.brenan']: you don't sound happy about that.
+['booth', 'agent booth', 'special agent booth', 'special agent seeley booth', 'seeley', 'seeley booth', 'mr. booth', 'mr booth', 'officer booth', 'boothy', 'boothie', 'bth', 'bohth', 'boof', 'dr. booth']: no, i am, it's gonna be great. it's gonna be really good - i just, i'm a little worried, you know.
+['brennan', 'dr. brennan', 'dr brennan', 'temperance', 'temperance brennan', 'dr. temperance', 'dr temperance', 'dr. temperance brennan', 'dr temperance brennan', 'bones', 'temp', 'dr bones', 'ms. brennan', 'ms brennan', 'brnnan', 'brannan', 'dr.brennan', 'dr.brenan']: because your loyalty lies with parker and if he doesn't accept hannah, you may lose the woman you love.
+['booth', 'agent booth', 'special agent booth', 'special agent seeley booth', 'seeley', 'seeley booth', 'mr. booth', 'mr booth', 'officer booth', 'boothy', 'boothie', 'bth', 'bohth', 'boof', 'dr. booth']: it's not that simple, bones.
+['brennan', 'dr. brennan', 'dr brennan', 'temperance', 'temperance brennan', 'dr. temperance', 'dr temperance', 'dr. temperance brennan', 'dr temperance brennan', 'bones', 'temp', 'dr bones', 'ms. brennan', 'ms brennan', 'brnnan', 'brannan', 'dr.brennan', 'dr.brenan']: i suppose not. you could send him off to boarding school; that's what the english have done for many generations.
+['booth', 'agent booth', 'special agent booth', 'special agent seeley booth', 'seeley', 'seeley booth', 'mr. booth', 'mr booth', 'officer booth', 'boothy', 'boothie', 'bth', 'bohth', 'boof', 'dr. booth']: boarding school? i'm not sending him to boarding school.
+['brennan', 'dr. brennan', 'dr brennan', 'temperance', 'temperance brennan', 'dr. temperance', 'dr temperance', 'dr. temperance brennan', 'dr temperance brennan', 'bones', 'temp', 'dr bones', 'ms. brennan', 'ms brennan', 'brnnan', 'brannan', 'dr.brennan', 'dr.brenan']: then, i wouldn't worry if i were you.
+['booth', 'agent booth', 'special agent booth', 'special agent seeley booth', 'seeley', 'seeley booth', 'mr. booth', 'mr booth', 'officer booth', 'boothy', 'boothie', 'bth', 'bohth', 'boof', 'dr. booth']: no?
+['brennan', 'dr. brennan', 'dr brennan', 'temperance', 'temperance brennan', 'dr. temperance', 'dr temperance', 'dr. temperance brennan', 'dr temperance brennan', 'bones', 'temp', 'dr bones', 'ms. brennan', 'ms brennan', 'brnnan', 'brannan', 'dr.brennan', 'dr.brenan']: won't do you any good. if your relationship falls apart, worrying won't salvage it.
+['booth', 'agent booth', 'special agent booth', 'special agent seeley booth', 'seeley', 'seeley booth', 'mr. booth', 'mr booth', 'officer booth', 'boothy', 'boothie', 'bth', 'bohth', 'boof', 'dr. booth']: oh, thanks, bones. i appreciate it.
+['brennan', 'dr. brennan', 'dr brennan', 'temperance', 'temperance brennan', 'dr. temperance', 'dr temperance', 'dr. temperance brennan', 'dr temperance brennan', 'bones', 'temp', 'dr bones', 'ms. brennan', 'ms brennan', 'brnnan', 'brannan', 'dr.brennan', 'dr.brenan']: of course.
+(sweets runs across the street to catch up to booth and brennan. they enter the diner together.)
+['sweets', 'dr. sweets', 'dr sweets', 'lance', 'lance sweets', 'dr. lance', 'dr lance sweets', 'dr lance', 'agent sweets', 'doc sweets', 'l.sweets']: kathy lyford spent thousands of dollars buying star wars trading cards online.
+['booth', 'agent booth', 'special agent booth', 'special agent seeley booth', 'seeley', 'seeley booth', 'mr. booth', 'mr booth', 'officer booth', 'boothy', 'boothie', 'bth', 'bohth', 'boof', 'dr. booth']: so? i had an aunt who spent every last dime on old-fashioned cookie jars. what's this have to do with our case?
+(they sit down at the counter and pick up menus.)
+['sweets', 'dr. sweets', 'dr sweets', 'lance', 'lance sweets', 'dr. lance', 'dr lance sweets', 'dr lance', 'agent sweets', 'doc sweets', 'l.sweets']: yeah, but there are hundreds of online merchants that sell star wars trading cards. kathy bought all of her cards from the same person at grossly inflated prices.
+['booth', 'agent booth', 'special agent booth', 'special agent seeley booth', 'seeley', 'seeley booth', 'mr. booth', 'mr booth', 'officer booth', 'boothy', 'boothie', 'bth', 'bohth', 'boof', 'dr. booth']: so you're thinking that she was somehow laundering money through that online merchant?
+(sweets nods.)
+['brennan', 'dr. brennan', 'dr brennan', 'temperance', 'temperance brennan', 'dr. temperance', 'dr temperance', 'dr. temperance brennan', 'dr temperance brennan', 'bones', 'temp', 'dr bones', 'ms. brennan', 'ms brennan', 'brnnan', 'brannan', 'dr.brennan', 'dr.brenan']: so, she was paying inflated prices for relatively worthless merchandise.
+['sweets', 'dr. sweets', 'dr sweets', 'lance', 'lance sweets', 'dr. lance', 'dr lance sweets', 'dr lance', 'agent sweets', 'doc sweets', 'l.sweets']: yeah, that's exactly what i'm thinking. kathy bought all of her cards from a seller named vader649.
+['booth', 'agent booth', 'special agent booth', 'special agent seeley booth', 'seeley', 'seeley booth', 'mr. booth', 'mr booth', 'officer booth', 'boothy', 'boothie', 'bth', 'bohth', 'boof', 'dr. booth']: i'll tell you what. i'll get a subpoena for the identity of this vader649. good work, sweets (booth punches him on the shoulder).
+['sweets', 'dr. sweets', 'dr sweets', 'lance', 'lance sweets', 'dr. lance', 'dr lance sweets', 'dr lance', 'agent sweets', 'doc sweets', 'l.sweets']: yeah, it was, wasn't it? job well done. well, you know...
+int. jeffersonian - ookey room
+(daisy and hodgins are setting up the experiment.)
+['hodgins', 'jack hodgins', 'jack', 'dr. hodgins', 'dr hodgins', 'dr. jack', 'mr. hodgins', 'hodges', 'hodg', 'jack h', 'hodginz', 'dr hodges']: 9 mm bullet is on the magnesium. now, i can see if the fire would be enough to set it off.
+['daisy', 'daisy wick', 'intern daisy', 'ms. wick', 'd. wick', 'miss wick', 'daizy', 'dasi']: proving that he was shot by ammunition that was stored in the car.
+['hodgins', 'jack hodgins', 'jack', 'dr. hodgins', 'dr hodgins', 'dr. jack', 'mr. hodgins', 'hodges', 'hodg', 'jack h', 'hodginz', 'dr hodges']: yeah, which would explain the lack of striations.
+['daisy', 'daisy wick', 'intern daisy', 'ms. wick', 'd. wick', 'miss wick', 'daizy', 'dasi']: a simple yet elegant thesis.
+['hodgins', 'jack hodgins', 'jack', 'dr. hodgins', 'dr hodgins', 'dr. jack', 'mr. hodgins', 'hodges', 'hodg', 'jack h', 'hodginz', 'dr hodges']: now, the mist simulates a light rain (he sprays water onto the magnesium strip) because water is needed to ignite the magnesium.
+['daisy', 'daisy wick', 'intern daisy', 'ms. wick', 'd. wick', 'miss wick', 'daizy', 'dasi']: and, although the magnesium can be ignited by heat from the rising sun, i'll use these burners to save us some time.
+['hodgins', 'jack hodgins', 'jack', 'dr. hodgins', 'dr hodgins', 'dr. jack', 'mr. hodgins', 'hodges', 'hodg', 'jack h', 'hodginz', 'dr hodges']: here. (hands daisy protective goggles) given the fluorescent spectrometry of magnesium, you're gonna need those. all right. any second now.
+['daisy', 'daisy wick', 'intern daisy', 'ms. wick', 'd. wick', 'miss wick', 'daizy', 'dasi']: let's crank these suckers up.
+(daisy turns up the burners and seconds later, the bullet goes off.)
+['hodgins', 'jack hodgins', 'jack', 'dr. hodgins', 'dr hodgins', 'dr. jack', 'mr. hodgins', 'hodges', 'hodg', 'jack h', 'hodginz', 'dr hodges']: ow!
+['daisy', 'daisy wick', 'intern daisy', 'ms. wick', 'd. wick', 'miss wick', 'daizy', 'dasi']: (turns off the burners) oh, are you okay?
+['hodgins', 'jack hodgins', 'jack', 'dr. hodgins', 'dr hodgins', 'dr. jack', 'mr. hodgins', 'hodges', 'hodg', 'jack h', 'hodginz', 'dr hodges']: you shot me!
+['daisy', 'daisy wick', 'intern daisy', 'ms. wick', 'd. wick', 'miss wick', 'daizy', 'dasi']: well, technically, no. the bullet is in the backstop. you were struck by the bullet casing because we failed to account for newton's third law of motion: "for every action, there's..."
+['hodgins', 'jack hodgins', 'jack', 'dr. hodgins', 'dr hodgins', 'dr. jack', 'mr. hodgins', 'hodges', 'hodg', 'jack h', 'hodginz', 'dr hodges']: "...an equal and opposite reaction." i know. now, can you please go get me a first aid kit?!
+['daisy', 'daisy wick', 'intern daisy', 'ms. wick', 'd. wick', 'miss wick', 'daizy', 'dasi']: oh, yes, of course! (she starts to run off but then turns around) dr. hodgins! our experiment was a success, wasn't it? (she slaps him on his arm... the same one that got shot)
+['hodgins', 'jack hodgins', 'jack', 'dr. hodgins', 'dr hodgins', 'dr. jack', 'mr. hodgins', 'hodges', 'hodg', 'jack h', 'hodginz', 'dr hodges']: ow! go!
+fbi headquarters - interrogation room
+(sweets is interrogating paul linoto. a child advocate, ms. hanover, is sitting beside him.)
+['sweets', 'dr. sweets', 'dr sweets', 'lance', 'lance sweets', 'dr. lance', 'dr lance sweets', 'dr lance', 'agent sweets', 'doc sweets', 'l.sweets']: paul, we know that you're vader649.
+paul linoto: so? is there a law against using that screen name?
+['sweets', 'dr. sweets', 'dr sweets', 'lance', 'lance sweets', 'dr. lance', 'dr lance sweets', 'dr lance', 'agent sweets', 'doc sweets', 'l.sweets']: no, i'm actually more interested in the fact that you were suspended for fighting, bullying -
+ms. hanover: - as his advocate, i have to object, dr. sweets.
+['sweets', 'dr. sweets', 'dr sweets', 'lance', 'lance sweets', 'dr. lance', 'dr lance sweets', 'dr lance', 'agent sweets', 'doc sweets', 'l.sweets']: okay, i assure you that i am as concerned with paul's welfare as you are. if he's in trouble, he needs help.
+paul linoto: i didn't do anything wrong.
+['sweets', 'dr. sweets', 'dr sweets', 'lance', 'lance sweets', 'dr. lance', 'dr lance sweets', 'dr lance', 'agent sweets', 'doc sweets', 'l.sweets']: you've been selling star wars cards to your teacher, haven't you?
+paul linoto: yeah. capitalism is king, right?
+['sweets', 'dr. sweets', 'dr sweets', 'lance', 'lance sweets', 'dr. lance', 'dr lance sweets', 'dr lance', 'agent sweets', 'doc sweets', 'l.sweets']: well, she's been paying you a lot more than they were worth. a lot more. over $3000 on worthless cards. mrs. lyford was paying you for something else, wasn't she?
+ms. hanover: don't answer that.
+['sweets', 'dr. sweets', 'dr sweets', 'lance', 'lance sweets', 'dr. lance', 'dr lance sweets', 'dr lance', 'agent sweets', 'doc sweets', 'l.sweets']: if he can offer an explanation, it could help him 'cause right now the fbi thinks that mrs. lyford paid you to kill her husband.
+ms. hanover: paul, not another word.
+(adsbygoogle = window.adsbygoogle || []).push({});
+act four
+int. fbi headquarters - interrogation room
+(sweets is interrogating kathy lyford, again.)
+['sweets', 'dr. sweets', 'dr sweets', 'lance', 'lance sweets', 'dr. lance', 'dr lance sweets', 'dr lance', 'agent sweets', 'doc sweets', 'l.sweets']: you were paying paul linoto $500 a month for worthless trading cards. now, i don't wanna make this more than it is but it looks pretty bad without any help from me.
+kathy lyford: okay, look, i admit that i was paying him for something. i couldn't afford the cash and it was a way to charge it.
+['sweets', 'dr. sweets', 'dr sweets', 'lance', 'lance sweets', 'dr. lance', 'dr lance sweets', 'dr lance', 'agent sweets', 'doc sweets', 'l.sweets']: the fbi thinks that you were charging $500 a month, on your credit card, as payment for paul to murder your husband so you could get a nice payout from his life insurance policy.
+kathy lyford: god, no, i wouldn't do that, no.
+['sweets', 'dr. sweets', 'dr sweets', 'lance', 'lance sweets', 'dr. lance', 'dr lance sweets', 'dr lance', 'agent sweets', 'doc sweets', 'l.sweets']: no? okay. why were you paying him?
+kathy lyford: i was having an affair, okay? paul caught us together and he was blackmailing me. he said i had to pay him $500 a month or he was gonna tell my husband.
+['sweets', 'dr. sweets', 'dr sweets', 'lance', 'lance sweets', 'dr. lance', 'dr lance sweets', 'dr lance', 'agent sweets', 'doc sweets', 'l.sweets']: it's amazing how complicated deceitful relationships can get, isn't it? i'll need to know who you were sleeping with.
+kathy lyford: is that really necessary? i mean, it's just gonna hurt more people.
+['sweets', 'dr. sweets', 'dr sweets', 'lance', 'lance sweets', 'dr. lance', 'dr lance sweets', 'dr lance', 'agent sweets', 'doc sweets', 'l.sweets']: if you didn't murder your husband, yeah, it's very necessary.
+kathy lyford: he's one of my students. his name is randy siminoff. george got him a job working at jesse's chopper shop.
+['sweets', 'dr. sweets', 'dr sweets', 'lance', 'lance sweets', 'dr. lance', 'dr lance sweets', 'dr lance', 'agent sweets', 'doc sweets', 'l.sweets']: he's a student? how old is he?
+kathy lyford: 17. look, i know it was stupid. are you gonna file charges against me?
+['sweets', 'dr. sweets', 'dr sweets', 'lance', 'lance sweets', 'dr. lance', 'dr lance sweets', 'dr lance', 'agent sweets', 'doc sweets', 'l.sweets']: that's up to the d.a.
+kathy lyford: i loved my husband, dr. sweets. me and randy just sort of happened but i am a good teacher.
+['sweets', 'dr. sweets', 'dr sweets', 'lance', 'lance sweets', 'dr. lance', 'dr lance sweets', 'dr lance', 'agent sweets', 'doc sweets', 'l.sweets']: no. no, actually, you're not. does randy love you?
+kathy lyford: i don't know. i don't...
+['sweets', 'dr. sweets', 'dr sweets', 'lance', 'lance sweets', 'dr. lance', 'dr lance sweets', 'dr lance', 'agent sweets', 'doc sweets', 'l.sweets']: he's young, mrs. lyford. too young to deal with the situation you put him in. you know, it's possible he thought if he kill your husband, you two could be together more permanently.
+kathy lyford: god. i...
+['sweets', 'dr. sweets', 'dr sweets', 'lance', 'lance sweets', 'dr. lance', 'dr lance sweets', 'dr lance', 'agent sweets', 'doc sweets', 'l.sweets']: yeah. you're really not a good teacher at all.
+(sweets gets up and leaves.)
+int. fbi headquarters - sweets' office
+(sweets is on his computer when there is a knock at the door.)
+['sweets', 'dr. sweets', 'dr sweets', 'lance', 'lance sweets', 'dr. lance', 'dr lance sweets', 'dr lance', 'agent sweets', 'doc sweets', 'l.sweets']: yup.
+['daisy', 'daisy wick', 'intern daisy', 'ms. wick', 'd. wick', 'miss wick', 'daizy', 'dasi']: hi lance.
+['sweets', 'dr. sweets', 'dr sweets', 'lance', 'lance sweets', 'dr. lance', 'dr lance sweets', 'dr lance', 'agent sweets', 'doc sweets', 'l.sweets']: i thought you were my three o'clock. you know, i have a patient coming.
+['daisy', 'daisy wick', 'intern daisy', 'ms. wick', 'd. wick', 'miss wick', 'daizy', 'dasi']: i'll be quick. i'm having my psych evaluation later.
+['sweets', 'dr. sweets', 'dr sweets', 'lance', 'lance sweets', 'dr. lance', 'dr lance sweets', 'dr lance', 'agent sweets', 'doc sweets', 'l.sweets']: i know. i normally do them but i recused myself.
+['daisy', 'daisy wick', 'intern daisy', 'ms. wick', 'd. wick', 'miss wick', 'daizy', 'dasi']: because we still have feelings?
+['sweets', 'dr. sweets', 'dr sweets', 'lance', 'lance sweets', 'dr. lance', 'dr lance sweets', 'dr lance', 'agent sweets', 'doc sweets', 'l.sweets']: yes.
+['daisy', 'daisy wick', 'intern daisy', 'ms. wick', 'd. wick', 'miss wick', 'daizy', 'dasi']: that's nice.
+['sweets', 'dr. sweets', 'dr sweets', 'lance', 'lance sweets', 'dr. lance', 'dr lance sweets', 'dr lance', 'agent sweets', 'doc sweets', 'l.sweets']: i know.
+['daisy', 'daisy wick', 'intern daisy', 'ms. wick', 'd. wick', 'miss wick', 'daizy', 'dasi']: the feelings. not the recusing.
+['sweets', 'dr. sweets', 'dr sweets', 'lance', 'lance sweets', 'dr. lance', 'dr lance sweets', 'dr lance', 'agent sweets', 'doc sweets', 'l.sweets']: it's only ethical for me to recuse myself.
+['daisy', 'daisy wick', 'intern daisy', 'ms. wick', 'd. wick', 'miss wick', 'daizy', 'dasi']: no. it's hurtful, too.
+['sweets', 'dr. sweets', 'dr sweets', 'lance', 'lance sweets', 'dr. lance', 'dr lance sweets', 'dr lance', 'agent sweets', 'doc sweets', 'l.sweets']: what're you driving at, miss daisy?
+['daisy', 'daisy wick', 'intern daisy', 'ms. wick', 'd. wick', 'miss wick', 'daizy', 'dasi']: what's on the test, lance?
+['sweets', 'dr. sweets', 'dr sweets', 'lance', 'lance sweets', 'dr. lance', 'dr lance sweets', 'dr lance', 'agent sweets', 'doc sweets', 'l.sweets']: no. i can't tell you that.
+['daisy', 'daisy wick', 'intern daisy', 'ms. wick', 'd. wick', 'miss wick', 'daizy', 'dasi']: but you know i'm brilliant at my job and you know that people have a tendency to... misjudge me.
+['sweets', 'dr. sweets', 'dr sweets', 'lance', 'lance sweets', 'dr. lance', 'dr lance sweets', 'dr lance', 'agent sweets', 'doc sweets', 'l.sweets']: yeah.
+['daisy', 'daisy wick', 'intern daisy', 'ms. wick', 'd. wick', 'miss wick', 'daizy', 'dasi']: because they don't know me like you do. and it wouldn't be fair for me to lose my security clearance because of that. (she steps closer to him and places her hands on his shoulder) lancelot doesn't want miss daisy to lose the job she loves, does he?
+['sweets', 'dr. sweets', 'dr sweets', 'lance', 'lance sweets', 'dr. lance', 'dr lance sweets', 'dr lance', 'agent sweets', 'doc sweets', 'l.sweets']: no, of course not but, you know, it wouldn't be ethical for me to help you.
+['daisy', 'daisy wick', 'intern daisy', 'ms. wick', 'd. wick', 'miss wick', 'daizy', 'dasi']: okay.
+['sweets', 'dr. sweets', 'dr sweets', 'lance', 'lance sweets', 'dr. lance', 'dr lance sweets', 'dr lance', 'agent sweets', 'doc sweets', 'l.sweets']: okay?
+(she kisses him.)
+['daisy', 'daisy wick', 'intern daisy', 'ms. wick', 'd. wick', 'miss wick', 'daizy', 'dasi']: i'll probably find another job....
+['sweets', 'dr. sweets', 'dr sweets', 'lance', 'lance sweets', 'dr. lance', 'dr lance sweets', 'dr lance', 'agent sweets', 'doc sweets', 'l.sweets']: ohh.
+['daisy', 'daisy wick', 'intern daisy', 'ms. wick', 'd. wick', 'miss wick', 'daizy', 'dasi']: ...somewhere. probably.
+['sweets', 'dr. sweets', 'dr sweets', 'lance', 'lance sweets', 'dr. lance', 'dr lance sweets', 'dr lance', 'agent sweets', 'doc sweets', 'l.sweets']: ohh. (sighs) okay, we can discuss the test but i'm not gonna give you the answers.
+['daisy', 'daisy wick', 'intern daisy', 'ms. wick', 'd. wick', 'miss wick', 'daizy', 'dasi']: oh, lancelot!
+(they kiss but pull away when there is a sudden knock at the door.)
+['sweets', 'dr. sweets', 'dr sweets', 'lance', 'lance sweets', 'dr. lance', 'dr lance sweets', 'dr lance', 'agent sweets', 'doc sweets', 'l.sweets']: oh, so thank you. okay, that'll be it for today. i, uh, i will schedule our next appointment soon?
+['daisy', 'daisy wick', 'intern daisy', 'ms. wick', 'd. wick', 'miss wick', 'daizy', 'dasi']: yes, doctor. thank you, doctor.
+['sweets', 'dr. sweets', 'dr sweets', 'lance', 'lance sweets', 'dr. lance', 'dr lance sweets', 'dr lance', 'agent sweets', 'doc sweets', 'l.sweets']: you're welcome, patient.
+(daisy leaves and closes the door behind her. sweets sits down with his next patient.)
+['sweets', 'dr. sweets', 'dr sweets', 'lance', 'lance sweets', 'dr. lance', 'dr lance sweets', 'dr lance', 'agent sweets', 'doc sweets', 'l.sweets']: so, agent coors, i hope, uh, the books i gave you on multiple personality disorder helped. (the agent shrugs) okay.
+int. jeffersonian - angela's office
+(angela has the x-ray of the twisted bones up on the angelatron. she is speaking with brennan.)
+['angela', 'angela montenegro', 'ms. montenegro', 'ms montenegro', 'ang', 'ange', 'an', 'a.montenegro', 'angella', 'angla', 'angelina', 'miss montenegro', 'angela m', 'dr. angela']: so, after i scanned in all the bones, i remembered girolamo cardano.
+['brennan', 'dr. brennan', 'dr brennan', 'temperance', 'temperance brennan', 'dr. temperance', 'dr temperance', 'dr. temperance brennan', 'dr temperance brennan', 'bones', 'temp', 'dr bones', 'ms. brennan', 'ms brennan', 'brnnan', 'brannan', 'dr.brennan', 'dr.brenan']: the 16th century italian mathematician and anatomist?
+['angela', 'angela montenegro', 'ms. montenegro', 'ms montenegro', 'ang', 'ange', 'an', 'a.montenegro', 'angella', 'angla', 'angelina', 'miss montenegro', 'angela m', 'dr. angela']: yeah, that's the guy. he developed a series of mathematical equations to describe the skeletal system. so, programming the equations into the computer, i was able to reconstruct the skeletal system - the same way a forensic architect could reconstruct a collapsed building.
+['brennan', 'dr. brennan', 'dr brennan', 'temperance', 'temperance brennan', 'dr. temperance', 'dr temperance', 'dr. temperance brennan', 'dr temperance brennan', 'bones', 'temp', 'dr bones', 'ms. brennan', 'ms brennan', 'brnnan', 'brannan', 'dr.brennan', 'dr.brenan']: you straightened out the bones?
+['angela', 'angela montenegro', 'ms. montenegro', 'ms montenegro', 'ang', 'ange', 'an', 'a.montenegro', 'angella', 'angla', 'angelina', 'miss montenegro', 'angela m', 'dr. angela']: i sure did. check this out.
+(angela presses a button and the twisted bones on the screen become straightened out again!)
+['brennan', 'dr. brennan', 'dr brennan', 'temperance', 'temperance brennan', 'dr. temperance', 'dr temperance', 'dr. temperance brennan', 'dr temperance brennan', 'bones', 'temp', 'dr bones', 'ms. brennan', 'ms brennan', 'brnnan', 'brannan', 'dr.brennan', 'dr.brenan']: amazing.
+['angela', 'angela montenegro', 'ms. montenegro', 'ms montenegro', 'ang', 'ange', 'an', 'a.montenegro', 'angella', 'angla', 'angelina', 'miss montenegro', 'angela m', 'dr. angela']: now, there are marks on the victim's ileum.
+['brennan', 'dr. brennan', 'dr brennan', 'temperance', 'temperance brennan', 'dr. temperance', 'dr temperance', 'dr. temperance brennan', 'dr temperance brennan', 'bones', 'temp', 'dr bones', 'ms. brennan', 'ms brennan', 'brnnan', 'brannan', 'dr.brennan', 'dr.brenan']: i don't believe an injury at that location would be fatal. but, a nicked mandible could be, especially if the carotid was transected. the victim would've bled out.
+['angela', 'angela montenegro', 'ms. montenegro', 'ms montenegro', 'ang', 'ange', 'an', 'a.montenegro', 'angella', 'angla', 'angelina', 'miss montenegro', 'angela m', 'dr. angela']: and we'd have cause of death.
+['brennan', 'dr. brennan', 'dr brennan', 'temperance', 'temperance brennan', 'dr. temperance', 'dr temperance', 'dr. temperance brennan', 'dr temperance brennan', 'bones', 'temp', 'dr bones', 'ms. brennan', 'ms brennan', 'brnnan', 'brannan', 'dr.brennan', 'dr.brenan']: based on the wound tract which narrows to a point, we're looking at a knife.
+['angela', 'angela montenegro', 'ms. montenegro', 'ms montenegro', 'ang', 'ange', 'an', 'a.montenegro', 'angella', 'angla', 'angelina', 'miss montenegro', 'angela m', 'dr. angela']: so, he was stabbed.
+['brennan', 'dr. brennan', 'dr brennan', 'temperance', 'temperance brennan', 'dr. temperance', 'dr temperance', 'dr. temperance brennan', 'dr temperance brennan', 'bones', 'temp', 'dr bones', 'ms. brennan', 'ms brennan', 'brnnan', 'brannan', 'dr.brennan', 'dr.brenan']: daisy will need to find the actual warped bone so she can swab the wound for trace from the murder weapon.
+['angela', 'angela montenegro', 'ms. montenegro', 'ms montenegro', 'ang', 'ange', 'an', 'a.montenegro', 'angella', 'angla', 'angelina', 'miss montenegro', 'angela m', 'dr. angela']: no problem. (angela twists the bones back to the original configuration and locates where the bone actually is.) that's the one.
+ext. park - day
+(booth, parker, and hannah sit in uncomfortable silence on the park bench. parker is bouncing a basketball on the spot.)
+['booth', 'agent booth', 'special agent booth', 'special agent seeley booth', 'seeley', 'seeley booth', 'mr. booth', 'mr booth', 'officer booth', 'boothy', 'boothie', 'bth', 'bohth', 'boof', 'dr. booth']: okay, oh! (he grabs the basketball away from parker) so, uh, hey hannah here was in a real, live camel race. why don't you tell him all about it.
+['hannah', 'hannah burley', 'journalist hannah', 'booth’s girlfriend']: i almost won but the camel stopped right before the finish line. he decided to take a nap. right there. on the racetrack.
+['booth', 'agent booth', 'special agent booth', 'special agent seeley booth', 'seeley', 'seeley booth', 'mr. booth', 'mr booth', 'officer booth', 'boothy', 'boothie', 'bth', 'bohth', 'boof', 'dr. booth']: that's funny, isn't it?
+['parker', 'parker booth', "booth's son", 'son']: can i go shoot some baskets? (he takes the ball back from booth)
+['booth', 'agent booth', 'special agent booth', 'special agent seeley booth', 'seeley', 'seeley booth', 'mr. booth', 'mr booth', 'officer booth', 'boothy', 'boothie', 'bth', 'bohth', 'boof', 'dr. booth']: no, you can't shoot some baskets right now. listen, hey, tell her about your science fair at school. he came in second.
+['parker', 'parker booth', "booth's son", 'son']: do i have to?
+['booth', 'agent booth', 'special agent booth', 'special agent seeley booth', 'seeley', 'seeley booth', 'mr. booth', 'mr booth', 'officer booth', 'boothy', 'boothie', 'bth', 'bohth', 'boof', 'dr. booth']: yeah, tell her about the volcano you made. it was so cool! we built that-
+['hannah', 'hannah burley', 'journalist hannah', 'booth’s girlfriend']: (interrupts) seeley, can i talk to you for a sec?
+['booth', 'agent booth', 'special agent booth', 'special agent seeley booth', 'seeley', 'seeley booth', 'mr. booth', 'mr booth', 'officer booth', 'boothy', 'boothie', 'bth', 'bohth', 'boof', 'dr. booth']: yeah.
+(hannah and booth take a few steps away.)
+['hannah', 'hannah burley', 'journalist hannah', 'booth’s girlfriend']: (sighs) this isn't working.
+['booth', 'agent booth', 'special agent booth', 'special agent seeley booth', 'seeley', 'seeley booth', 'mr. booth', 'mr booth', 'officer booth', 'boothy', 'boothie', 'bth', 'bohth', 'boof', 'dr. booth']: all right, just give him a minute. he just needs time to warm-up.
+['hannah', 'hannah burley', 'journalist hannah', 'booth’s girlfriend']: give me a few minutes. alone. look, i'm taking your advice. he's just a short guy who can't drink.
+['booth', 'agent booth', 'special agent booth', 'special agent seeley booth', 'seeley', 'seeley booth', 'mr. booth', 'mr booth', 'officer booth', 'boothy', 'boothie', 'bth', 'bohth', 'boof', 'dr. booth']: look, i didn't want this to be...
+['hannah', 'hannah burley', 'journalist hannah', 'booth’s girlfriend']: i'm a journalist. i've cracked tougher nuts than parker.
+['booth', 'agent booth', 'special agent booth', 'special agent seeley booth', 'seeley', 'seeley booth', 'mr. booth', 'mr booth', 'officer booth', 'boothy', 'boothie', 'bth', 'bohth', 'boof', 'dr. booth']: right.
+['hannah', 'hannah burley', 'journalist hannah', 'booth’s girlfriend']: 'kay?
+(the two of them walk back to parker.)
+['booth', 'agent booth', 'special agent booth', 'special agent seeley booth', 'seeley', 'seeley booth', 'mr. booth', 'mr booth', 'officer booth', 'boothy', 'boothie', 'bth', 'bohth', 'boof', 'dr. booth']: all right, tell you what, i gotta go get my phone from the car, okay? stay here with hannah.
+(hannah sits down and parker immediately scoots further away from her.)
+['hannah', 'hannah burley', 'journalist hannah', 'booth’s girlfriend']: you don't know who i am so you don't trust me. maybe you hate me a little. or even a lot. i might be trying to steal your dad. wouldn't it be better if you knew for sure what was going on? so you have a real reason to hate me? so, here i am. just ask me anything you want, anything at all.
+['parker', 'parker booth', "booth's son", 'son']: (after a pause) were you really on a camel?
+['hannah', 'hannah burley', 'journalist hannah', 'booth’s girlfriend']: yes.
+['parker', 'parker booth', "booth's son", 'son']: do you sleep with my dad?
+['hannah', 'hannah burley', 'journalist hannah', 'booth’s girlfriend']: yes.
+['parker', 'parker booth', "booth's son", 'son']: if you got married, what would i have to call you?
+['hannah', 'hannah burley', 'journalist hannah', 'booth’s girlfriend']: hannah. that's my name.
+['parker', 'parker booth', "booth's son", 'son']: would you have kids?
+['hannah', 'hannah burley', 'journalist hannah', 'booth’s girlfriend']: no. there are children already in this world who need good homes. if i decided to have a child, i'd adopt one of those kids.
+['parker', 'parker booth', "booth's son", 'son']: that's a good answer.
+['hannah', 'hannah burley', 'journalist hannah', 'booth’s girlfriend']: i thought so, too.
+['parker', 'parker booth', "booth's son", 'son']: do you like dogs or cats?
+['hannah', 'hannah burley', 'journalist hannah', 'booth’s girlfriend']: dogs.
+['parker', 'parker booth', "booth's son", 'son']: burgers or hotdogs?
+['hannah', 'hannah burley', 'journalist hannah', 'booth’s girlfriend']: both.
+['parker', 'parker booth', "booth's son", 'son']: what's your favourite ice cream?
+['hannah', 'hannah burley', 'journalist hannah', 'booth’s girlfriend']: chocolate.
+['parker', 'parker booth', "booth's son", 'son']: i like strawberry. (a beat, then) do you have any questions for me?
+['hannah', 'hannah burley', 'journalist hannah', 'booth’s girlfriend']: what's your middle name?
+['parker', 'parker booth', "booth's son", 'son']: matthew.
+['hannah', 'hannah burley', 'journalist hannah', 'booth’s girlfriend']: would you ever wanna ride a camel?
+['parker', 'parker booth', "booth's son", 'son']: sure. i'm a kid.
+['hannah', 'hannah burley', 'journalist hannah', 'booth’s girlfriend']: what's your favourite tv show?
+['parker', 'parker booth', "booth's son", 'son']: the wizards of waverly place. when the dad married the mom, he had to give up his magical powers. i would never give up my magical powers for a girl.
+['hannah', 'hannah burley', 'journalist hannah', 'booth’s girlfriend']: i don't blame you. (she moves a little closer to parker and this time, he doesn't move away) why didn't you win first place in your science fair?
+['parker', 'parker booth', "booth's son", 'son']: 'cause ben bradley cheated and his dad did his entire project for him. they used a potato to turn on a light bulb.
+['hannah', 'hannah burley', 'journalist hannah', 'booth’s girlfriend']: creep.
+['parker', 'parker booth', "booth's son", 'son']: totally.
+['hannah', 'hannah burley', 'journalist hannah', 'booth’s girlfriend']: (about the basketball) can i see that? (parker tosses it to her) how do i do that... spin-y thing? (she attempts to twirl the ball on her finger)
+['parker', 'parker booth', "booth's son", 'son']: wait, no.
+['hannah', 'hannah burley', 'journalist hannah', 'booth’s girlfriend']: aw. how's that?
+['parker', 'parker booth', "booth's son", 'son']: you have to spin it faster.
+(parker shows hannah and booth smiles as he watches from afar.)
+act five
+int. booth's car - day
+(booth and brennan are driving to the high school.)
+['brennan', 'dr. brennan', 'dr brennan', 'temperance', 'temperance brennan', 'dr. temperance', 'dr temperance', 'dr. temperance brennan', 'dr temperance brennan', 'bones', 'temp', 'dr bones', 'ms. brennan', 'ms brennan', 'brnnan', 'brannan', 'dr.brennan', 'dr.brenan']: i didn't get randy siminoff to talk before but now that i know that he has a preference for more mature, teacher types, perhaps i can charm him.
+['booth', 'agent booth', 'special agent booth', 'special agent seeley booth', 'seeley', 'seeley booth', 'mr. booth', 'mr booth', 'officer booth', 'boothy', 'boothie', 'bth', 'bohth', 'boof', 'dr. booth']: hey, hey, hey, no and no.
+['brennan', 'dr. brennan', 'dr brennan', 'temperance', 'temperance brennan', 'dr. temperance', 'dr temperance', 'dr. temperance brennan', 'dr temperance brennan', 'bones', 'temp', 'dr bones', 'ms. brennan', 'ms brennan', 'brnnan', 'brannan', 'dr.brennan', 'dr.brenan']: you don't think that i would appeal to him?
+['booth', 'agent booth', 'special agent booth', 'special agent seeley booth', 'seeley', 'seeley booth', 'mr. booth', 'mr booth', 'officer booth', 'boothy', 'boothie', 'bth', 'bohth', 'boof', 'dr. booth']: what? no, of course you would.
+['brennan', 'dr. brennan', 'dr brennan', 'temperance', 'temperance brennan', 'dr. temperance', 'dr temperance', 'dr. temperance brennan', 'dr temperance brennan', 'bones', 'temp', 'dr bones', 'ms. brennan', 'ms brennan', 'brnnan', 'brannan', 'dr.brennan', 'dr.brenan']: thank you.
+['booth', 'agent booth', 'special agent booth', 'special agent seeley booth', 'seeley', 'seeley booth', 'mr. booth', 'mr booth', 'officer booth', 'boothy', 'boothie', 'bth', 'bohth', 'boof', 'dr. booth']: yeah.
+['brennan', 'dr. brennan', 'dr brennan', 'temperance', 'temperance brennan', 'dr. temperance', 'dr temperance', 'dr. temperance brennan', 'dr temperance brennan', 'bones', 'temp', 'dr bones', 'ms. brennan', 'ms brennan', 'brnnan', 'brannan', 'dr.brennan', 'dr.brenan']: because i'm cool, you know. the delinquents told me that and parker said i was too - when i did the cannonball into the pool, do you remember that?
+['booth', 'agent booth', 'special agent booth', 'special agent seeley booth', 'seeley', 'seeley booth', 'mr. booth', 'mr booth', 'officer booth', 'boothy', 'boothie', 'bth', 'bohth', 'boof', 'dr. booth']: yes, i do, i do. you drenched my meatball sandwich, how could i forget.
+(they laugh.)
+['brennan', 'dr. brennan', 'dr brennan', 'temperance', 'temperance brennan', 'dr. temperance', 'dr temperance', 'dr. temperance brennan', 'dr temperance brennan', 'bones', 'temp', 'dr bones', 'ms. brennan', 'ms brennan', 'brnnan', 'brannan', 'dr.brennan', 'dr.brenan']: how did it go with hannah and parker, by the way? did they meet?
+['booth', 'agent booth', 'special agent booth', 'special agent seeley booth', 'seeley', 'seeley booth', 'mr. booth', 'mr booth', 'officer booth', 'boothy', 'boothie', 'bth', 'bohth', 'boof', 'dr. booth']: yeah, yeah, it was good. i mean, i'm telling you, she really is amazing with him.
+['brennan', 'dr. brennan', 'dr brennan', 'temperance', 'temperance brennan', 'dr. temperance', 'dr temperance', 'dr. temperance brennan', 'dr temperance brennan', 'bones', 'temp', 'dr bones', 'ms. brennan', 'ms brennan', 'brnnan', 'brannan', 'dr.brennan', 'dr.brenan']: why wouldn't she be? everyone loves her.
+['booth', 'agent booth', 'special agent booth', 'special agent seeley booth', 'seeley', 'seeley booth', 'mr. booth', 'mr booth', 'officer booth', 'boothy', 'boothie', 'bth', 'bohth', 'boof', 'dr. booth']: right? yeah, i think it's gonna work out.
+['brennan', 'dr. brennan', 'dr brennan', 'temperance', 'temperance brennan', 'dr. temperance', 'dr temperance', 'dr. temperance brennan', 'dr temperance brennan', 'bones', 'temp', 'dr bones', 'ms. brennan', 'ms brennan', 'brnnan', 'brannan', 'dr.brennan', 'dr.brenan']: i'm glad. the three of you can come over and swim any time you like.
+['booth', 'agent booth', 'special agent booth', 'special agent seeley booth', 'seeley', 'seeley booth', 'mr. booth', 'mr booth', 'officer booth', 'boothy', 'boothie', 'bth', 'bohth', 'boof', 'dr. booth']: okay.
+['brennan', 'dr. brennan', 'dr brennan', 'temperance', 'temperance brennan', 'dr. temperance', 'dr temperance', 'dr. temperance brennan', 'dr temperance brennan', 'bones', 'temp', 'dr bones', 'ms. brennan', 'ms brennan', 'brnnan', 'brannan', 'dr.brennan', 'dr.brenan']: i know how much parker loves the pool.
+['booth', 'agent booth', 'special agent booth', 'special agent seeley booth', 'seeley', 'seeley booth', 'mr. booth', 'mr booth', 'officer booth', 'boothy', 'boothie', 'bth', 'bohth', 'boof', 'dr. booth']: great, thanks.
+(super awkward looks and silence follows.)
+['brennan', 'dr. brennan', 'dr brennan', 'temperance', 'temperance brennan', 'dr. temperance', 'dr temperance', 'dr. temperance brennan', 'dr temperance brennan', 'bones', 'temp', 'dr bones', 'ms. brennan', 'ms brennan', 'brnnan', 'brannan', 'dr.brennan', 'dr.brenan']: so, how are we gonna get randy to talk?
+['booth', 'agent booth', 'special agent booth', 'special agent seeley booth', 'seeley', 'seeley booth', 'mr. booth', 'mr booth', 'officer booth', 'boothy', 'boothie', 'bth', 'bohth', 'boof', 'dr. booth']: ah, we might not have to yet.
+int. high school - hallway
+(students are lining the hall as booth and brennan open randy siminoff's locker.)
+['booth', 'agent booth', 'special agent booth', 'special agent seeley booth', 'seeley', 'seeley booth', 'mr. booth', 'mr booth', 'officer booth', 'boothy', 'boothie', 'bth', 'bohth', 'boof', 'dr. booth']: since there's no right to privacy on campus, we have the authority to look in his locker. maybe there's a journal or some kind of note.
+(brennan puts on some gloves and starts to rifle through the locker.)
+['brennan', 'dr. brennan', 'dr brennan', 'temperance', 'temperance brennan', 'dr. temperance', 'dr temperance', 'dr. temperance brennan', 'dr temperance brennan', 'bones', 'temp', 'dr bones', 'ms. brennan', 'ms brennan', 'brnnan', 'brannan', 'dr.brennan', 'dr.brenan']: well, there's this. (she brandishes a knife)
+(students murmur and randy siminoff rushes at paul linoto.)
+['booth', 'agent booth', 'special agent booth', 'special agent seeley booth', 'seeley', 'seeley booth', 'mr. booth', 'mr booth', 'officer booth', 'boothy', 'boothie', 'bth', 'bohth', 'boof', 'dr. booth']: hey, hey! (booth holds randy back) all right, bones, let's call the child advocate. she's got a new client.
+int. fbi headquarters - sweets' office
+(sweets and daisy are sitting on the couch.)
+['sweets', 'dr. sweets', 'dr sweets', 'lance', 'lance sweets', 'dr. lance', 'dr lance sweets', 'dr lance', 'agent sweets', 'doc sweets', 'l.sweets']: okay, the way it works is that in these psychological tests, there are a number of crucial questions.
+['daisy', 'daisy wick', 'intern daisy', 'ms. wick', 'd. wick', 'miss wick', 'daizy', 'dasi']: crucial, yes.
+['sweets', 'dr. sweets', 'dr sweets', 'lance', 'lance sweets', 'dr. lance', 'dr lance sweets', 'dr lance', 'agent sweets', 'doc sweets', 'l.sweets']: the rest hardly matter. now, the computer looks at the questions to see if any of the answers set off alarm bells.
+['daisy', 'daisy wick', 'intern daisy', 'ms. wick', 'd. wick', 'miss wick', 'daizy', 'dasi']: your abilities are so wide-ranging with your insights and applicable real-world know-how.
+['sweets', 'dr. sweets', 'dr sweets', 'lance', 'lance sweets', 'dr. lance', 'dr lance sweets', 'dr lance', 'agent sweets', 'doc sweets', 'l.sweets']: now, i'm not gonna give you any of the answers. we don't wanna cheat.
+['daisy', 'daisy wick', 'intern daisy', 'ms. wick', 'd. wick', 'miss wick', 'daizy', 'dasi']: no.
+['sweets', 'dr. sweets', 'dr sweets', 'lance', 'lance sweets', 'dr. lance', 'dr lance sweets', 'dr lance', 'agent sweets', 'doc sweets', 'l.sweets']: just forewarned is forearmed.
+['daisy', 'daisy wick', 'intern daisy', 'ms. wick', 'd. wick', 'miss wick', 'daizy', 'dasi']: absolutely.
+['sweets', 'dr. sweets', 'dr sweets', 'lance', 'lance sweets', 'dr. lance', 'dr lance sweets', 'dr lance', 'agent sweets', 'doc sweets', 'l.sweets']: okay. for example, if one of the questions were to be: what is your favourite colour?
+['daisy', 'daisy wick', 'intern daisy', 'ms. wick', 'd. wick', 'miss wick', 'daizy', 'dasi']: oh! anything in the 630 to 740 nanometre range.
+['sweets', 'dr. sweets', 'dr sweets', 'lance', 'lance sweets', 'dr. lance', 'dr lance sweets', 'dr lance', 'agent sweets', 'doc sweets', 'l.sweets']: which would be...
+['daisy', 'daisy wick', 'intern daisy', 'ms. wick', 'd. wick', 'miss wick', 'daizy', 'dasi']: red! (sweets shakes his head) red is bad. (sweets nods) what's good?
+['sweets', 'dr. sweets', 'dr sweets', 'lance', 'lance sweets', 'dr. lance', 'dr lance sweets', 'dr lance', 'agent sweets', 'doc sweets', 'l.sweets']: cheating, daisy.
+['daisy', 'daisy wick', 'intern daisy', 'ms. wick', 'd. wick', 'miss wick', 'daizy', 'dasi']: um, something in the 520 to 570 nanometre range? (sweets shrugs) that's green.
+['sweets', 'dr. sweets', 'dr sweets', 'lance', 'lance sweets', 'dr. lance', 'dr lance sweets', 'dr lance', 'agent sweets', 'doc sweets', 'l.sweets']: green! okay, good, green is good. all right, next question: what is your favourite number?
+['daisy', 'daisy wick', 'intern daisy', 'ms. wick', 'd. wick', 'miss wick', 'daizy', 'dasi']: (shrugs) either of feigenbaum's constants.
+['sweets', 'dr. sweets', 'dr sweets', 'lance', 'lance sweets', 'dr. lance', 'dr lance sweets', 'dr lance', 'agent sweets', 'doc sweets', 'l.sweets']: try to think of an actual recognizable number between one and ten.
+['daisy', 'daisy wick', 'intern daisy', 'ms. wick', 'd. wick', 'miss wick', 'daizy', 'dasi']: no, in that case, the question should be: what's your favourite numeral.
+['sweets', 'dr. sweets', 'dr sweets', 'lance', 'lance sweets', 'dr. lance', 'dr lance sweets', 'dr lance', 'agent sweets', 'doc sweets', 'l.sweets']: two. say two.
+['daisy', 'daisy wick', 'intern daisy', 'ms. wick', 'd. wick', 'miss wick', 'daizy', 'dasi']: we're cheating now?
+['sweets', 'dr. sweets', 'dr sweets', 'lance', 'lance sweets', 'dr. lance', 'dr lance sweets', 'dr lance', 'agent sweets', 'doc sweets', 'l.sweets']: yeah. are you in a committed, monogamous relationship?
+['daisy', 'daisy wick', 'intern daisy', 'ms. wick', 'd. wick', 'miss wick', 'daizy', 'dasi']: yes.
+['sweets', 'dr. sweets', 'dr sweets', 'lance', 'lance sweets', 'dr. lance', 'dr lance sweets', 'dr lance', 'agent sweets', 'doc sweets', 'l.sweets']: good.
+['daisy', 'daisy wick', 'intern daisy', 'ms. wick', 'd. wick', 'miss wick', 'daizy', 'dasi']: that wasn't on the test, was it? you just wanna know if i'm faithful.
+['sweets', 'dr. sweets', 'dr sweets', 'lance', 'lance sweets', 'dr. lance', 'dr lance sweets', 'dr lance', 'agent sweets', 'doc sweets', 'l.sweets']: no, it was on the test but i'm glad.
+['daisy', 'daisy wick', 'intern daisy', 'ms. wick', 'd. wick', 'miss wick', 'daizy', 'dasi']: you know why your name is sweets?
+['sweets', 'dr. sweets', 'dr sweets', 'lance', 'lance sweets', 'dr. lance', 'dr lance sweets', 'dr lance', 'agent sweets', 'doc sweets', 'l.sweets']: why?
+['daisy', 'daisy wick', 'intern daisy', 'ms. wick', 'd. wick', 'miss wick', 'daizy', 'dasi']: because you're so sweet.
+['sweets', 'dr. sweets', 'dr sweets', 'lance', 'lance sweets', 'dr. lance', 'dr lance sweets', 'dr lance', 'agent sweets', 'doc sweets', 'l.sweets']: aw.
+(she leans over to kiss him and her eyes look down at the paper.)
+['sweets', 'dr. sweets', 'dr sweets', 'lance', 'lance sweets', 'dr. lance', 'dr lance sweets', 'dr lance', 'agent sweets', 'doc sweets', 'l.sweets']: (breaks the kiss and pulls the test away) are you trying to cheat?
+['daisy', 'daisy wick', 'intern daisy', 'ms. wick', 'd. wick', 'miss wick', 'daizy', 'dasi']: it was a glance, that's all! i... but... next question.
+(sweets' cellphone rings.)
+['sweets', 'dr. sweets', 'dr sweets', 'lance', 'lance sweets', 'dr. lance', 'dr lance sweets', 'dr lance', 'agent sweets', 'doc sweets', 'l.sweets']: hold on. (checks his phone) sorry, agent booth needs me.
+['daisy', 'daisy wick', 'intern daisy', 'ms. wick', 'd. wick', 'miss wick', 'daizy', 'dasi']: sure! i'll wait here, look over the questions.
+['sweets', 'dr. sweets', 'dr sweets', 'lance', 'lance sweets', 'dr. lance', 'dr lance sweets', 'dr lance', 'agent sweets', 'doc sweets', 'l.sweets']: no, you don't need to. you'll be fine.
+['daisy', 'daisy wick', 'intern daisy', 'ms. wick', 'd. wick', 'miss wick', 'daizy', 'dasi']: but...
+['sweets', 'dr. sweets', 'dr sweets', 'lance', 'lance sweets', 'dr. lance', 'dr lance sweets', 'dr lance', 'agent sweets', 'doc sweets', 'l.sweets']: trust me, miss daisy. you'll be fine.
+(he gets up to leave.)
+int. fbi headquarters - interrogation room
+(sweets is interrogating randy siminoff with ms. hanover, the child advocate.)
+randy siminoff: yeah, i was having sex with mrs. lyford but it was - it was no big deal.
+['sweets', 'dr. sweets', 'dr sweets', 'lance', 'lance sweets', 'dr. lance', 'dr lance sweets', 'dr lance', 'agent sweets', 'doc sweets', 'l.sweets']: while your peers might think that having sex with an adult is a kind of a victory, it's still abusive and the psychological damage can be significant.
+ms. hanover: dr. sweets, where is this going?
+['sweets', 'dr. sweets', 'dr sweets', 'lance', 'lance sweets', 'dr. lance', 'dr lance sweets', 'dr lance', 'agent sweets', 'doc sweets', 'l.sweets']: as his child advocate, i think you would know, ms. hanover. studies show that as the relationship fails, the student often feels powerless and angry. look, agent booth found a knife in your locker. george lyford was kill with a knife.
+randy siminoff: i brought it to school to pry open a dude's locker and shove in a dead trout. it was a prank. he started it when he put pepper spray in my gym shorts.
+['sweets', 'dr. sweets', 'dr sweets', 'lance', 'lance sweets', 'dr. lance', 'dr lance sweets', 'dr lance', 'agent sweets', 'doc sweets', 'l.sweets']: okay. okay, let's get back to you and your teacher. now, you claim it was just sex. you had no deeper feelings for her?
+randy siminoff: that's right.
+['sweets', 'dr. sweets', 'dr sweets', 'lance', 'lance sweets', 'dr. lance', 'dr lance sweets', 'dr lance', 'agent sweets', 'doc sweets', 'l.sweets']: but we have your cellphone records, randy. you and mrs. lyford talked an average of two hours a day for the past three months. that doesn't sound like just sex.
+randy siminoff: okay, so i love her. i mean, why is that so crazy? she loves me, too. i could feel it. but, i didn't kill anyone, okay? i didn't have to. she would've left him.
+ms. hanover: randy. stop talking.
+['sweets', 'dr. sweets', 'dr sweets', 'lance', 'lance sweets', 'dr. lance', 'dr lance sweets', 'dr lance', 'agent sweets', 'doc sweets', 'l.sweets']: now, i understand that you're here to protect him but we need to know where randy was two nights ago when george lyford was kill.
+randy siminoff: home. like every night.
+['sweets', 'dr. sweets', 'dr sweets', 'lance', 'lance sweets', 'dr. lance', 'dr lance sweets', 'dr lance', 'agent sweets', 'doc sweets', 'l.sweets']: all right. was anyone home with you?
+randy siminoff: i live with my aunt but she works nights. (shakes his head) she loves me, okay? i know that. she would've left him.
+int. jeffersonian - ookey room
+(hodgins is showing brennan results on his computer.)
+['hodgins', 'jack hodgins', 'jack', 'dr. hodgins', 'dr hodgins', 'dr. jack', 'mr. hodgins', 'hodges', 'hodg', 'jack h', 'hodginz', 'dr hodges']: i got the swab results back. s.e.m. analysis says the murder weapon was a knife made of carbon steel.
+['brennan', 'dr. brennan', 'dr brennan', 'temperance', 'temperance brennan', 'dr. temperance', 'dr temperance', 'dr. temperance brennan', 'dr temperance brennan', 'bones', 'temp', 'dr bones', 'ms. brennan', 'ms brennan', 'brnnan', 'brannan', 'dr.brennan', 'dr.brenan']: which means it was forged prior to 1964.
+['hodgins', 'jack hodgins', 'jack', 'dr. hodgins', 'dr hodgins', 'dr. jack', 'mr. hodgins', 'hodges', 'hodg', 'jack h', 'hodginz', 'dr hodges']: it also means that the knife you found in randy's locker was not the murder weapon. the knife that stabbed our victim was laminated in silver.
+['brennan', 'dr. brennan', 'dr brennan', 'temperance', 'temperance brennan', 'dr. temperance', 'dr temperance', 'dr. temperance brennan', 'dr temperance brennan', 'bones', 'temp', 'dr bones', 'ms. brennan', 'ms brennan', 'brnnan', 'brannan', 'dr.brennan', 'dr.brenan']: why would you laminate a blade in silver? it's a soft metal.
+['hodgins', 'jack hodgins', 'jack', 'dr. hodgins', 'dr hodgins', 'dr. jack', 'mr. hodgins', 'hodges', 'hodg', 'jack h', 'hodginz', 'dr hodges']: that's right. no one uses silver to laminate a blade... unless it's the damascus blade.
+['brennan', 'dr. brennan', 'dr brennan', 'temperance', 'temperance brennan', 'dr. temperance', 'dr temperance', 'dr. temperance brennan', 'dr temperance brennan', 'bones', 'temp', 'dr bones', 'ms. brennan', 'ms brennan', 'brnnan', 'brannan', 'dr.brennan', 'dr.brenan']: you said that with a great dramatic flourish, please continue.
+['hodgins', 'jack hodgins', 'jack', 'dr. hodgins', 'dr hodgins', 'dr. jack', 'mr. hodgins', 'hodges', 'hodg', 'jack h', 'hodginz', 'dr hodges']: hitler had 30 damascus blades hand-forged as presents for his top commanders. (he brings up pictures on the computer) now, those knives were coveted by american gis. some of them were taken as souvenirs by soldiers in patton's third army.
+['brennan', 'dr. brennan', 'dr brennan', 'temperance', 'temperance brennan', 'dr. temperance', 'dr temperance', 'dr. temperance brennan', 'dr temperance brennan', 'bones', 'temp', 'dr bones', 'ms. brennan', 'ms brennan', 'brnnan', 'brannan', 'dr.brennan', 'dr.brenan']: the owner of the chopper shop had a grandfather who served in patton's -
+hodgins with brennan: (simultaneously) - third army.
+['hodgins', 'jack hodgins', 'jack', 'dr. hodgins', 'dr hodgins', 'dr. jack', 'mr. hodgins', 'hodges', 'hodg', 'jack h', 'hodginz', 'dr hodges']: yeah, i know. the murder weapon must've belonged to jesse wilson.
+act six
+int. jesse's chopper shop
+(booth is talking to jesse wilson.)
+jesse wilson: what's this about? i told you about george, i helped.
+['booth', 'agent booth', 'special agent booth', 'special agent seeley booth', 'seeley', 'seeley booth', 'mr. booth', 'mr booth', 'officer booth', 'boothy', 'boothie', 'bth', 'bohth', 'boof', 'dr. booth']: right, i appreciate that. now, maybe you can explain why george lyford was kill with your knife.
+jesse wilson: woah, slow down. you said george was shot. he was stabbed to death?
+['booth', 'agent booth', 'special agent booth', 'special agent seeley booth', 'seeley', 'seeley booth', 'mr. booth', 'mr booth', 'officer booth', 'boothy', 'boothie', 'bth', 'bohth', 'boof', 'dr. booth']: stabbed, that's right. patton's third army - grandfather brought back a knife from nazi germany, didn't he?
+jesse wilson: yeah, it was awesome but it was stolen from my shop.
+['booth', 'agent booth', 'special agent booth', 'special agent seeley booth', 'seeley', 'seeley booth', 'mr. booth', 'mr booth', 'officer booth', 'boothy', 'boothie', 'bth', 'bohth', 'boof', 'dr. booth']: that's pretty valuable to just leave lying around here, huh?
+jesse wilson: valuable? i didn't know. i left it with the other stuff: the helmets, metals, badges... it's all gone now. the nazi stuff, a bunch of my tools, and some chopper parts all jacked from my shop.
+['booth', 'agent booth', 'special agent booth', 'special agent seeley booth', 'seeley', 'seeley booth', 'mr. booth', 'mr booth', 'officer booth', 'boothy', 'boothie', 'bth', 'bohth', 'boof', 'dr. booth']: when was that? yesterday?
+jesse wilson: no. six months ago. i filed a police report. i always suspected randy's girlfriend but i didn't have any proof.
+['booth', 'agent booth', 'special agent booth', 'special agent seeley booth', 'seeley', 'seeley booth', 'mr. booth', 'mr booth', 'officer booth', 'boothy', 'boothie', 'bth', 'bohth', 'boof', 'dr. booth']: randy had a girlfriend.
+jesse wilson: (shrugs) on again, off again. she's trouble. after the stuff was jacked, she didn't come around so much.
+['booth', 'agent booth', 'special agent booth', 'special agent seeley booth', 'seeley', 'seeley booth', 'mr. booth', 'mr booth', 'officer booth', 'boothy', 'boothie', 'bth', 'bohth', 'boof', 'dr. booth']: hm.
+int. jeffersonian - bone room
+(brennan is examining the bones on the exam table. daisy walks in, excited.)
+['daisy', 'daisy wick', 'intern daisy', 'ms. wick', 'd. wick', 'miss wick', 'daizy', 'dasi']: i've been approved! i passed my psychological evaluation.
+['brennan', 'dr. brennan', 'dr brennan', 'temperance', 'temperance brennan', 'dr. temperance', 'dr temperance', 'dr. temperance brennan', 'dr temperance brennan', 'bones', 'temp', 'dr bones', 'ms. brennan', 'ms brennan', 'brnnan', 'brannan', 'dr.brennan', 'dr.brenan']: an absurd and useless requirement.
+['daisy', 'daisy wick', 'intern daisy', 'ms. wick', 'd. wick', 'miss wick', 'daizy', 'dasi']: i agree. but, when seen through lance's eyes, psychology can be fascinating.
+['brennan', 'dr. brennan', 'dr brennan', 'temperance', 'temperance brennan', 'dr. temperance', 'dr temperance', 'dr. temperance brennan', 'dr temperance brennan', 'bones', 'temp', 'dr bones', 'ms. brennan', 'ms brennan', 'brnnan', 'brannan', 'dr.brennan', 'dr.brenan']: when asked what my favourite colour was, i responded something in the 520 to 570 nanometre range. (laughs) they were baffled. fools.
+['daisy', 'daisy wick', 'intern daisy', 'ms. wick', 'd. wick', 'miss wick', 'daizy', 'dasi']: i agree but i'm glad i made the cut. i could be working here forever now.
+['brennan', 'dr. brennan', 'dr brennan', 'temperance', 'temperance brennan', 'dr. temperance', 'dr temperance', 'dr. temperance brennan', 'dr temperance brennan', 'bones', 'temp', 'dr bones', 'ms. brennan', 'ms brennan', 'brnnan', 'brannan', 'dr.brennan', 'dr.brenan']: then, be useful. i'm examining the right ileum which, due to demineralization is now located where we'd normally find the ischial tuberosity.
+['daisy', 'daisy wick', 'intern daisy', 'ms. wick', 'd. wick', 'miss wick', 'daizy', 'dasi']: why are you examining the ileum?
+['brennan', 'dr. brennan', 'dr brennan', 'temperance', 'temperance brennan', 'dr. temperance', 'dr temperance', 'dr. temperance brennan', 'dr temperance brennan', 'bones', 'temp', 'dr bones', 'ms. brennan', 'ms brennan', 'brnnan', 'brannan', 'dr.brennan', 'dr.brenan']: (they walk over to look at the blown-up picture on the computer screen) angela identified some faint impressions on the bone. they appear to be a sequence of dash marks. upon further investigation, i realized there is a second sequence that converges with the first.
+['daisy', 'daisy wick', 'intern daisy', 'ms. wick', 'd. wick', 'miss wick', 'daizy', 'dasi']: you think those marks are probative?
+['brennan', 'dr. brennan', 'dr brennan', 'temperance', 'temperance brennan', 'dr. temperance', 'dr temperance', 'dr. temperance brennan', 'dr temperance brennan', 'bones', 'temp', 'dr bones', 'ms. brennan', 'ms brennan', 'brnnan', 'brannan', 'dr.brennan', 'dr.brenan']: not sure. (prints out the picture on the screen) to the naked eye, these marks appear to be random (she takes a marker and starts to draw on the picture) but if i extrapolate like so... what could possibly form this shape on the ileum?
+['daisy', 'daisy wick', 'intern daisy', 'ms. wick', 'd. wick', 'miss wick', 'daizy', 'dasi']: may i? i'm authorized to work on my own now.
+['brennan', 'dr. brennan', 'dr brennan', 'temperance', 'temperance brennan', 'dr. temperance', 'dr temperance', 'dr. temperance brennan', 'dr temperance brennan', 'bones', 'temp', 'dr bones', 'ms. brennan', 'ms brennan', 'brnnan', 'brannan', 'dr.brennan', 'dr.brenan']: of course.
+['daisy', 'daisy wick', 'intern daisy', 'ms. wick', 'd. wick', 'miss wick', 'daizy', 'dasi']: (she turns the picture upside down) dr. brennan, it's a zipper!
+['brennan', 'dr. brennan', 'dr brennan', 'temperance', 'temperance brennan', 'dr. temperance', 'dr temperance', 'dr. temperance brennan', 'dr temperance brennan', 'bones', 'temp', 'dr bones', 'ms. brennan', 'ms brennan', 'brnnan', 'brannan', 'dr.brennan', 'dr.brenan']: (moves daisy away to see for herself) an open zipper and the teeth are bent. it's been ripped open - i saw someone do this just yesterday. very good work, ms. wick.
+['daisy', 'daisy wick', 'intern daisy', 'ms. wick', 'd. wick', 'miss wick', 'daizy', 'dasi']: (smiles) well, that's what happens when you have the faith of the fbi behind you.
+(sweets walk in and holds up daisy's security badge.)
+['sweets', 'dr. sweets', 'dr sweets', 'lance', 'lance sweets', 'dr. lance', 'dr lance sweets', 'dr lance', 'agent sweets', 'doc sweets', 'l.sweets']: hi, i asked if i could deliver your id card myself.
+['daisy', 'daisy wick', 'intern daisy', 'ms. wick', 'd. wick', 'miss wick', 'daizy', 'dasi']: (knocks over a tray in her excitement) oh! (she runs over to hug sweets)
+['sweets', 'dr. sweets', 'dr sweets', 'lance', 'lance sweets', 'dr. lance', 'dr lance sweets', 'dr lance', 'agent sweets', 'doc sweets', 'l.sweets']: congratulations.
+(sweets and daisy are about to kiss but then look over to see brennan's disapproving look. they hug instead.)
+['daisy', 'daisy wick', 'intern daisy', 'ms. wick', 'd. wick', 'miss wick', 'daizy', 'dasi']: (pointing to the tray) i'll clean that up.
+['sweets', 'dr. sweets', 'dr sweets', 'lance', 'lance sweets', 'dr. lance', 'dr lance sweets', 'dr lance', 'agent sweets', 'doc sweets', 'l.sweets']: put it on!
+['daisy', 'daisy wick', 'intern daisy', 'ms. wick', 'd. wick', 'miss wick', 'daizy', 'dasi']: okay!
+ext. crime scene - day
+(booth, brennan, ms. hanover, and amber flaire are looking at the melted truck.)
+ms. hanover: what are we doing out here, agent booth?
+['booth', 'agent booth', 'special agent booth', 'special agent seeley booth', 'seeley', 'seeley booth', 'mr. booth', 'mr booth', 'officer booth', 'boothy', 'boothie', 'bth', 'bohth', 'boof', 'dr. booth']: amber said she would do anything in order to cooperate with the investigation so we thought we would bring her here to the crime scene so she could explain some things.
+amber flaire: explain what?
+['brennan', 'dr. brennan', 'dr brennan', 'temperance', 'temperance brennan', 'dr. temperance', 'dr temperance', 'dr. temperance brennan', 'dr temperance brennan', 'bones', 'temp', 'dr bones', 'ms. brennan', 'ms brennan', 'brnnan', 'brannan', 'dr.brennan', 'dr.brenan']: we know it was you, amber. we know you kill george lyford.
+amber flaire: that's crazy.
+['booth', 'agent booth', 'special agent booth', 'special agent seeley booth', 'seeley', 'seeley booth', 'mr. booth', 'mr booth', 'officer booth', 'boothy', 'boothie', 'bth', 'bohth', 'boof', 'dr. booth']: we also know that you pawned some stolen tools from jesse's chopper shop, you know, pawn shops - they keep records, too.
+amber flaire: well, jesse cut randy's pay so i figured out a way to make up the difference.
+['booth', 'agent booth', 'special agent booth', 'special agent seeley booth', 'seeley', 'seeley booth', 'mr. booth', 'mr booth', 'officer booth', 'boothy', 'boothie', 'bth', 'bohth', 'boof', 'dr. booth']: because he was your boyfriend?
+amber flaire: so?
+['booth', 'agent booth', 'special agent booth', 'special agent seeley booth', 'seeley', 'seeley booth', 'mr. booth', 'mr booth', 'officer booth', 'boothy', 'boothie', 'bth', 'bohth', 'boof', 'dr. booth']: you know, you didn't pawn everything, though, because we found this in your bedroom.
+['brennan', 'dr. brennan', 'dr brennan', 'temperance', 'temperance brennan', 'dr. temperance', 'dr temperance', 'dr. temperance brennan', 'dr temperance brennan', 'bones', 'temp', 'dr bones', 'ms. brennan', 'ms brennan', 'brnnan', 'brannan', 'dr.brennan', 'dr.brenan']: that's the murder weapon, amber.
+amber flaire: he tried to rape me. that's why george drove me out here.
+['booth', 'agent booth', 'special agent booth', 'special agent seeley booth', 'seeley', 'seeley booth', 'mr. booth', 'mr booth', 'officer booth', 'boothy', 'boothie', 'bth', 'bohth', 'boof', 'dr. booth']: no, you had the knife on you because you thought george would be angry enough to kill his wife.
+['brennan', 'dr. brennan', 'dr brennan', 'temperance', 'temperance brennan', 'dr. temperance', 'dr temperance', 'dr. temperance brennan', 'dr temperance brennan', 'bones', 'temp', 'dr bones', 'ms. brennan', 'ms brennan', 'brnnan', 'brannan', 'dr.brennan', 'dr.brenan']: that way, you could have randy back but george wouldn't help you.
+['booth', 'agent booth', 'special agent booth', 'special agent seeley booth', 'seeley', 'seeley booth', 'mr. booth', 'mr booth', 'officer booth', 'boothy', 'boothie', 'bth', 'bohth', 'boof', 'dr. booth']: so, you thought you could get revenge on mrs. lyford by having sex with her husband.
+['brennan', 'dr. brennan', 'dr brennan', 'temperance', 'temperance brennan', 'dr. temperance', 'dr temperance', 'dr. temperance brennan', 'dr temperance brennan', 'bones', 'temp', 'dr bones', 'ms. brennan', 'ms brennan', 'brnnan', 'brannan', 'dr.brennan', 'dr.brenan']: his zipper was ripped open the same way you ripped randy's zipper in detention.
+['booth', 'agent booth', 'special agent booth', 'special agent seeley booth', 'seeley', 'seeley booth', 'mr. booth', 'mr booth', 'officer booth', 'boothy', 'boothie', 'bth', 'bohth', 'boof', 'dr. booth']: george didn't want to have sex with you, randy dumped you, george pushed you away so you just went bonkers and stabbed him with the knife.
+amber flaire: even if you can prove it, i'll be out in a year, tops. i'm just a kid from a broken home.
+int. royal diner - night
+(booth and brennan are sitting at a table, eating and talking.)
+['brennan', 'dr. brennan', 'dr brennan', 'temperance', 'temperance brennan', 'dr. temperance', 'dr temperance', 'dr. temperance brennan', 'dr temperance brennan', 'bones', 'temp', 'dr bones', 'ms. brennan', 'ms brennan', 'brnnan', 'brannan', 'dr.brennan', 'dr.brenan']: so, what's going to happen with the teacher?
+['booth', 'agent booth', 'special agent booth', 'special agent seeley booth', 'seeley', 'seeley booth', 'mr. booth', 'mr booth', 'officer booth', 'boothy', 'boothie', 'bth', 'bohth', 'boof', 'dr. booth']: the d.a.'s gonna press charges, she'll do time.
+['brennan', 'dr. brennan', 'dr brennan', 'temperance', 'temperance brennan', 'dr. temperance', 'dr temperance', 'dr. temperance brennan', 'dr temperance brennan', 'bones', 'temp', 'dr bones', 'ms. brennan', 'ms brennan', 'brnnan', 'brannan', 'dr.brennan', 'dr.brenan']: really?
+['booth', 'agent booth', 'special agent booth', 'special agent seeley booth', 'seeley', 'seeley booth', 'mr. booth', 'mr booth', 'officer booth', 'boothy', 'boothie', 'bth', 'bohth', 'boof', 'dr. booth']: yeah, and then whatever you do, don't start telling me how natural it is what she did because the women in the ramalamadingdong tribe liked to sleep with teenaged boys.
+['brennan', 'dr. brennan', 'dr brennan', 'temperance', 'temperance brennan', 'dr. temperance', 'dr temperance', 'dr. temperance brennan', 'dr temperance brennan', 'bones', 'temp', 'dr bones', 'ms. brennan', 'ms brennan', 'brnnan', 'brannan', 'dr.brennan', 'dr.brenan']: i wasn't. i think it's just that the teacher pay for her actions, no matter what other societies may accept. although, i have no knowledge of the ramalamadingdong tribe.
+['booth', 'agent booth', 'special agent booth', 'special agent seeley booth', 'seeley', 'seeley booth', 'mr. booth', 'mr booth', 'officer booth', 'boothy', 'boothie', 'bth', 'bohth', 'boof', 'dr. booth']: chief shoobop-shoobop invented rock-and-roll. (he smiles)
+['brennan', 'dr. brennan', 'dr brennan', 'temperance', 'temperance brennan', 'dr. temperance', 'dr temperance', 'dr. temperance brennan', 'dr temperance brennan', 'bones', 'temp', 'dr bones', 'ms. brennan', 'ms brennan', 'brnnan', 'brannan', 'dr.brennan', 'dr.brenan']: (smiling) oh, a joke! very funny. perhaps your chief knows chief polyphony of the gavotte tribe. he invented baroque music that always starts on the third beat of the bar.
+(brennan laughs and then so does booth when he sees that hannah and parker have arrived. parker is laughing, too.)
+['booth', 'agent booth', 'special agent booth', 'special agent seeley booth', 'seeley', 'seeley booth', 'mr. booth', 'mr booth', 'officer booth', 'boothy', 'boothie', 'bth', 'bohth', 'boof', 'dr. booth']: there they are. come on, kid.
+['parker', 'parker booth', "booth's son", 'son']: dad, we went to the zoo. they had camel rides.
+['hannah', 'hannah burley', 'journalist hannah', 'booth’s girlfriend']: i was sure he'd ridden one before. he could be a jockey.
+['booth', 'agent booth', 'special agent booth', 'special agent seeley booth', 'seeley', 'seeley booth', 'mr. booth', 'mr booth', 'officer booth', 'boothy', 'boothie', 'bth', 'bohth', 'boof', 'dr. booth']: the zoo, huh? what happened to just going to get ice cream?
+['hannah', 'hannah burley', 'journalist hannah', 'booth’s girlfriend']: yeah, yeah at the zoo.
+['parker', 'parker booth', "booth's son", 'son']: we saw a lion pee for, like, ten minutes.
+['booth', 'agent booth', 'special agent booth', 'special agent seeley booth', 'seeley', 'seeley booth', 'mr. booth', 'mr booth', 'officer booth', 'boothy', 'boothie', 'bth', 'bohth', 'boof', 'dr. booth']: wow.
+['brennan', 'dr. brennan', 'dr brennan', 'temperance', 'temperance brennan', 'dr. temperance', 'dr temperance', 'dr. temperance brennan', 'dr temperance brennan', 'bones', 'temp', 'dr bones', 'ms. brennan', 'ms brennan', 'brnnan', 'brannan', 'dr.brennan', 'dr.brenan']: that would be physically impossible. an adult lion's bladder, when full, can hold approximately 1500 ml of urine. the bladder would completely empty in 37.5 seconds.
+['parker', 'parker booth', "booth's son", 'son']: she says weird stuff like that all the time. she's cool.
+(brennan smiles.)
+['hannah', 'hannah burley', 'journalist hannah', 'booth’s girlfriend']: yes. we're friends, actually.
+['parker', 'parker booth', "booth's son", 'son']: she knows everything. watch this. what animal farts the most?
+['booth', 'agent booth', 'special agent booth', 'special agent seeley booth', 'seeley', 'seeley booth', 'mr. booth', 'mr booth', 'officer booth', 'boothy', 'boothie', 'bth', 'bohth', 'boof', 'dr. booth']: hey, hey, hey.
+(hannah laughs.)
+['brennan', 'dr. brennan', 'dr brennan', 'temperance', 'temperance brennan', 'dr. temperance', 'dr temperance', 'dr. temperance brennan', 'dr temperance brennan', 'bones', 'temp', 'dr bones', 'ms. brennan', 'ms brennan', 'brnnan', 'brannan', 'dr.brennan', 'dr.brenan']: the termite because of their diet and digestive process, they produce as much methane gas as human industry but you can't hear them.
+['parker', 'parker booth', "booth's son", 'son']: isn't she cool?
+['hannah', 'hannah burley', 'journalist hannah', 'booth’s girlfriend']: very.
+['parker', 'parker booth', "booth's son", 'son']: we can go to her house and go swim. she can do a cannonball.
+['hannah', 'hannah burley', 'journalist hannah', 'booth’s girlfriend']: oh.
+['parker', 'parker booth', "booth's son", 'son']: hannah can come, can't she?
+['brennan', 'dr. brennan', 'dr brennan', 'temperance', 'temperance brennan', 'dr. temperance', 'dr temperance', 'dr. temperance brennan', 'dr temperance brennan', 'bones', 'temp', 'dr bones', 'ms. brennan', 'ms brennan', 'brnnan', 'brannan', 'dr.brennan', 'dr.brenan']: sure. (hannah and brennan trade smiles.)
+['booth', 'agent booth', 'special agent booth', 'special agent seeley booth', 'seeley', 'seeley booth', 'mr. booth', 'mr booth', 'officer booth', 'boothy', 'boothie', 'bth', 'bohth', 'boof', 'dr. booth']: hey, kid. hey, a little chocolate ice cream on the chin there, kid? (he tries to wipe it off of parker)
+['parker', 'parker booth', "booth's son", 'son']: (smiling) yeah, it's my new favourite flavour.
+['booth', 'agent booth', 'special agent booth', 'special agent seeley booth', 'seeley', 'seeley booth', 'mr. booth', 'mr booth', 'officer booth', 'boothy', 'boothie', 'bth', 'bohth', 'boof', 'dr. booth']: wow. (to hannah) you're amazing.
+['hannah', 'hannah burley', 'journalist hannah', 'booth’s girlfriend']: (mouths) thank you.
+(booth and hannah hold hands. brennan sees and there's a look.)
+end.

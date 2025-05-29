@@ -1,0 +1,722 @@
+the end in the beginning
+season 4, episode 26
+(interior booth and brennan's appartment - bedroom, 4: 47 am. booth is sleeping)
+['hodgins', 'jack hodgins', 'jack', 'dr. hodgins', 'dr hodgins', 'dr. jack', 'mr. hodgins', 'hodges', 'hodg', 'jack h', 'hodginz', 'dr hodges']: [narrating] people say you only live once, but are as wrong about that, as they are about everything.
+(brennan enters)
+['hodgins', 'jack hodgins', 'jack', 'dr. hodgins', 'dr hodgins', 'dr. jack', 'mr. hodgins', 'hodges', 'hodg', 'jack h', 'hodginz', 'dr hodges']: [narrating] in the darkest moments before dawn a woman returns to her bed. what life is she leading? is it the same life the woman was leading half an hour ago? a day ago? a year ago?
+(pan to booth)
+['hodgins', 'jack hodgins', 'jack', 'dr. hodgins', 'dr hodgins', 'dr. jack', 'mr. hodgins', 'hodges', 'hodg', 'jack h', 'hodginz', 'dr hodges']: [narrating] who is this man? do they lead separate lives, or is it a single life shared?
+['brennan', 'dr. brennan', 'dr brennan', 'temperance', 'temperance brennan', 'dr. temperance', 'dr temperance', 'dr. temperance brennan', 'dr temperance brennan', 'bones', 'temp', 'dr bones', 'ms. brennan', 'ms brennan', 'brnnan', 'brannan', 'dr.brennan', 'dr.brenan']: do you love me?
+['booth', 'agent booth', 'special agent booth', 'special agent seeley booth', 'seeley', 'seeley booth', 'mr. booth', 'mr booth', 'officer booth', 'boothy', 'boothie', 'bth', 'bohth', 'boof', 'dr. booth']: yeah. do you want me to prove it to you?
+['brennan', 'dr. brennan', 'dr brennan', 'temperance', 'temperance brennan', 'dr. temperance', 'dr temperance', 'dr. temperance brennan', 'dr temperance brennan', 'bones', 'temp', 'dr bones', 'ms. brennan', 'ms brennan', 'brnnan', 'brannan', 'dr.brennan', 'dr.brenan']: mmm, if you're not too sleepy...
+(booth kisses brennan)
+['hodgins', 'jack hodgins', 'jack', 'dr. hodgins', 'dr hodgins', 'dr. jack', 'mr. hodgins', 'hodges', 'hodg', 'jack h', 'hodginz', 'dr hodges']: [narrating] a storm approaches. a still over the horizon, but there is lightning in the air. are either of them aware of the gathering turbulence? can the feel the crackling of electricity in the wind? or are they only aware of the power they generate between themselves?
+['booth', 'agent booth', 'special agent booth', 'special agent seeley booth', 'seeley', 'seeley booth', 'mr. booth', 'mr booth', 'officer booth', 'boothy', 'boothie', 'bth', 'bohth', 'boof', 'dr. booth']: ooh, i love when you do that.
+['brennan', 'dr. brennan', 'dr brennan', 'temperance', 'temperance brennan', 'dr. temperance', 'dr temperance', 'dr. temperance brennan', 'dr temperance brennan', 'bones', 'temp', 'dr bones', 'ms. brennan', 'ms brennan', 'brnnan', 'brannan', 'dr.brennan', 'dr.brenan']: [giggles]
+(cut to morning. 5: 43 am.)
+['hodgins', 'jack hodgins', 'jack', 'dr. hodgins', 'dr hodgins', 'dr. jack', 'mr. hodgins', 'hodges', 'hodg', 'jack h', 'hodginz', 'dr hodges']: [narrating] the first hint of the storm is not a thunderclap. it is a knock.
+(there's a knock at the front door)
+['brennan', 'dr. brennan', 'dr brennan', 'temperance', 'temperance brennan', 'dr. temperance', 'dr temperance', 'dr. temperance brennan', 'dr temperance brennan', 'bones', 'temp', 'dr bones', 'ms. brennan', 'ms brennan', 'brnnan', 'brannan', 'dr.brennan', 'dr.brenan']: get it!
+['booth', 'agent booth', 'special agent booth', 'special agent seeley booth', 'seeley', 'seeley booth', 'mr. booth', 'mr booth', 'officer booth', 'boothy', 'boothie', 'bth', 'bohth', 'boof', 'dr. booth']: [groaning] no. you get it!
+['brennan', 'dr. brennan', 'dr brennan', 'temperance', 'temperance brennan', 'dr. temperance', 'dr temperance', 'dr. temperance brennan', 'dr temperance brennan', 'bones', 'temp', 'dr bones', 'ms. brennan', 'ms brennan', 'brnnan', 'brannan', 'dr.brennan', 'dr.brenan']: no, you get it!
+['booth', 'agent booth', 'special agent booth', 'special agent seeley booth', 'seeley', 'seeley booth', 'mr. booth', 'mr booth', 'officer booth', 'boothy', 'boothie', 'bth', 'bohth', 'boof', 'dr. booth']: you get it!
+(brennan pulls sheet off booth)
+['booth', 'agent booth', 'special agent booth', 'special agent seeley booth', 'seeley', 'seeley booth', 'mr. booth', 'mr booth', 'officer booth', 'boothy', 'boothie', 'bth', 'bohth', 'boof', 'dr. booth']: [groans]
+['brennan', 'dr. brennan', 'dr brennan', 'temperance', 'temperance brennan', 'dr. temperance', 'dr temperance', 'dr. temperance brennan', 'dr temperance brennan', 'bones', 'temp', 'dr bones', 'ms. brennan', 'ms brennan', 'brnnan', 'brannan', 'dr.brennan', 'dr.brenan']: [giggles]
+['booth', 'agent booth', 'special agent booth', 'special agent seeley booth', 'seeley', 'seeley booth', 'mr. booth', 'mr booth', 'officer booth', 'boothy', 'boothie', 'bth', 'bohth', 'boof', 'dr. booth']: aww! great, i get it.
+(booth answers the door in brennan's floral bath robe)
+['booth', 'agent booth', 'special agent booth', 'special agent seeley booth', 'seeley', 'seeley booth', 'mr. booth', 'mr booth', 'officer booth', 'boothy', 'boothie', 'bth', 'bohth', 'boof', 'dr. booth']: what? what?
+(cam and jared are waiting at the door)
+['cam', 'camille', 'camille saroyan', 'dr. saroyan', 'dr saroyan', 'dr cam', 'dr. cam', 'cam s', 'ms. saroyan', 'ms saroyan', 'dr. camille', 'cammy', 'camil', 'cam saroyan']: morning. i'm detective saroyan.
+['booth', 'agent booth', 'special agent booth', 'special agent seeley booth', 'seeley', 'seeley booth', 'mr. booth', 'mr booth', 'officer booth', 'boothy', 'boothie', 'bth', 'bohth', 'boof', 'dr. booth']: yeah, i know who you are. you're my brothers' partner.
+(cam flashes her police badge)
+['jared', 'jared booth', "booth's brother", 'j. booth']: she prefers the term "boss".
+['cam', 'camille', 'camille saroyan', 'dr. saroyan', 'dr saroyan', 'dr cam', 'dr. cam', 'cam s', 'ms. saroyan', 'ms saroyan', 'dr. camille', 'cammy', 'camil', 'cam saroyan']: official visit. see the badge?
+(brennan enters)
+['brennan', 'dr. brennan', 'dr brennan', 'temperance', 'temperance brennan', 'dr. temperance', 'dr temperance', 'dr. temperance brennan', 'dr temperance brennan', 'bones', 'temp', 'dr bones', 'ms. brennan', 'ms brennan', 'brnnan', 'brannan', 'dr.brennan', 'dr.brenan']: what's going on?
+['booth', 'agent booth', 'special agent booth', 'special agent seeley booth', 'seeley', 'seeley booth', 'mr. booth', 'mr booth', 'officer booth', 'boothy', 'boothie', 'bth', 'bohth', 'boof', 'dr. booth']: aah! there's my robe!
+['cam', 'camille', 'camille saroyan', 'dr. saroyan', 'dr saroyan', 'dr cam', 'dr. cam', 'cam s', 'ms. saroyan', 'ms saroyan', 'dr. camille', 'cammy', 'camil', 'cam saroyan']: a body was found at your nightclub.
+(cut to: exterior of the lab, booth and brennan's nightclub. booth and brennan pull up in the alley behind the club in their mercedes. there are two police cars also in the alley, as well as a number of police officers.)
+['booth', 'agent booth', 'special agent booth', 'special agent seeley booth', 'seeley', 'seeley booth', 'mr. booth', 'mr booth', 'officer booth', 'boothy', 'boothie', 'bth', 'bohth', 'boof', 'dr. booth']: so who was still at work when you left?
+['brennan', 'dr. brennan', 'dr brennan', 'temperance', 'temperance brennan', 'dr. temperance', 'dr temperance', 'dr. temperance brennan', 'dr temperance brennan', 'bones', 'temp', 'dr bones', 'ms. brennan', 'ms brennan', 'brnnan', 'brannan', 'dr.brennan', 'dr.brenan']: zack came in just before four. brought the car around for me. and then fisher was supposed to come in at five so that they could do an inventory. do you think it was one of them?
+['booth', 'agent booth', 'special agent booth', 'special agent seeley booth', 'seeley', 'seeley booth', 'mr. booth', 'mr booth', 'officer booth', 'boothy', 'boothie', 'bth', 'bohth', 'boof', 'dr. booth']: well, you know, they should have said more than "there's a body".
+(cut to: interior the lab - the platform)
+['zack', 'zach', 'zack addy', 'zach addy', 'dr. addy', 'dr addy', 'z. addy', 'zack a', 'zackk', 'zaky', 'dr. zack', 'doc addy']: they found him laying in the bathroom.
+['brennan', 'dr. brennan', 'dr brennan', 'temperance', 'temperance brennan', 'dr. temperance', 'dr temperance', 'dr. temperance brennan', 'dr temperance brennan', 'bones', 'temp', 'dr bones', 'ms. brennan', 'ms brennan', 'brnnan', 'brannan', 'dr.brennan', 'dr.brenan']: is it terrible?
+['fisher', 'colin fisher', 'intern fisher', 'c. fisher', 'dr. fisher', 'dr fisher']: uh when zack saw it he, he screamed. i heard him from the kitchen.
+['zack', 'zach', 'zack addy', 'zach addy', 'dr. addy', 'dr addy', 'z. addy', 'zack a', 'zackk', 'zaky', 'dr. zack', 'doc addy']: yelped, not screamed.
+(cam enters)
+['cam', 'camille', 'camille saroyan', 'dr. saroyan', 'dr saroyan', 'dr cam', 'dr. cam', 'cam s', 'ms. saroyan', 'ms saroyan', 'dr. camille', 'cammy', 'camil', 'cam saroyan']: ready?
+(brennan leaves)
+['zack', 'zach', 'zack addy', 'zach addy', 'dr. addy', 'dr addy', 'z. addy', 'zack a', 'zackk', 'zaky', 'dr. zack', 'doc addy']: i was taken aback!
+['fisher', 'colin fisher', 'intern fisher', 'c. fisher', 'dr. fisher', 'dr fisher']: yeah, it was a scream.
+(cut to: interior the lab - the toilets. a foot is visible from one of the cubicles.)
+['hodgins', 'jack hodgins', 'jack', 'dr. hodgins', 'dr hodgins', 'dr. jack', 'mr. hodgins', 'hodges', 'hodg', 'jack h', 'hodginz', 'dr hodges']: [narrating] she has never seen a dead body before.
+(cam, booth and brennan enter)
+['hodgins', 'jack hodgins', 'jack', 'dr. hodgins', 'dr hodgins', 'dr. jack', 'mr. hodgins', 'hodges', 'hodg', 'jack h', 'hodginz', 'dr hodges']: [narrating] he was in the army and has seen too many.
+(cam opens cubicle door to reveal a man shot in the chest.)
+['jared', 'jared booth', "booth's brother", 'j. booth']: recognise him?
+['brennan', 'dr. brennan', 'dr brennan', 'temperance', 'temperance brennan', 'dr. temperance', 'dr temperance', 'dr. temperance brennan', 'dr temperance brennan', 'bones', 'temp', 'dr bones', 'ms. brennan', 'ms brennan', 'brnnan', 'brannan', 'dr.brennan', 'dr.brenan']: no.
+(booth and cam exchange glances.)
+['jared', 'jared booth', "booth's brother", 'j. booth']: you didn't see this guy last night?
+['brennan', 'dr. brennan', 'dr brennan', 'temperance', 'temperance brennan', 'dr. temperance', 'dr temperance', 'dr. temperance brennan', 'dr temperance brennan', 'bones', 'temp', 'dr bones', 'ms. brennan', 'ms brennan', 'brnnan', 'brannan', 'dr.brennan', 'dr.brenan']: no.
+['booth', 'agent booth', 'special agent booth', 'special agent seeley booth', 'seeley', 'seeley booth', 'mr. booth', 'mr booth', 'officer booth', 'boothy', 'boothie', 'bth', 'bohth', 'boof', 'dr. booth']: neither one of us was in the floor much last night.
+['jared', 'jared booth', "booth's brother", 'j. booth']: what about this?
+(jared crouched and pokes a matchbox on the floor near the deceased's foot)
+['jared', 'jared booth', "booth's brother", 'j. booth']: you ever hear of a place called, uh, "amicangelo's"?
+['brennan', 'dr. brennan', 'dr brennan', 'temperance', 'temperance brennan', 'dr. temperance', 'dr temperance', 'dr. temperance brennan', 'dr temperance brennan', 'bones', 'temp', 'dr bones', 'ms. brennan', 'ms brennan', 'brnnan', 'brannan', 'dr.brennan', 'dr.brenan']: [shakes head] uh uh.
+['cam', 'camille', 'camille saroyan', 'dr. saroyan', 'dr saroyan', 'dr cam', 'dr. cam', 'cam s', 'ms. saroyan', 'ms saroyan', 'dr. camille', 'cammy', 'camil', 'cam saroyan']: which one's closer to the washroom, your office, or the kitchen?
+['brennan', 'dr. brennan', 'dr brennan', 'temperance', 'temperance brennan', 'dr. temperance', 'dr temperance', 'dr. temperance brennan', 'dr temperance brennan', 'bones', 'temp', 'dr bones', 'ms. brennan', 'ms brennan', 'brnnan', 'brannan', 'dr.brennan', 'dr.brenan']: my office.
+['cam', 'camille', 'camille saroyan', 'dr. saroyan', 'dr saroyan', 'dr cam', 'dr. cam', 'cam s', 'ms. saroyan', 'ms saroyan', 'dr. camille', 'cammy', 'camil', 'cam saroyan']: how is it that the chef heard your assistant shout, but you didn't hear a gun?
+['brennan', 'dr. brennan', 'dr brennan', 'temperance', 'temperance brennan', 'dr. temperance', 'dr temperance', 'dr. temperance brennan', 'dr temperance brennan', 'bones', 'temp', 'dr bones', 'ms. brennan', 'ms brennan', 'brnnan', 'brannan', 'dr.brennan', 'dr.brenan']: maybe i'd already gone home, i left at 4am.
+['jared', 'jared booth', "booth's brother", 'j. booth']: but coagulation suggests that time of death occurred between 1 and 3am.
+['cam', 'camille', 'camille saroyan', 'dr. saroyan', 'dr saroyan', 'dr cam', 'dr. cam', 'cam s', 'ms. saroyan', 'ms saroyan', 'dr. camille', 'cammy', 'camil', 'cam saroyan']: obviously you weren't where you said you were, so where were you?
+['brennan', 'dr. brennan', 'dr brennan', 'temperance', 'temperance brennan', 'dr. temperance', 'dr temperance', 'dr. temperance brennan', 'dr temperance brennan', 'bones', 'temp', 'dr bones', 'ms. brennan', 'ms brennan', 'brnnan', 'brannan', 'dr.brennan', 'dr.brenan']: from midnight until 4am i was in my office, then i went home.
+['booth', 'agent booth', 'special agent booth', 'special agent seeley booth', 'seeley', 'seeley booth', 'mr. booth', 'mr booth', 'officer booth', 'boothy', 'boothie', 'bth', 'bohth', 'boof', 'dr. booth']: let's go honey. thanks. thanks a lot.
+(brennan and booth leave)
+['cam', 'camille', 'camille saroyan', 'dr. saroyan', 'dr saroyan', 'dr cam', 'dr. cam', 'cam s', 'ms. saroyan', 'ms saroyan', 'dr. camille', 'cammy', 'camil', 'cam saroyan']: you think that was insensitive?
+['jared', 'jared booth', "booth's brother", 'j. booth']: i dunno, implying that she was cheating on her husband maybe could've waited until he wasn't standing right next to her.
+['cam', 'camille', 'camille saroyan', 'dr. saroyan', 'dr saroyan', 'dr cam', 'dr. cam', 'cam s', 'ms. saroyan', 'ms saroyan', 'dr. camille', 'cammy', 'camil', 'cam saroyan']: why? they bust up and you finally get a crack at her. it's what you want, right?
+(cam leaves)
+(cut to: interior the lab - the bar)
+['caroline', 'caroline julian', 'ms. julian', 'prosecutor julian', 'miss julian', 'julian', 'c.julian', 'carolyn']: i know you all worked late last night. maybe short on sleep, but i need to prepare you for what happens next. anybody not heard about our murder?
+(pan to wendell, daisy, angela, vincent, sweets and fisher, all shaking their heads)
+['caroline', 'caroline julian', 'ms. julian', 'prosecutor julian', 'miss julian', 'julian', 'c.julian', 'carolyn']: good, 'cos you are all suspects.
+(cam enters, followed by the deceased being wheeled away on a gurney)
+['cam', 'camille', 'camille saroyan', 'dr. saroyan', 'dr saroyan', 'dr cam', 'dr. cam', 'cam s', 'ms. saroyan', 'ms saroyan', 'dr. camille', 'cammy', 'camil', 'cam saroyan']: somebody turned off the security cameras.
+['sweets', 'dr. sweets', 'dr sweets', 'lance', 'lance sweets', 'dr. lance', 'dr lance sweets', 'dr lance', 'agent sweets', 'doc sweets', 'l.sweets']: you think one of us is the kill?
+['caroline', 'caroline julian', 'ms. julian', 'prosecutor julian', 'miss julian', 'julian', 'c.julian', 'carolyn']: you mind, detective saroyan, i am conferring with my clients.
+(cam rolls her eyes and leaves)
+vincent nigel-murray: are you in fact acting as our solicitor in this matter?
+['caroline', 'caroline julian', 'ms. julian', 'prosecutor julian', 'miss julian', 'julian', 'c.julian', 'carolyn']: i am the nightclub's lawyer. you are welcome to call up your own.
+['angela', 'angela montenegro', 'ms. montenegro', 'ms montenegro', 'ang', 'ange', 'an', 'a.montenegro', 'angella', 'angla', 'angelina', 'miss montenegro', 'angela m', 'dr. angela']: well if we didn't do it, why do we need a lawyer?
+['daisy', 'daisy wick', 'intern daisy', 'ms. wick', 'd. wick', 'miss wick', 'daizy', 'dasi']: i didn't kill anyone!
+['wendell', 'wendell bray', 'intern wendell', 'w bray', 'w.bray', 'mr. bray', 'wendel']: zack screamed when he saw the body, so he's off the hook, right?
+['zack', 'zach', 'zack addy', 'zach addy', 'dr. addy', 'dr addy', 'z. addy', 'zack a', 'zackk', 'zaky', 'dr. zack', 'doc addy']: yelped!
+['fisher', 'colin fisher', 'intern fisher', 'c. fisher', 'dr. fisher', 'dr fisher']: he screamed like slutty girl #1 in a teen horror flick.
+['caroline', 'caroline julian', 'ms. julian', 'prosecutor julian', 'miss julian', 'julian', 'c.julian', 'carolyn']: from here on in you do not answer questions you don't get asked!
+(cut to: interior the homicide division - the interview room. fisher is being questioned by cam and jared, caroline is present as his attorney.)
+['fisher', 'colin fisher', 'intern fisher', 'c. fisher', 'dr. fisher', 'dr fisher']: consider me your top suspect, caroline: oh for god's sake!
+['fisher', 'colin fisher', 'intern fisher', 'c. fisher', 'dr. fisher', 'dr fisher']: i'm a trained chef, alright. finest schools in europe. but my professional life consists of cooking chicken wings designed to make people drink more beer. i'm a man on the edge.
+(jared throws a file of crime scene photos to fisher)
+['cam', 'camille', 'camille saroyan', 'dr. saroyan', 'dr saroyan', 'dr cam', 'dr. cam', 'cam s', 'ms. saroyan', 'ms saroyan', 'dr. camille', 'cammy', 'camil', 'cam saroyan']: your wings have been voted best in the city two years running.
+['fisher', 'colin fisher', 'intern fisher', 'c. fisher', 'dr. fisher', 'dr fisher']: not best. tallest. i'm the originator of the "tower of wings", which'll probably be on my tombstone.
+(fisher looks at a crime scene photo of the deceased)
+['fisher', 'colin fisher', 'intern fisher', 'c. fisher', 'dr. fisher', 'dr fisher']: never seen him before in my life.
+['cam', 'camille', 'camille saroyan', 'dr. saroyan', 'dr saroyan', 'dr cam', 'dr. cam', 'cam s', 'ms. saroyan', 'ms saroyan', 'dr. camille', 'cammy', 'camil', 'cam saroyan']: you're the hostess, you see everyone who comes in.
+(cut to angela)
+['angela', 'angela montenegro', 'ms. montenegro', 'ms montenegro', 'ang', 'ange', 'an', 'a.montenegro', 'angella', 'angla', 'angelina', 'miss montenegro', 'angela m', 'dr. angela']: uh maybe if you had a picture of him alive, i don't have a very visual imagination.
+(cut to daisy)
+['daisy', 'daisy wick', 'intern daisy', 'ms. wick', 'd. wick', 'miss wick', 'daizy', 'dasi']: he looks like a lot of guys. is that his real hair?
+(cut to wendell)
+['wendell', 'wendell bray', 'intern wendell', 'w bray', 'w.bray', 'mr. bray', 'wendel']: [shakes head]
+['caroline', 'caroline julian', 'ms. julian', 'prosecutor julian', 'miss julian', 'julian', 'c.julian', 'carolyn']: let the record show that my client is indicating with his head that he does not recognise the victim, like all my clients. next question.
+['cam', 'camille', 'camille saroyan', 'dr. saroyan', 'dr saroyan', 'dr cam', 'dr. cam', 'cam s', 'ms. saroyan', 'ms saroyan', 'dr. camille', 'cammy', 'camil', 'cam saroyan']: have you witnessed any... altercations, any differences of opinion at the club lately?
+(cut to angela)
+['angela', 'angela montenegro', 'ms. montenegro', 'ms montenegro', 'ang', 'ange', 'an', 'a.montenegro', 'angella', 'angla', 'angelina', 'miss montenegro', 'angela m', 'dr. angela']: well, mr. b, i mean, that's what we all call mr. booth, told this hip-hop impresario, "c-sync", who is actually very cute, by the way, that he would never book him, or any of his acts into the club.
+(cut to vincent)
+['vincent', 'vincent nigel-murray', 'nigel-murray', 'vincent n', 'v.nigel', 'intern vincent', 'nigel murray', 'nigel m', 'vinny', 'vince']: c-sync, yeah, he's alright, inn'e. he's right hand full of talent, left hand full of street cred, due to the fact that his brother's a big time gangsta.
+['jared', 'jared booth', "booth's brother", 'j. booth']: clark edison, aka c-sync, you restrained him from lunging at your boss?
+(cut to wendell)
+['wendell', 'wendell bray', 'intern wendell', 'w bray', 'w.bray', 'mr. bray', 'wendel']: [squints at jared]
+(cut to cam and caroline looking at each other quizzically, then back at wendell)
+(cut to daisy)
+['daisy', 'daisy wick', 'intern daisy', 'ms. wick', 'd. wick', 'miss wick', 'daizy', 'dasi']: i heard c-sync shouting all the way at the back of the coat check. he was mad.
+['jared', 'jared booth', "booth's brother", 'j. booth']: you're aware of a city councilman named max keenan?
+(cut to sweets)
+['sweets', 'dr. sweets', 'dr sweets', 'lance', 'lance sweets', 'dr. lance', 'dr lance sweets', 'dr lance', 'agent sweets', 'doc sweets', 'l.sweets']: everybody knows max. he's around all the time. max keenan is upset because he never got his "facilitators fee" for getting city council to re-zone us for live entertainment.
+['cam', 'camille', 'camille saroyan', 'dr. saroyan', 'dr saroyan', 'dr cam', 'dr. cam', 'cam s', 'ms. saroyan', 'ms saroyan', 'dr. camille', 'cammy', 'camil', 'cam saroyan']: why would crooked politician tell you about not getting a pay off?
+['sweets', 'dr. sweets', 'dr sweets', 'lance', 'lance sweets', 'dr. lance', 'dr lance sweets', 'dr lance', 'agent sweets', 'doc sweets', 'l.sweets']: i'm a bartender, i'm practically a phycologist.
+(cut to cam looking exasperated)
+['zack', 'zach', 'zack addy', 'zach addy', 'dr. addy', 'dr addy', 'z. addy', 'zack a', 'zackk', 'zaky', 'dr. zack', 'doc addy']: a persian named ara something wants to buy the nightclub jared: arastoo vaziri?
+['zack', 'zach', 'zack addy', 'zach addy', 'dr. addy', 'dr addy', 'z. addy', 'zack a', 'zackk', 'zaky', 'dr. zack', 'doc addy']: bren's met with him about forty times. mr. b does not want to sell.
+(cut to daisy)
+['daisy', 'daisy wick', 'intern daisy', 'ms. wick', 'd. wick', 'miss wick', 'daizy', 'dasi']: it was me who shut off the security cameras. i wanted some privacy with my boyfriend, whom i will not name.
+(cut to fisher)
+['fisher', 'colin fisher', 'intern fisher', 'c. fisher', 'dr. fisher', 'dr fisher']: ok, me and daisy, look we have a thing. but the thing that we have isn't, you know, isn't a boyfriend-girlfriend thing. it's a thing. it's just not a thing.
+(cut to angela)
+['angela', 'angela montenegro', 'ms. montenegro', 'ms montenegro', 'ang', 'ange', 'an', 'a.montenegro', 'angella', 'angla', 'angelina', 'miss montenegro', 'angela m', 'dr. angela']: miss julian warned us that you have to make an arrest in this case, and i just wanna say that just because jared booth and i went out on a couple of dates, and he cannot accept the fact that it is going no where, does not mean that i should go to gaol.
+['jared', 'jared booth', "booth's brother", 'j. booth']: didn't your lawyer tell you not to answer any questions you weren't asked?
+['cam', 'camille', 'camille saroyan', 'dr. saroyan', 'dr saroyan', 'dr cam', 'dr. cam', 'cam s', 'ms. saroyan', 'ms saroyan', 'dr. camille', 'cammy', 'camil', 'cam saroyan']: should i mark your people down as "stupid" or "uncooperative"?
+['caroline', 'caroline julian', 'ms. julian', 'prosecutor julian', 'miss julian', 'julian', 'c.julian', 'carolyn']: put 'em down as "well represented".
+['cam', 'camille', 'camille saroyan', 'dr. saroyan', 'dr saroyan', 'dr cam', 'dr. cam', 'cam s', 'ms. saroyan', 'ms saroyan', 'dr. camille', 'cammy', 'camil', 'cam saroyan']: how about i put 'em down as "accessories after the fact"?
+(cut to: interior the royal diner. brennan and booth are at the counter eating.)
+['brennan', 'dr. brennan', 'dr brennan', 'temperance', 'temperance brennan', 'dr. temperance', 'dr temperance', 'dr. temperance brennan', 'dr temperance brennan', 'bones', 'temp', 'dr bones', 'ms. brennan', 'ms brennan', 'brnnan', 'brannan', 'dr.brennan', 'dr.brenan']: how long will the club be shut down?
+['booth', 'agent booth', 'special agent booth', 'special agent seeley booth', 'seeley', 'seeley booth', 'mr. booth', 'mr booth', 'officer booth', 'boothy', 'boothie', 'bth', 'bohth', 'boof', 'dr. booth']: oh, well, as long as they want, it's a murder scene.
+['brennan', 'dr. brennan', 'dr brennan', 'temperance', 'temperance brennan', 'dr. temperance', 'dr temperance', 'dr. temperance brennan', 'dr temperance brennan', 'bones', 'temp', 'dr bones', 'ms. brennan', 'ms brennan', 'brnnan', 'brannan', 'dr.brennan', 'dr.brenan']: financially that's gonna hurt.
+(max enters)
+['max', 'max keenan', 'mr. keenan', 'm. keenan', 'dad', "brennan's father", 'brennan’s father']: i'm your councilman, maybe i can help.
+['booth', 'agent booth', 'special agent booth', 'special agent seeley booth', 'seeley', 'seeley booth', 'mr. booth', 'mr booth', 'officer booth', 'boothy', 'boothie', 'bth', 'bohth', 'boof', 'dr. booth']: [laughs] what's that going to set us back?
+['max', 'max keenan', 'mr. keenan', 'm. keenan', 'dad', "brennan's father", 'brennan’s father']: i want you to consider the possibility that this unfortunate incident, brennan: you mean the homicide.
+['max', 'max keenan', 'mr. keenan', 'm. keenan', 'dad', "brennan's father", 'brennan’s father']: maybe if you had remembered to reimburse the people that went out of their way to get you that zoning change, booth: ok, really, what're you gonna do, put the squeeze on us retractably?
+['max', 'max keenan', 'mr. keenan', 'm. keenan', 'dad', "brennan's father", 'brennan’s father']: why's it so hard for your husband to see the ways of the world?
+['brennan', 'dr. brennan', 'dr brennan', 'temperance', 'temperance brennan', 'dr. temperance', 'dr temperance', 'dr. temperance brennan', 'dr temperance brennan', 'bones', 'temp', 'dr bones', 'ms. brennan', 'ms brennan', 'brnnan', 'brannan', 'dr.brennan', 'dr.brenan']: because he wants me to be proud of him.
+(cut to: interior the homicide divison - offices)
+['cam', 'camille', 'camille saroyan', 'dr. saroyan', 'dr saroyan', 'dr cam', 'dr. cam', 'cam s', 'ms. saroyan', 'ms saroyan', 'dr. camille', 'cammy', 'camil', 'cam saroyan']: i'm afraid you won't be able to reopen the nightclub for quite some time, brennan: well, where can i appeal that decision?
+['cam', 'camille', 'camille saroyan', 'dr. saroyan', 'dr saroyan', 'dr cam', 'dr. cam', 'cam s', 'ms. saroyan', 'ms saroyan', 'dr. camille', 'cammy', 'camil', 'cam saroyan']: wow, what they said about you was true!
+['brennan', 'dr. brennan', 'dr brennan', 'temperance', 'temperance brennan', 'dr. temperance', 'dr temperance', 'dr. temperance brennan', 'dr temperance brennan', 'bones', 'temp', 'dr bones', 'ms. brennan', 'ms brennan', 'brnnan', 'brannan', 'dr.brennan', 'dr.brenan']: what's that?
+['cam', 'camille', 'camille saroyan', 'dr. saroyan', 'dr saroyan', 'dr cam', 'dr. cam', 'cam s', 'ms. saroyan', 'ms saroyan', 'dr. camille', 'cammy', 'camil', 'cam saroyan']: that you're kind of a cold fish.
+['brennan', 'dr. brennan', 'dr brennan', 'temperance', 'temperance brennan', 'dr. temperance', 'dr temperance', 'dr. temperance brennan', 'dr temperance brennan', 'bones', 'temp', 'dr bones', 'ms. brennan', 'ms brennan', 'brnnan', 'brannan', 'dr.brennan', 'dr.brenan']: well if by cold fish you mean pragmatic and rational, then that's what i am.
+['cam', 'camille', 'camille saroyan', 'dr. saroyan', 'dr saroyan', 'dr cam', 'dr. cam', 'cam s', 'ms. saroyan', 'ms saroyan', 'dr. camille', 'cammy', 'camil', 'cam saroyan']: no i meant more like somebody when a human being is murder cares more about reopening the club than capturing the murder.
+['brennan', 'dr. brennan', 'dr brennan', 'temperance', 'temperance brennan', 'dr. temperance', 'dr temperance', 'dr. temperance brennan', 'dr temperance brennan', 'bones', 'temp', 'dr bones', 'ms. brennan', 'ms brennan', 'brnnan', 'brannan', 'dr.brennan', 'dr.brenan']: well, i have my job, and you have yours.
+(cam and brennan enter cam's office)
+['cam', 'camille', 'camille saroyan', 'dr. saroyan', 'dr saroyan', 'dr cam', 'dr. cam', 'cam s', 'ms. saroyan', 'ms saroyan', 'dr. camille', 'cammy', 'camil', 'cam saroyan']: where were you really last night? who were you with?
+['brennan', 'dr. brennan', 'dr brennan', 'temperance', 'temperance brennan', 'dr. temperance', 'dr temperance', 'dr. temperance brennan', 'dr temperance brennan', 'bones', 'temp', 'dr bones', 'ms. brennan', 'ms brennan', 'brnnan', 'brannan', 'dr.brennan', 'dr.brenan']: i had a very satisfying go-around with my husband at about 5 this morning, how about you?
+['cam', 'camille', 'camille saroyan', 'dr. saroyan', 'dr saroyan', 'dr cam', 'dr. cam', 'cam s', 'ms. saroyan', 'ms saroyan', 'dr. camille', 'cammy', 'camil', 'cam saroyan']: the victim was kill by a gun wound to the chest. gun are loud, but you did not hear it. you were not in the building. either we talk about this now, maybe it goes no further, or otherwise i've gotta pursue this line of enquiry in a graceless manner.
+['brennan', 'dr. brennan', 'dr brennan', 'temperance', 'temperance brennan', 'dr. temperance', 'dr temperance', 'dr. temperance brennan', 'dr temperance brennan', 'bones', 'temp', 'dr bones', 'ms. brennan', 'ms brennan', 'brnnan', 'brannan', 'dr.brennan', 'dr.brenan']: so this is blackmail.
+['cam', 'camille', 'camille saroyan', 'dr. saroyan', 'dr saroyan', 'dr cam', 'dr. cam', 'cam s', 'ms. saroyan', 'ms saroyan', 'dr. camille', 'cammy', 'camil', 'cam saroyan']: you pride yourself on being pragmatic, i figured you'd appreciate the logic.
+(cut to: interior the homicide division - the staff room. jared is getting a cup of coffee while booth leans on the door jamb)
+['jared', 'jared booth', "booth's brother", 'j. booth']: this guy, the persian, or whatever, how bad does he want your place?
+['booth', 'agent booth', 'special agent booth', 'special agent seeley booth', 'seeley', 'seeley booth', 'mr. booth', 'mr booth', 'officer booth', 'boothy', 'boothie', 'bth', 'bohth', 'boof', 'dr. booth']: who? viziri? he's the kinda guy who won't take no for an answer. why?
+['jared', 'jared booth', "booth's brother", 'j. booth']: because the guy comes up shady. but he's got an alibi for last night. twin hooker alibis. now i'm gonna tell you something cam doesn't even know yet. coroner's found fibres inside the bullet track, from something used to muffle the gun.
+['booth', 'agent booth', 'special agent booth', 'special agent seeley booth', 'seeley', 'seeley booth', 'mr. booth', 'mr booth', 'officer booth', 'boothy', 'boothie', 'bth', 'bohth', 'boof', 'dr. booth']: well that'd explain why bren didn't hear the shot.
+['jared', 'jared booth', "booth's brother", 'j. booth']: yeah, well, it's amazing what forensics can do these days. now, if we happen to find that particular item, it could lead straight to the kill.
+['booth', 'agent booth', 'special agent booth', 'special agent seeley booth', 'seeley', 'seeley booth', 'mr. booth', 'mr booth', 'officer booth', 'boothy', 'boothie', 'bth', 'bohth', 'boof', 'dr. booth']: so you think i know where it is?
+['jared', 'jared booth', "booth's brother", 'j. booth']: i'm just saying the best thing is that item never shows up.
+(jared exits)
+(cut to: interior booth's car)
+['brennan', 'dr. brennan', 'dr brennan', 'temperance', 'temperance brennan', 'dr. temperance', 'dr temperance', 'dr. temperance brennan', 'dr temperance brennan', 'bones', 'temp', 'dr bones', 'ms. brennan', 'ms brennan', 'brnnan', 'brannan', 'dr.brennan', 'dr.brenan']: cam says everybody thinks i'm a cold fish.
+['booth', 'agent booth', 'special agent booth', 'special agent seeley booth', 'seeley', 'seeley booth', 'mr. booth', 'mr booth', 'officer booth', 'boothy', 'boothie', 'bth', 'bohth', 'boof', 'dr. booth']: nah, what you are is iceland. cold to the touch, but underneath you're all volcano.
+['brennan', 'dr. brennan', 'dr brennan', 'temperance', 'temperance brennan', 'dr. temperance', 'dr temperance', 'dr. temperance brennan', 'dr temperance brennan', 'bones', 'temp', 'dr bones', 'ms. brennan', 'ms brennan', 'brnnan', 'brannan', 'dr.brennan', 'dr.brenan']: (giggles) i don't like people thinking that i'm a cold fish.
+['booth', 'agent booth', 'special agent booth', 'special agent seeley booth', 'seeley', 'seeley booth', 'mr. booth', 'mr booth', 'officer booth', 'boothy', 'boothie', 'bth', 'bohth', 'boof', 'dr. booth']: look if you were really a cold fish, you wouldn't care.
+['brennan', 'dr. brennan', 'dr brennan', 'temperance', 'temperance brennan', 'dr. temperance', 'dr temperance', 'dr. temperance brennan', 'dr temperance brennan', 'bones', 'temp', 'dr bones', 'ms. brennan', 'ms brennan', 'brnnan', 'brannan', 'dr.brennan', 'dr.brenan']: you used logic on me. that's sweet. (rubs booth's neck)
+['booth', 'agent booth', 'special agent booth', 'special agent seeley booth', 'seeley', 'seeley booth', 'mr. booth', 'mr booth', 'officer booth', 'boothy', 'boothie', 'bth', 'bohth', 'boof', 'dr. booth']: (laughs)
+['brennan', 'dr. brennan', 'dr brennan', 'temperance', 'temperance brennan', 'dr. temperance', 'dr temperance', 'dr. temperance brennan', 'dr temperance brennan', 'bones', 'temp', 'dr bones', 'ms. brennan', 'ms brennan', 'brnnan', 'brannan', 'dr.brennan', 'dr.brenan']: cam says the reason i didn't hear the gun is because i'm cheating on you.
+['booth', 'agent booth', 'special agent booth', 'special agent seeley booth', 'seeley', 'seeley booth', 'mr. booth', 'mr booth', 'officer booth', 'boothy', 'boothie', 'bth', 'bohth', 'boof', 'dr. booth']: oh well, jared thinks i'm, you know, the kill, and he's helping me get away with it, brennan: so you're a murder, i'm unfaithful... we are a very exciting couple.
+['booth', 'agent booth', 'special agent booth', 'special agent seeley booth', 'seeley', 'seeley booth', 'mr. booth', 'mr booth', 'officer booth', 'boothy', 'boothie', 'bth', 'bohth', 'boof', 'dr. booth']: except the real reason you didn't hear anything is because the gun was muffled.
+(booth's phone rings)
+['booth', 'agent booth', 'special agent booth', 'special agent seeley booth', 'seeley', 'seeley booth', 'mr. booth', 'mr booth', 'officer booth', 'boothy', 'boothie', 'bth', 'bohth', 'boof', 'dr. booth']: that's caroline's phone. what's she calling for?
+(booth answers the phone)
+['booth', 'agent booth', 'special agent booth', 'special agent seeley booth', 'seeley', 'seeley booth', 'mr. booth', 'mr booth', 'officer booth', 'boothy', 'boothie', 'bth', 'bohth', 'boof', 'dr. booth']: hello, you've reached bonnie and clyde, brennan: murder incorporated ,
+(cut to: interior the lab - the bar. caroline is on her cell phone)
+booth and brennan: (over the phone) how may we help you?
+['max', 'max keenan', 'mr. keenan', 'm. keenan', 'dad', "brennan's father", 'brennan’s father']: yeah, it's max,
+(cut back to: booth's car)
+['booth', 'agent booth', 'special agent booth', 'special agent seeley booth', 'seeley', 'seeley booth', 'mr. booth', 'mr booth', 'officer booth', 'boothy', 'boothie', 'bth', 'bohth', 'boof', 'dr. booth']: max, what're you doing on caroline's phone?
+(cut back to the lab)
+['max', 'max keenan', 'mr. keenan', 'm. keenan', 'dad', "brennan's father", 'brennan’s father']: i don't own a cell phone. big brother always knows where you are when you've got a cell phone.
+['caroline', 'caroline julian', 'ms. julian', 'prosecutor julian', 'miss julian', 'julian', 'c.julian', 'carolyn']: i guess when you're as shifty as max here, paranoid is good.
+['max', 'max keenan', 'mr. keenan', 'm. keenan', 'dad', "brennan's father", 'brennan’s father']: you're open for business tonight.
+(cut to booth's car)
+['brennan', 'dr. brennan', 'dr brennan', 'temperance', 'temperance brennan', 'dr. temperance', 'dr temperance', 'dr. temperance brennan', 'dr temperance brennan', 'bones', 'temp', 'dr bones', 'ms. brennan', 'ms brennan', 'brnnan', 'brannan', 'dr.brennan', 'dr.brenan']: well how'd you pull that off?
+['caroline', 'caroline julian', 'ms. julian', 'prosecutor julian', 'miss julian', 'julian', 'c.julian', 'carolyn']: (over the phone) let's say....
+(cut to: the lab)
+['caroline', 'caroline julian', 'ms. julian', 'prosecutor julian', 'miss julian', 'julian', 'c.julian', 'carolyn']: i went in the front door, max slipped in the back, and we got it covered.
+(cut to: booth's car)
+['booth', 'agent booth', 'special agent booth', 'special agent seeley booth', 'seeley', 'seeley booth', 'mr. booth', 'mr booth', 'officer booth', 'boothy', 'boothie', 'bth', 'bohth', 'boof', 'dr. booth']: what does that even mean?
+['max', 'max keenan', 'mr. keenan', 'm. keenan', 'dad', "brennan's father", 'brennan’s father']: (over the phone) it just means that you've gotta remember
+(cut to: the lab)
+['max', 'max keenan', 'mr. keenan', 'm. keenan', 'dad', "brennan's father", 'brennan’s father']: what they say about one hand washing the other.
+(caroline hangs up phone)
+['caroline', 'caroline julian', 'ms. julian', 'prosecutor julian', 'miss julian', 'julian', 'c.julian', 'carolyn']: that particular cliché pertains to people with clean hands, max. you do not qualify.
+(caroline exits, camera focuses on wendell who is standing near the platform)
+(cut to: interior the lab - the catwalk. vincent moving boxes of his dj equipment around, zack is watching him)
+['zack', 'zach', 'zack addy', 'zach addy', 'dr. addy', 'dr addy', 'z. addy', 'zack a', 'zackk', 'zaky', 'dr. zack', 'doc addy']: there's a blood stain on the bathroom wall, vincent: yeah, someone smashed the victim's head against the wall, knocked him out, then came back and finished him off with a shot to the chest. a very cold-blooded execution, in fact.
+['zack', 'zach', 'zack addy', 'zach addy', 'dr. addy', 'dr addy', 'z. addy', 'zack a', 'zackk', 'zaky', 'dr. zack', 'doc addy']: how did you know that?
+['vincent', 'vincent nigel-murray', 'nigel-murray', 'vincent n', 'v.nigel', 'intern vincent', 'nigel murray', 'nigel m', 'vinny', 'vince']: i eavesdropped on the cops. also, they're looking for something that was used to smother the sound of the shot.
+(vincent removes a panel from one of his equipment boxes, revealing a gun atop his dj gear)
+['zack', 'zach', 'zack addy', 'zach addy', 'dr. addy', 'dr addy', 'z. addy', 'zack a', 'zackk', 'zaky', 'dr. zack', 'doc addy']: (moves over to the equipment box and removes the gun) why do you have a gun?
+['vincent', 'vincent nigel-murray', 'nigel-murray', 'vincent n', 'v.nigel', 'intern vincent', 'nigel murray', 'nigel m', 'vinny', 'vince']: (startled) ooh! i'm english, alright. we don't use gun. we use our foreheads. what you've most likely picked up is the murder weapon.
+['zack', 'zach', 'zack addy', 'zach addy', 'dr. addy', 'dr addy', 'z. addy', 'zack a', 'zackk', 'zaky', 'dr. zack', 'doc addy']: (replaces gun in the equipment box) why would the murder hide the gun in your stuff?
+['vincent', 'vincent nigel-murray', 'nigel-murray', 'vincent n', 'v.nigel', 'intern vincent', 'nigel murray', 'nigel m', 'vinny', 'vince']: perhaps because the murder sussed me out as, you know, the type of fellow who'd be smart enough to get rid of it. evidently he didn't expect you to be here when i discovered it.
+['zack', 'zach', 'zack addy', 'zach addy', 'dr. addy', 'dr addy', 'z. addy', 'zack a', 'zackk', 'zaky', 'dr. zack', 'doc addy']: you mean we should get rid of it?
+['vincent', 'vincent nigel-murray', 'nigel-murray', 'vincent n', 'v.nigel', 'intern vincent', 'nigel murray', 'nigel m', 'vinny', 'vince']: you and i are not in collusion.
+['zack', 'zach', 'zack addy', 'zach addy', 'dr. addy', 'dr addy', 'z. addy', 'zack a', 'zackk', 'zaky', 'dr. zack', 'doc addy']: why not?
+['vincent', 'vincent nigel-murray', 'nigel-murray', 'vincent n', 'v.nigel', 'intern vincent', 'nigel murray', 'nigel m', 'vinny', 'vince']: because you're the type of moron who goes to gaol for a murder he didn't commit, and i am not.
+['zack', 'zach', 'zack addy', 'zach addy', 'dr. addy', 'dr addy', 'z. addy', 'zack a', 'zackk', 'zaky', 'dr. zack', 'doc addy']: then, whatta we do?
+['vincent', 'vincent nigel-murray', 'nigel-murray', 'vincent n', 'v.nigel', 'intern vincent', 'nigel murray', 'nigel m', 'vinny', 'vince']: ok, what i should do is kill you with the gun, and then tell the cops that you attacked me after confessing to the murder. (holds up hand for a high-five)
+['zack', 'zach', 'zack addy', 'zach addy', 'dr. addy', 'dr addy', 'z. addy', 'zack a', 'zackk', 'zaky', 'dr. zack', 'doc addy']: (looks uncertainly at vincent)
+(cut to: exterior the lab)
+(cut to: interior the lab - the bar. sweets is behind the bar, while hodgins sits at the bar)
+['sweets', 'dr. sweets', 'dr sweets', 'lance', 'lance sweets', 'dr. lance', 'dr lance sweets', 'dr lance', 'agent sweets', 'doc sweets', 'l.sweets']: it's hard to believe that someone was murder just over there.
+['hodgins', 'jack hodgins', 'jack', 'dr. hodgins', 'dr hodgins', 'dr. jack', 'mr. hodgins', 'hodges', 'hodg', 'jack h', 'hodginz', 'dr hodges']: means nothing to me, a best selling pulp crap crime novelist. i trade in death daily. (takes a sip from his drink) theoretically. what liquor best exemplifies death by substance abuse?
+(sweets shrugs)
+['hodgins', 'jack hodgins', 'jack', 'dr. hodgins', 'dr hodgins', 'dr. jack', 'mr. hodgins', 'hodges', 'hodg', 'jack h', 'hodginz', 'dr hodges']: irish whisky? (puts on an irish accent) 'course, but which spirit best represents murder most foul?
+['sweets', 'dr. sweets', 'dr sweets', 'lance', 'lance sweets', 'dr. lance', 'dr lance sweets', 'dr lance', 'agent sweets', 'doc sweets', 'l.sweets']: you know, everyone who works here is a suspect? i'm working with the murder.
+['hodgins', 'jack hodgins', 'jack', 'dr. hodgins', 'dr hodgins', 'dr. jack', 'mr. hodgins', 'hodges', 'hodg', 'jack h', 'hodginz', 'dr hodges']: (with irish accent) do you have a picture of the poor bastard who was murder?
+(sweets reached under the bar for his phone)
+['sweets', 'dr. sweets', 'dr sweets', 'lance', 'lance sweets', 'dr. lance', 'dr lance sweets', 'dr lance', 'agent sweets', 'doc sweets', 'l.sweets']: fisher sent this to me this morning before the cops arrived.
+['hodgins', 'jack hodgins', 'jack', 'dr. hodgins', 'dr hodgins', 'dr. jack', 'mr. hodgins', 'hodges', 'hodg', 'jack h', 'hodginz', 'dr hodges']: ooh! (leans forward to grab the phone)
+['sweets', 'dr. sweets', 'dr sweets', 'lance', 'lance sweets', 'dr. lance', 'dr lance sweets', 'dr lance', 'agent sweets', 'doc sweets', 'l.sweets']: (hold phone to his chest) i'll only show you if you lose the irish accent.
+['hodgins', 'jack hodgins', 'jack', 'dr. hodgins', 'dr hodgins', 'dr. jack', 'mr. hodgins', 'hodges', 'hodg', 'jack h', 'hodginz', 'dr hodges']: (holds up his hands to say ok)
+['sweets', 'dr. sweets', 'dr sweets', 'lance', 'lance sweets', 'dr. lance', 'dr lance sweets', 'dr lance', 'agent sweets', 'doc sweets', 'l.sweets']: take a look (gives hodgins the phone)
+['hodgins', 'jack hodgins', 'jack', 'dr. hodgins', 'dr hodgins', 'dr. jack', 'mr. hodgins', 'hodges', 'hodg', 'jack h', 'hodginz', 'dr hodges']: (looks at the photo on the cell phone) this may was obviously a hired kill.
+['sweets', 'dr. sweets', 'dr sweets', 'lance', 'lance sweets', 'dr. lance', 'dr lance sweets', 'dr lance', 'agent sweets', 'doc sweets', 'l.sweets']: you get that from a phone pic?
+['hodgins', 'jack hodgins', 'jack', 'dr. hodgins', 'dr hodgins', 'dr. jack', 'mr. hodgins', 'hodges', 'hodg', 'jack h', 'hodginz', 'dr hodges']: his hair, his suit, his ring. the fact that i talked to him last night. here.
+['sweets', 'dr. sweets', 'dr sweets', 'lance', 'lance sweets', 'dr. lance', 'dr lance sweets', 'dr lance', 'agent sweets', 'doc sweets', 'l.sweets']: (shocked) you? here? in this bar? i didn't see him.
+['hodgins', 'jack hodgins', 'jack', 'dr. hodgins', 'dr hodgins', 'dr. jack', 'mr. hodgins', 'hodges', 'hodg', 'jack h', 'hodginz', 'dr hodges']: (disbelieving) gottcha. yeah, right, none of us did. very good. murder most foul.
+(cut to: interior the lab- the platform. clark walking up onto the platform, followed by booth, brennan and caroline)
+['clark', 'clark edison', 'dr. edison', 'dr edison', 'edison', 'c. edison', 'doc clark', 'dr. clark']: can you feel that? i mean this place is magic! your stage has mystic properties (kisses his fingers)
+['brennan', 'dr. brennan', 'dr brennan', 'temperance', 'temperance brennan', 'dr. temperance', 'dr temperance', 'dr. temperance brennan', 'dr temperance brennan', 'bones', 'temp', 'dr bones', 'ms. brennan', 'ms brennan', 'brnnan', 'brannan', 'dr.brennan', 'dr.brenan']: that is a ridiculous urban legend.
+['clark', 'clark edison', 'dr. edison', 'dr edison', 'edison', 'c. edison', 'doc clark', 'dr. clark']: then explain to me how so many of the people who've played here over the years have gone on to fame and fortune?
+['booth', 'agent booth', 'special agent booth', 'special agent seeley booth', 'seeley', 'seeley booth', 'mr. booth', 'mr booth', 'officer booth', 'boothy', 'boothie', 'bth', 'bohth', 'boof', 'dr. booth']: maybe it's because we have good taste.
+['clark', 'clark edison', 'dr. edison', 'dr edison', 'edison', 'c. edison', 'doc clark', 'dr. clark']: this place had the power before you got here, and'll have it after you're gone. all i want is my piece of the legacy. (spins around) c-sync baby! and if you had good taste, you would book me first, and then each of my protégés thereafter, ya dig?
+['booth', 'agent booth', 'special agent booth', 'special agent seeley booth', 'seeley', 'seeley booth', 'mr. booth', 'mr booth', 'officer booth', 'boothy', 'boothie', 'bth', 'bohth', 'boof', 'dr. booth']: well, dig this. i recognise you're personal talent, but we won't book you or you're... brennan: protégés, booth: because of your bro-tha clark: so, you're just brazenly racist.
+['caroline', 'caroline julian', 'ms. julian', 'prosecutor julian', 'miss julian', 'julian', 'c.julian', 'carolyn']: this is exactly where i did not want this conversation to go.
+['brennan', 'dr. brennan', 'dr brennan', 'temperance', 'temperance brennan', 'dr. temperance', 'dr temperance', 'dr. temperance brennan', 'dr temperance brennan', 'bones', 'temp', 'dr bones', 'ms. brennan', 'ms brennan', 'brnnan', 'brannan', 'dr.brennan', 'dr.brenan']: my husband is concerned about your gang ties. which is not you, but is your brother.
+['clark', 'clark edison', 'dr. edison', 'dr edison', 'edison', 'c. edison', 'doc clark', 'dr. clark']: look, there's kane, and then there's able. do you see a mark on my forehead? nah. so that makes me able. and on top of that, how're you gonna penalise my protégés because of my brother? how is that fair?
+['caroline', 'caroline julian', 'ms. julian', 'prosecutor julian', 'miss julian', 'julian', 'c.julian', 'carolyn']: (to booth) as your lawyer i must advise you, if mr. edison lodges a suit, clark: (mouths "lawsuit" at booth)
+['caroline', 'caroline julian', 'ms. julian', 'prosecutor julian', 'miss julian', 'julian', 'c.julian', 'carolyn']: the outcome is not assured in our favour.
+['brennan', 'dr. brennan', 'dr brennan', 'temperance', 'temperance brennan', 'dr. temperance', 'dr temperance', 'dr. temperance brennan', 'dr temperance brennan', 'bones', 'temp', 'dr bones', 'ms. brennan', 'ms brennan', 'brnnan', 'brannan', 'dr.brennan', 'dr.brenan']: we will discuss it. since we are partners.
+(vincent enters)
+['vincent', 'vincent nigel-murray', 'nigel-murray', 'vincent n', 'v.nigel', 'intern vincent', 'nigel murray', 'nigel m', 'vinny', 'vince']: hi hi. listen, i know whatever you're doing is very important but, c-sync? c-sync!
+['clark', 'clark edison', 'dr. edison', 'dr edison', 'edison', 'c. edison', 'doc clark', 'dr. clark']: hey!
+['vincent', 'vincent nigel-murray', 'nigel-murray', 'vincent n', 'v.nigel', 'intern vincent', 'nigel murray', 'nigel m', 'vinny', 'vince']: wasswah!
+['clark', 'clark edison', 'dr. edison', 'dr edison', 'edison', 'c. edison', 'doc clark', 'dr. clark']: be glad you're a pasty white albino, vinny.
+['vincent', 'vincent nigel-murray', 'nigel-murray', 'vincent n', 'v.nigel', 'intern vincent', 'nigel murray', 'nigel m', 'vinny', 'vince']: cheers. uh, i need to talk.
+(cut to: interior the lab - the catwalk. vincent's equipment boxes. booth looks at the gun sitting on top of the dj gear)
+['booth', 'agent booth', 'special agent booth', 'special agent seeley booth', 'seeley', 'seeley booth', 'mr. booth', 'mr booth', 'officer booth', 'boothy', 'boothie', 'bth', 'bohth', 'boof', 'dr. booth']: wooo, oh no.
+['vincent', 'vincent nigel-murray', 'nigel-murray', 'vincent n', 'v.nigel', 'intern vincent', 'nigel murray', 'nigel m', 'vinny', 'vince']: 200 million unregistered gun in the country, this one finds its way into my gear.
+['booth', 'agent booth', 'special agent booth', 'special agent seeley booth', 'seeley', 'seeley booth', 'mr. booth', 'mr booth', 'officer booth', 'boothy', 'boothie', 'bth', 'bohth', 'boof', 'dr. booth']: anybody touch it?
+(pan to zack who raises his hand)
+(cut to caroline looking at the gun on the dj gear)
+['caroline', 'caroline julian', 'ms. julian', 'prosecutor julian', 'miss julian', 'julian', 'c.julian', 'carolyn']: did anybody touch it?
+['booth', 'agent booth', 'special agent booth', 'special agent seeley booth', 'seeley', 'seeley booth', 'mr. booth', 'mr booth', 'officer booth', 'boothy', 'boothie', 'bth', 'bohth', 'boof', 'dr. booth']: zack did.
+['caroline', 'caroline julian', 'ms. julian', 'prosecutor julian', 'miss julian', 'julian', 'c.julian', 'carolyn']: (sighs)
+['vincent', 'vincent nigel-murray', 'nigel-murray', 'vincent n', 'v.nigel', 'intern vincent', 'nigel murray', 'nigel m', 'vinny', 'vince']: legally, it's with my stuff, can i, like claim it as my own and toss it into a volcano?
+['brennan', 'dr. brennan', 'dr brennan', 'temperance', 'temperance brennan', 'dr. temperance', 'dr temperance', 'dr. temperance brennan', 'dr temperance brennan', 'bones', 'temp', 'dr bones', 'ms. brennan', 'ms brennan', 'brnnan', 'brannan', 'dr.brennan', 'dr.brenan']: caroline is an officer of the court. she has to report it. right?
+['caroline', 'caroline julian', 'ms. julian', 'prosecutor julian', 'miss julian', 'julian', 'c.julian', 'carolyn']: i sure as hell do now!
+(cut to booth and brennan looking at the gun in the dj gear)
+['booth', 'agent booth', 'special agent booth', 'special agent seeley booth', 'seeley', 'seeley booth', 'mr. booth', 'mr booth', 'officer booth', 'boothy', 'boothie', 'bth', 'bohth', 'boof', 'dr. booth']: 38, right? matches the murder weapon.
+['brennan', 'dr. brennan', 'dr brennan', 'temperance', 'temperance brennan', 'dr. temperance', 'dr temperance', 'dr. temperance brennan', 'dr temperance brennan', 'bones', 'temp', 'dr bones', 'ms. brennan', 'ms brennan', 'brnnan', 'brannan', 'dr.brennan', 'dr.brenan']: zack touched it.
+(cam enters, looking at the gun in the dj gear)
+['cam', 'camille', 'camille saroyan', 'dr. saroyan', 'dr saroyan', 'dr cam', 'dr. cam', 'cam s', 'ms. saroyan', 'ms saroyan', 'dr. camille', 'cammy', 'camil', 'cam saroyan']: will you two let me do some of the detecting, please? (picks up gun with her pen) saturday night special. totally disposable.
+(pan to hodgins, leaning on the railing of the catwalk)
+['hodgins', 'jack hodgins', 'jack', 'dr. hodgins', 'dr hodgins', 'dr. jack', 'mr. hodgins', 'hodges', 'hodg', 'jack h', 'hodginz', 'dr hodges']: my theory, it's the murder victim gun. taken away from him by persons unknown, who shot him in the chest then hid it here, thinking that vincent would find it, panic, and throw it away because he's, well, english.
+['cam', 'camille', 'camille saroyan', 'dr. saroyan', 'dr saroyan', 'dr cam', 'dr. cam', 'cam s', 'ms. saroyan', 'ms saroyan', 'dr. camille', 'cammy', 'camil', 'cam saroyan']: who is this now?
+['caroline', 'caroline julian', 'ms. julian', 'prosecutor julian', 'miss julian', 'julian', 'c.julian', 'carolyn']: jack hodgins, very successful crime novelist.
+['cam', 'camille', 'camille saroyan', 'dr. saroyan', 'dr saroyan', 'dr cam', 'dr. cam', 'cam s', 'ms. saroyan', 'ms saroyan', 'dr. camille', 'cammy', 'camil', 'cam saroyan']: they never get anything right.
+['vincent', 'vincent nigel-murray', 'nigel-murray', 'vincent n', 'v.nigel', 'intern vincent', 'nigel murray', 'nigel m', 'vinny', 'vince']: i'm not going to fair well in gaol. i'm lovely.
+['booth', 'agent booth', 'special agent booth', 'special agent seeley booth', 'seeley', 'seeley booth', 'mr. booth', 'mr booth', 'officer booth', 'boothy', 'boothie', 'bth', 'bohth', 'boof', 'dr. booth']: don't worry vincent, i'll bail you out.
+['brennan', 'dr. brennan', 'dr brennan', 'temperance', 'temperance brennan', 'dr. temperance', 'dr temperance', 'dr. temperance brennan', 'dr temperance brennan', 'bones', 'temp', 'dr bones', 'ms. brennan', 'ms brennan', 'brnnan', 'brannan', 'dr.brennan', 'dr.brenan']: (clears throat and puts her hand on booth's shoulder)
+['booth', 'agent booth', 'special agent booth', 'special agent seeley booth', 'seeley', 'seeley booth', 'mr. booth', 'mr booth', 'officer booth', 'boothy', 'boothie', 'bth', 'bohth', 'boof', 'dr. booth']: you too, zack.
+(cut to: interior the lab - the bar vincent is handcuffed and being led out of the lab by cam)
+['hodgins', 'jack hodgins', 'jack', 'dr. hodgins', 'dr hodgins', 'dr. jack', 'mr. hodgins', 'hodges', 'hodg', 'jack h', 'hodginz', 'dr hodges']: no vincent, no dj. no dj, no entertainment. you carpe your diem, bub.
+['sweets', 'dr. sweets', 'dr sweets', 'lance', 'lance sweets', 'dr. lance', 'dr lance sweets', 'dr lance', 'agent sweets', 'doc sweets', 'l.sweets']: (serves hodgins a drink) you mean the band?
+['hodgins', 'jack hodgins', 'jack', 'dr. hodgins', 'dr hodgins', 'dr. jack', 'mr. hodgins', 'hodges', 'hodg', 'jack h', 'hodginz', 'dr hodges']: get the girl to smack the tambourine, and maybe you've got a shot.
+['sweets', 'dr. sweets', 'dr sweets', 'lance', 'lance sweets', 'dr. lance', 'dr lance sweets', 'dr lance', 'agent sweets', 'doc sweets', 'l.sweets']: you mean angela?
+['hodgins', 'jack hodgins', 'jack', 'dr. hodgins', 'dr hodgins', 'dr. jack', 'mr. hodgins', 'hodges', 'hodg', 'jack h', 'hodginz', 'dr hodges']: of course i don't mean angela. you don't stand a chance with angela. her. (motions towards daisy) pansy, or buttercup... sweets: daisy?
+(arastoo enters)
+['hodgins', 'jack hodgins', 'jack', 'dr. hodgins', 'dr hodgins', 'dr. jack', 'mr. hodgins', 'hodges', 'hodg', 'jack h', 'hodginz', 'dr hodges']: the mysterious persian real-estate mogul who's been trying to buy our home away from home. what various reasons does he have?
+['arastoo', 'arastoo vaziri', 'dr. vaziri', 'dr vaziri', 'vaziri', 'dr arastoo', 'a. vaziri', 'arasto', 'arasto vaziri']: i want this club because i know how to turn it into a gold mine.
+['hodgins', 'jack hodgins', 'jack', 'dr. hodgins', 'dr hodgins', 'dr. jack', 'mr. hodgins', 'hodges', 'hodg', 'jack h', 'hodginz', 'dr hodges']: boring.
+['arastoo', 'arastoo vaziri', 'dr. vaziri', 'dr vaziri', 'vaziri', 'dr arastoo', 'a. vaziri', 'arasto', 'arasto vaziri']: good business, like a good marriage, is outwardly boring.
+['hodgins', 'jack hodgins', 'jack', 'dr. hodgins', 'dr hodgins', 'dr. jack', 'mr. hodgins', 'hodges', 'hodg', 'jack h', 'hodginz', 'dr hodges']: (looks at arastoo incredulously)
+aristoo: sorry.
+(cut to: exterior the lab - the alley. booth is sitting on the bonnet of his car while wendell talks to him from the back door of the lab)
+['wendell', 'wendell bray', 'intern wendell', 'w bray', 'w.bray', 'mr. bray', 'wendel']: so, i go home a little before 3. check to make sure that bren has locked up the safe. i wonder, did somebody taped the door after i checked it? 'cos this guy got in somehow.
+['booth', 'agent booth', 'special agent booth', 'special agent seeley booth', 'seeley', 'seeley booth', 'mr. booth', 'mr booth', 'officer booth', 'boothy', 'boothie', 'bth', 'bohth', 'boof', 'dr. booth']: the dead guy, or, uh, whoever kill him.
+(wendell crouches down and fiddles with the lock of the door)
+['wendell', 'wendell bray', 'intern wendell', 'w bray', 'w.bray', 'mr. bray', 'wendel']: there's nothing tacky on the bolt here, so it's wasn't taped. that means that either the dead guy hid in the club after closing, or bren let him in after my sweep.
+['booth', 'agent booth', 'special agent booth', 'special agent seeley booth', 'seeley', 'seeley booth', 'mr. booth', 'mr booth', 'officer booth', 'boothy', 'boothie', 'bth', 'bohth', 'boof', 'dr. booth']: nah, she didn't.
+['wendell', 'wendell bray', 'intern wendell', 'w bray', 'w.bray', 'mr. bray', 'wendel']: whoever kill this guy had a key or was also already in the club.
+['booth', 'agent booth', 'special agent booth', 'special agent seeley booth', 'seeley', 'seeley booth', 'mr. booth', 'mr booth', 'officer booth', 'boothy', 'boothie', 'bth', 'bohth', 'boof', 'dr. booth']: bren wasn't the only one inside the club.
+(wendell and booth exchange glances)
+['booth', 'agent booth', 'special agent booth', 'special agent seeley booth', 'seeley', 'seeley booth', 'mr. booth', 'mr booth', 'officer booth', 'boothy', 'boothie', 'bth', 'bohth', 'boof', 'dr. booth']: you seem pretty sure this is the way it played out.
+(wendell shifts)
+['wendell', 'wendell bray', 'intern wendell', 'w bray', 'w.bray', 'mr. bray', 'wendel']: the dead guy, chats me up last night.
+['booth', 'agent booth', 'special agent booth', 'special agent seeley booth', 'seeley', 'seeley booth', 'mr. booth', 'mr booth', 'officer booth', 'boothy', 'boothie', 'bth', 'bohth', 'boof', 'dr. booth']: (shocked) ok, why didn't you tell the police?
+['wendell', 'wendell bray', 'intern wendell', 'w bray', 'w.bray', 'mr. bray', 'wendel']: creepy old guy trespassing around our club during the night. i know what i'd do if i caught him.
+['booth', 'agent booth', 'special agent booth', 'special agent seeley booth', 'seeley', 'seeley booth', 'mr. booth', 'mr booth', 'officer booth', 'boothy', 'boothie', 'bth', 'bohth', 'boof', 'dr. booth']: (pauses) did you catch him?
+['wendell', 'wendell bray', 'intern wendell', 'w bray', 'w.bray', 'mr. bray', 'wendel']: (pauses) nope, did you? 'cos until i get the specific answer to that question, my loyalty is with you.
+['booth', 'agent booth', 'special agent booth', 'special agent seeley booth', 'seeley', 'seeley booth', 'mr. booth', 'mr booth', 'officer booth', 'boothy', 'boothie', 'bth', 'bohth', 'boof', 'dr. booth']: i didn't catch him, but i appreciate your loyalty.
+['wendell', 'wendell bray', 'intern wendell', 'w bray', 'w.bray', 'mr. bray', 'wendel']: (nods his head, holds a finger to is mouth to say he'll keep quiet and beat his fist over his heart)
+(cut to: interior the lab - the bar)
+(fisher enters carrying a "tower of wings")
+(pan to booth entering, carrying a carton of wine. brennan and arastoo are talking at the bar)
+['booth', 'agent booth', 'special agent booth', 'special agent seeley booth', 'seeley', 'seeley booth', 'mr. booth', 'mr booth', 'officer booth', 'boothy', 'boothie', 'bth', 'bohth', 'boof', 'dr. booth']: hey arastoo, how you doing?
+['brennan', 'dr. brennan', 'dr brennan', 'temperance', 'temperance brennan', 'dr. temperance', 'dr temperance', 'dr. temperance brennan', 'dr temperance brennan', 'bones', 'temp', 'dr bones', 'ms. brennan', 'ms brennan', 'brnnan', 'brannan', 'dr.brennan', 'dr.brenan']: he's making me another offer on the nightclub.
+['booth', 'agent booth', 'special agent booth', 'special agent seeley booth', 'seeley', 'seeley booth', 'mr. booth', 'mr booth', 'officer booth', 'boothy', 'boothie', 'bth', 'bohth', 'boof', 'dr. booth']: how big of a bump do we get for murder?
+['brennan', 'dr. brennan', 'dr brennan', 'temperance', 'temperance brennan', 'dr. temperance', 'dr temperance', 'dr. temperance brennan', 'dr temperance brennan', 'bones', 'temp', 'dr bones', 'ms. brennan', 'ms brennan', 'brnnan', 'brannan', 'dr.brennan', 'dr.brenan']: the offer is lower.
+aristoo: the place is under a cloud. things like this occur when people are not reasonable.
+['booth', 'agent booth', 'special agent booth', 'special agent seeley booth', 'seeley', 'seeley booth', 'mr. booth', 'mr booth', 'officer booth', 'boothy', 'boothie', 'bth', 'bohth', 'boof', 'dr. booth']: implying that you're behind the murder, trying to scare me to sell. ballsy move, pal.
+['arastoo', 'arastoo vaziri', 'dr. vaziri', 'dr vaziri', 'vaziri', 'dr arastoo', 'a. vaziri', 'arasto', 'arasto vaziri']: behind it? no, merely taking advantage. it's good business.
+['booth', 'agent booth', 'special agent booth', 'special agent seeley booth', 'seeley', 'seeley booth', 'mr. booth', 'mr booth', 'officer booth', 'boothy', 'boothie', 'bth', 'bohth', 'boof', 'dr. booth']: right, well, my club's not for sale, but my booze is. so either get a drink or get the hell out of here.
+(brennan and arastoo exchange glances)
+(sweets enters)
+['sweets', 'dr. sweets', 'dr sweets', 'lance', 'lance sweets', 'dr. lance', 'dr lance sweets', 'dr lance', 'agent sweets', 'doc sweets', 'l.sweets']: hey, booth, bren, heard about vincent being arrested. can my band audition?
+['brennan', 'dr. brennan', 'dr brennan', 'temperance', 'temperance brennan', 'dr. temperance', 'dr temperance', 'dr. temperance brennan', 'dr temperance brennan', 'bones', 'temp', 'dr bones', 'ms. brennan', 'ms brennan', 'brnnan', 'brannan', 'dr.brennan', 'dr.brenan']: no.
+['booth', 'agent booth', 'special agent booth', 'special agent seeley booth', 'seeley', 'seeley booth', 'mr. booth', 'mr booth', 'officer booth', 'boothy', 'boothie', 'bth', 'bohth', 'boof', 'dr. booth']: (imploringly) c'mon, what's the harm? be ready in one hour, pal.
+['sweets', 'dr. sweets', 'dr sweets', 'lance', 'lance sweets', 'dr. lance', 'dr lance sweets', 'dr lance', 'agent sweets', 'doc sweets', 'l.sweets']: (pumps fists in the air) yes! you won't be disappointed.
+(sweets exits)
+['brennan', 'dr. brennan', 'dr brennan', 'temperance', 'temperance brennan', 'dr. temperance', 'dr temperance', 'dr. temperance brennan', 'dr temperance brennan', 'bones', 'temp', 'dr bones', 'ms. brennan', 'ms brennan', 'brnnan', 'brannan', 'dr.brennan', 'dr.brenan']: (to booth) why?
+['booth', 'agent booth', 'special agent booth', 'special agent seeley booth', 'seeley', 'seeley booth', 'mr. booth', 'mr booth', 'officer booth', 'boothy', 'boothie', 'bth', 'bohth', 'boof', 'dr. booth']: i've got a soft spot for the kid.
+['brennan', 'dr. brennan', 'dr brennan', 'temperance', 'temperance brennan', 'dr. temperance', 'dr temperance', 'dr. temperance brennan', 'dr temperance brennan', 'bones', 'temp', 'dr bones', 'ms. brennan', 'ms brennan', 'brnnan', 'brannan', 'dr.brennan', 'dr.brenan']: we are made of soft spots. you're still gonna make the call, right?
+['booth', 'agent booth', 'special agent booth', 'special agent seeley booth', 'seeley', 'seeley booth', 'mr. booth', 'mr booth', 'officer booth', 'boothy', 'boothie', 'bth', 'bohth', 'boof', 'dr. booth']: of course i'm gonna make the call, i'm not soft in the head.
+['arastoo', 'arastoo vaziri', 'dr. vaziri', 'dr vaziri', 'vaziri', 'dr arastoo', 'a. vaziri', 'arasto', 'arasto vaziri']: what is "the call"?
+['booth', 'agent booth', 'special agent booth', 'special agent seeley booth', 'seeley', 'seeley booth', 'mr. booth', 'mr booth', 'officer booth', 'boothy', 'boothie', 'bth', 'bohth', 'boof', 'dr. booth']: it's why i own this place, and you never will. ok? so, drink? or are you gonna leave?
+(cut to: interior the lab - brennan's office brennan enters brennan's office, angela runs in behind her)
+['angela', 'angela montenegro', 'ms. montenegro', 'ms montenegro', 'ang', 'ange', 'an', 'a.montenegro', 'angella', 'angla', 'angelina', 'miss montenegro', 'angela m', 'dr. angela']: hey! awkward, very awkward. awkward.
+['brennan', 'dr. brennan', 'dr brennan', 'temperance', 'temperance brennan', 'dr. temperance', 'dr temperance', 'dr. temperance brennan', 'dr temperance brennan', 'bones', 'temp', 'dr bones', 'ms. brennan', 'ms brennan', 'brnnan', 'brannan', 'dr.brennan', 'dr.brenan']: angela, what is awkward?
+(angela takes a folded up napkin from her pocket and gives it to brennan)
+['brennan', 'dr. brennan', 'dr brennan', 'temperance', 'temperance brennan', 'dr. temperance', 'dr temperance', 'dr. temperance brennan', 'dr temperance brennan', 'bones', 'temp', 'dr bones', 'ms. brennan', 'ms brennan', 'brnnan', 'brannan', 'dr.brennan', 'dr.brenan']: it's a floor plan, for the nightclub.
+['angela', 'angela montenegro', 'ms. montenegro', 'ms montenegro', 'ang', 'ange', 'an', 'a.montenegro', 'angella', 'angla', 'angelina', 'miss montenegro', 'angela m', 'dr. angela']: yeah, i drew it. for the murder victim, last night. (moves over to brennan's couch) you know how what i really wanted to do was interior decorating, right? i mean, i'm very good, i sort of have a knack. (picks up a cushion from brennan's couch and ruffles it) and he told me that he owned a nightclub, and that he'd hire me to... and i figured that he was probably hitting on me, but then jared showed up and asked me out for, like, the hundredth time, brennan: why are you showing this to me?
+['angela', 'angela montenegro', 'ms. montenegro', 'ms montenegro', 'ang', 'ange', 'an', 'a.montenegro', 'angella', 'angla', 'angelina', 'miss montenegro', 'angela m', 'dr. angela']: because if i show it to mr. b, his head will explode. you're a cooler customer.
+['brennan', 'dr. brennan', 'dr brennan', 'temperance', 'temperance brennan', 'dr. temperance', 'dr temperance', 'dr. temperance brennan', 'dr temperance brennan', 'bones', 'temp', 'dr bones', 'ms. brennan', 'ms brennan', 'brnnan', 'brannan', 'dr.brennan', 'dr.brenan']: i'm not a cold fish, i'm iceland.
+['angela', 'angela montenegro', 'ms. montenegro', 'ms montenegro', 'ang', 'ange', 'an', 'a.montenegro', 'angella', 'angla', 'angelina', 'miss montenegro', 'angela m', 'dr. angela']: (scoffs) ok, if i had a better grasp of geography i might know what you mean.
+['brennan', 'dr. brennan', 'dr brennan', 'temperance', 'temperance brennan', 'dr. temperance', 'dr temperance', 'dr. temperance brennan', 'dr temperance brennan', 'bones', 'temp', 'dr bones', 'ms. brennan', 'ms brennan', 'brnnan', 'brannan', 'dr.brennan', 'dr.brenan']: why would his head explode?
+['angela', 'angela montenegro', 'ms. montenegro', 'ms montenegro', 'ang', 'ange', 'an', 'a.montenegro', 'angella', 'angla', 'angelina', 'miss montenegro', 'angela m', 'dr. angela']: well, note the x. at this office. traditionally, x marks the spot.
+['brennan', 'dr. brennan', 'dr brennan', 'temperance', 'temperance brennan', 'dr. temperance', 'dr temperance', 'dr. temperance brennan', 'dr temperance brennan', 'bones', 'temp', 'dr bones', 'ms. brennan', 'ms brennan', 'brnnan', 'brannan', 'dr.brennan', 'dr.brenan']: the safe? you think he wanted to rob us?
+['angela', 'angela montenegro', 'ms. montenegro', 'ms montenegro', 'ang', 'ange', 'an', 'a.montenegro', 'angella', 'angla', 'angelina', 'miss montenegro', 'angela m', 'dr. angela']: well, yeah, maybe, or it's possible that the x marks a whole other objective. the only thing left is... brennan: me.
+['angela', 'angela montenegro', 'ms. montenegro', 'ms montenegro', 'ang', 'ange', 'an', 'a.montenegro', 'angella', 'angla', 'angelina', 'miss montenegro', 'angela m', 'dr. angela']: (impersonates booth's head exploding)
+(cut to: interior the royal diner. brennan is meeting with max)
+['brennan', 'dr. brennan', 'dr brennan', 'temperance', 'temperance brennan', 'dr. temperance', 'dr temperance', 'dr. temperance brennan', 'dr temperance brennan', 'bones', 'temp', 'dr bones', 'ms. brennan', 'ms brennan', 'brnnan', 'brannan', 'dr.brennan', 'dr.brenan']: (slides the napkin with the floor plan that angela drew to max)
+['max', 'max keenan', 'mr. keenan', 'm. keenan', 'dad', "brennan's father", 'brennan’s father']: why didn't you show this to the police?
+['brennan', 'dr. brennan', 'dr brennan', 'temperance', 'temperance brennan', 'dr. temperance', 'dr temperance', 'dr. temperance brennan', 'dr temperance brennan', 'bones', 'temp', 'dr bones', 'ms. brennan', 'ms brennan', 'brnnan', 'brannan', 'dr.brennan', 'dr.brenan']: because they'll take it without telling me what it means.
+['max', 'max keenan', 'mr. keenan', 'm. keenan', 'dad', "brennan's father", 'brennan’s father']: what do you think it means?
+['brennan', 'dr. brennan', 'dr brennan', 'temperance', 'temperance brennan', 'dr. temperance', 'dr temperance', 'dr. temperance brennan', 'dr temperance brennan', 'bones', 'temp', 'dr bones', 'ms. brennan', 'ms brennan', 'brnnan', 'brannan', 'dr.brennan', 'dr.brenan']: people know the best way to hurt him, max: is to hurt you.
+['brennan', 'dr. brennan', 'dr brennan', 'temperance', 'temperance brennan', 'dr. temperance', 'dr temperance', 'dr. temperance brennan', 'dr temperance brennan', 'bones', 'temp', 'dr bones', 'ms. brennan', 'ms brennan', 'brnnan', 'brannan', 'dr.brennan', 'dr.brenan']: (nods)
+['max', 'max keenan', 'mr. keenan', 'm. keenan', 'dad', "brennan's father", 'brennan’s father']: the persians are capable of sending a very bad message.
+['brennan', 'dr. brennan', 'dr brennan', 'temperance', 'temperance brennan', 'dr. temperance', 'dr temperance', 'dr. temperance brennan', 'dr temperance brennan', 'bones', 'temp', 'dr bones', 'ms. brennan', 'ms brennan', 'brnnan', 'brannan', 'dr.brennan', 'dr.brenan']: what do you mean, "bad message"?(puts the napkin back in her bag)
+['max', 'max keenan', 'mr. keenan', 'm. keenan', 'dad', "brennan's father", 'brennan’s father']: head cracking, leg breaking, neck snapping, finger snipping.
+like that. it's possible they sent this guy...
+['brennan', 'dr. brennan', 'dr brennan', 'temperance', 'temperance brennan', 'dr. temperance', 'dr temperance', 'dr. temperance brennan', 'dr temperance brennan', 'bones', 'temp', 'dr bones', 'ms. brennan', 'ms brennan', 'brnnan', 'brannan', 'dr.brennan', 'dr.brenan']: to break my legs?
+['max', 'max keenan', 'mr. keenan', 'm. keenan', 'dad', "brennan's father", 'brennan’s father']: and the gang-bangers make him, and they kill him to make a statement.
+['brennan', 'dr. brennan', 'dr brennan', 'temperance', 'temperance brennan', 'dr. temperance', 'dr temperance', 'dr. temperance brennan', 'dr temperance brennan', 'bones', 'temp', 'dr bones', 'ms. brennan', 'ms brennan', 'brnnan', 'brannan', 'dr.brennan', 'dr.brenan']: (pauses) so booth was right about the gang-bangers?
+['max', 'max keenan', 'mr. keenan', 'm. keenan', 'dad', "brennan's father", 'brennan’s father']: everyone serves somebody. something you husband refuses to accept.
+['brennan', 'dr. brennan', 'dr brennan', 'temperance', 'temperance brennan', 'dr. temperance', 'dr temperance', 'dr. temperance brennan', 'dr temperance brennan', 'bones', 'temp', 'dr bones', 'ms. brennan', 'ms brennan', 'brnnan', 'brannan', 'dr.brennan', 'dr.brenan']: i know he's stubborn.
+['max', 'max keenan', 'mr. keenan', 'm. keenan', 'dad', "brennan's father", 'brennan’s father']: he's a man of principle, and i mean that as a terrible insult. now, if he had just paid me off, none of this would have happened.
+['brennan', 'dr. brennan', 'dr brennan', 'temperance', 'temperance brennan', 'dr. temperance', 'dr temperance', 'dr. temperance brennan', 'dr temperance brennan', 'bones', 'temp', 'dr bones', 'ms. brennan', 'ms brennan', 'brnnan', 'brannan', 'dr.brennan', 'dr.brenan']: who do you work for that could scare of the persians and the gang-bangers?
+['max', 'max keenan', 'mr. keenan', 'm. keenan', 'dad', "brennan's father", 'brennan’s father']: ask your brother-in-law about the gravedigger.
+['brennan', 'dr. brennan', 'dr brennan', 'temperance', 'temperance brennan', 'dr. temperance', 'dr temperance', 'dr. temperance brennan', 'dr temperance brennan', 'bones', 'temp', 'dr bones', 'ms. brennan', 'ms brennan', 'brnnan', 'brannan', 'dr.brennan', 'dr.brenan']: because he's a cop?
+['max', 'max keenan', 'mr. keenan', 'm. keenan', 'dad', "brennan's father", 'brennan’s father']: because he and i work for the same guy.
+(brennan's phone rings)
+['brennan', 'dr. brennan', 'dr brennan', 'temperance', 'temperance brennan', 'dr. temperance', 'dr temperance', 'dr. temperance brennan', 'dr temperance brennan', 'bones', 'temp', 'dr bones', 'ms. brennan', 'ms brennan', 'brnnan', 'brannan', 'dr.brennan', 'dr.brenan']: (answers the phone) hello?
+(adsbygoogle = window.adsbygoogle || []).push({});
+(cut to: interior the homicide divistion - the conference room. cam has a file in front of her, caroline is seated next to her, brennan and booth are opposite and jared is standing behind)
+['cam', 'camille', 'camille saroyan', 'dr. saroyan', 'dr saroyan', 'dr cam', 'dr. cam', 'cam s', 'ms. saroyan', 'ms saroyan', 'dr. camille', 'cammy', 'camil', 'cam saroyan']: the murder victim's been identified as dick worstenbach,
+(cam slides the file over to booth)
+['jared', 'jared booth', "booth's brother", 'j. booth']: he was a security officer for a waste disposal company in newark.
+['caroline', 'caroline julian', 'ms. julian', 'prosecutor julian', 'miss julian', 'julian', 'c.julian', 'carolyn']: (laughs) a mobster named "worstenbach", what's the world coming to?
+['booth', 'agent booth', 'special agent booth', 'special agent seeley booth', 'seeley', 'seeley booth', 'mr. booth', 'mr booth', 'officer booth', 'boothy', 'boothie', 'bth', 'bohth', 'boof', 'dr. booth']: so what was he doing at our place?
+['jared', 'jared booth', "booth's brother", 'j. booth']: that's a mighty fine question.
+(jared and booth eye each other off)
+(brennan removes the napkin with the floor plan of the lab from her handbag and slides it over to cam)
+['cam', 'camille', 'camille saroyan', 'dr. saroyan', 'dr saroyan', 'dr cam', 'dr. cam', 'cam s', 'ms. saroyan', 'ms saroyan', 'dr. camille', 'cammy', 'camil', 'cam saroyan']: where did you get this?
+['booth', 'agent booth', 'special agent booth', 'special agent seeley booth', 'seeley', 'seeley booth', 'mr. booth', 'mr booth', 'officer booth', 'boothy', 'boothie', 'bth', 'bohth', 'boof', 'dr. booth']: what's that?
+['brennan', 'dr. brennan', 'dr brennan', 'temperance', 'temperance brennan', 'dr. temperance', 'dr temperance', 'dr. temperance brennan', 'dr temperance brennan', 'bones', 'temp', 'dr bones', 'ms. brennan', 'ms brennan', 'brnnan', 'brannan', 'dr.brennan', 'dr.brenan']: it was slipped to me anonymously by somebody who drew it for worstenbach last night.
+['jared', 'jared booth', "booth's brother", 'j. booth']: your office is marked.
+['cam', 'camille', 'camille saroyan', 'dr. saroyan', 'dr saroyan', 'dr cam', 'dr. cam', 'cam s', 'ms. saroyan', 'ms saroyan', 'dr. camille', 'cammy', 'camil', 'cam saroyan']: which means that worstenbach was in your club last night, but nobody saw him.
+(booth leans forward from his chair)
+['booth', 'agent booth', 'special agent booth', 'special agent seeley booth', 'seeley', 'seeley booth', 'mr. booth', 'mr booth', 'officer booth', 'boothy', 'boothie', 'bth', 'bohth', 'boof', 'dr. booth']: excuse me cam, but this proves that worstenbach was sent to hurt my wife.
+['cam', 'camille', 'camille saroyan', 'dr. saroyan', 'dr saroyan', 'dr cam', 'dr. cam', 'cam s', 'ms. saroyan', 'ms saroyan', 'dr. camille', 'cammy', 'camil', 'cam saroyan']: that is one of out theories, yes.
+['brennan', 'dr. brennan', 'dr brennan', 'temperance', 'temperance brennan', 'dr. temperance', 'dr temperance', 'dr. temperance brennan', 'dr temperance brennan', 'bones', 'temp', 'dr bones', 'ms. brennan', 'ms brennan', 'brnnan', 'brannan', 'dr.brennan', 'dr.brenan']: could the gravedigger have sent worstenbach?
+['jared', 'jared booth', "booth's brother", 'j. booth']: now where did you dig that up?
+['caroline', 'caroline julian', 'ms. julian', 'prosecutor julian', 'miss julian', 'julian', 'c.julian', 'carolyn']: isn't he some old mobster type; has his finger in every pie?
+['jared', 'jared booth', "booth's brother", 'j. booth']: there's no gravedigger.
+['cam', 'camille', 'camille saroyan', 'dr. saroyan', 'dr saroyan', 'dr cam', 'dr. cam', 'cam s', 'ms. saroyan', 'ms saroyan', 'dr. camille', 'cammy', 'camil', 'cam saroyan']: max likes to say he works for the gravedigger, makes him scary.
+['jared', 'jared booth', "booth's brother", 'j. booth']: exactly, so forget the gravedigger.
+(caroline pouts and rolls her eyes)
+['cam', 'camille', 'camille saroyan', 'dr. saroyan', 'dr saroyan', 'dr cam', 'dr. cam', 'cam s', 'ms. saroyan', 'ms saroyan', 'dr. camille', 'cammy', 'camil', 'cam saroyan']: our first job is to find out who kill worstenbach, finding out who sent him is totally secondary.
+['booth', 'agent booth', 'special agent booth', 'special agent seeley booth', 'seeley', 'seeley booth', 'mr. booth', 'mr booth', 'officer booth', 'boothy', 'boothie', 'bth', 'bohth', 'boof', 'dr. booth']: right, but here in the real world, when do we get our dj back?
+['cam', 'camille', 'camille saroyan', 'dr. saroyan', 'dr saroyan', 'dr cam', 'dr. cam', 'cam s', 'ms. saroyan', 'ms saroyan', 'dr. camille', 'cammy', 'camil', 'cam saroyan']: never.
+(booth sighs and rolls his eyes)
+['cam', 'camille', 'camille saroyan', 'dr. saroyan', 'dr saroyan', 'dr cam', 'dr. cam', 'cam s', 'ms. saroyan', 'ms saroyan', 'dr. camille', 'cammy', 'camil', 'cam saroyan']: you people are lying to me, and until i find out why you can't have your dj, (to brennan) nor your assistant, nor anybody else i can scoop up.
+['caroline', 'caroline julian', 'ms. julian', 'prosecutor julian', 'miss julian', 'julian', 'c.julian', 'carolyn']: now, now, it's blatant police brutality to use the word "nor" so aggressively!
+(cut to: interior booth's car)
+['hodgins', 'jack hodgins', 'jack', 'dr. hodgins', 'dr hodgins', 'dr. jack', 'mr. hodgins', 'hodges', 'hodg', 'jack h', 'hodginz', 'dr hodges']: [narrating] violent death. murder. it sends out shockwaves. the closer you are to it, the greater the shock.
+['brennan', 'dr. brennan', 'dr brennan', 'temperance', 'temperance brennan', 'dr. temperance', 'dr temperance', 'dr. temperance brennan', 'dr temperance brennan', 'bones', 'temp', 'dr bones', 'ms. brennan', 'ms brennan', 'brnnan', 'brannan', 'dr.brennan', 'dr.brenan']: max told me that he works for the gravedigger.
+['booth', 'agent booth', 'special agent booth', 'special agent seeley booth', 'seeley', 'seeley booth', 'mr. booth', 'mr booth', 'officer booth', 'boothy', 'boothie', 'bth', 'bohth', 'boof', 'dr. booth']: (snorts)
+['brennan', 'dr. brennan', 'dr brennan', 'temperance', 'temperance brennan', 'dr. temperance', 'dr temperance', 'dr. temperance brennan', 'dr temperance brennan', 'bones', 'temp', 'dr bones', 'ms. brennan', 'ms brennan', 'brnnan', 'brannan', 'dr.brennan', 'dr.brenan']: he told me something else. he said that jared works for him too.
+['booth', 'agent booth', 'special agent booth', 'special agent seeley booth', 'seeley', 'seeley booth', 'mr. booth', 'mr booth', 'officer booth', 'boothy', 'boothie', 'bth', 'bohth', 'boof', 'dr. booth']: (hits steering wheel)
+['brennan', 'dr. brennan', 'dr brennan', 'temperance', 'temperance brennan', 'dr. temperance', 'dr temperance', 'dr. temperance brennan', 'dr temperance brennan', 'bones', 'temp', 'dr bones', 'ms. brennan', 'ms brennan', 'brnnan', 'brannan', 'dr.brennan', 'dr.brenan']: don't get so mad! max could be lying.
+['booth', 'agent booth', 'special agent booth', 'special agent seeley booth', 'seeley', 'seeley booth', 'mr. booth', 'mr booth', 'officer booth', 'boothy', 'boothie', 'bth', 'bohth', 'boof', 'dr. booth']: look i'm mad because i don't find it hard to believe at all! alright? did max give you the napkin?
+['brennan', 'dr. brennan', 'dr brennan', 'temperance', 'temperance brennan', 'dr. temperance', 'dr temperance', 'dr. temperance brennan', 'dr temperance brennan', 'bones', 'temp', 'dr bones', 'ms. brennan', 'ms brennan', 'brnnan', 'brannan', 'dr.brennan', 'dr.brenan']: no. angela.
+(booth looks at brennan quizzically)
+['brennan', 'dr. brennan', 'dr brennan', 'temperance', 'temperance brennan', 'dr. temperance', 'dr temperance', 'dr. temperance brennan', 'dr temperance brennan', 'bones', 'temp', 'dr bones', 'ms. brennan', 'ms brennan', 'brnnan', 'brannan', 'dr.brennan', 'dr.brenan']: what?
+['booth', 'agent booth', 'special agent booth', 'special agent seeley booth', 'seeley', 'seeley booth', 'mr. booth', 'mr booth', 'officer booth', 'boothy', 'boothie', 'bth', 'bohth', 'boof', 'dr. booth']: what? what do you mean "what"? why're all of our employees holding out on the cops?
+['brennan', 'dr. brennan', 'dr brennan', 'temperance', 'temperance brennan', 'dr. temperance', 'dr temperance', 'dr. temperance brennan', 'dr temperance brennan', 'bones', 'temp', 'dr bones', 'ms. brennan', 'ms brennan', 'brnnan', 'brannan', 'dr.brennan', 'dr.brenan']: they love us. especially you.
+['booth', 'agent booth', 'special agent booth', 'special agent seeley booth', 'seeley', 'seeley booth', 'mr. booth', 'mr booth', 'officer booth', 'boothy', 'boothie', 'bth', 'bohth', 'boof', 'dr. booth']: they love us. we're loveable. so, ok, what math gets them to obstruct justice?
+['brennan', 'dr. brennan', 'dr brennan', 'temperance', 'temperance brennan', 'dr. temperance', 'dr temperance', 'dr. temperance brennan', 'dr temperance brennan', 'bones', 'temp', 'dr bones', 'ms. brennan', 'ms brennan', 'brnnan', 'brannan', 'dr.brennan', 'dr.brenan']: they all know that you'd kill anyone who was going to hurt me, and that man, worstenbach, was going to hurt me.
+['booth', 'agent booth', 'special agent booth', 'special agent seeley booth', 'seeley', 'seeley booth', 'mr. booth', 'mr booth', 'officer booth', 'boothy', 'boothie', 'bth', 'bohth', 'boof', 'dr. booth']: they think i'm the kill.
+['brennan', 'dr. brennan', 'dr brennan', 'temperance', 'temperance brennan', 'dr. temperance', 'dr temperance', 'dr. temperance brennan', 'dr temperance brennan', 'bones', 'temp', 'dr bones', 'ms. brennan', 'ms brennan', 'brnnan', 'brannan', 'dr.brennan', 'dr.brenan']: that's the math that gets them to lying to police and obstructing justice.
+(cut to: interior the lab - the platform. sweets and his band "gormogon" are auditioning to become the new entertainment for the club, daisy is accompanying on the tambourine)
+['sweets', 'dr. sweets', 'dr sweets', 'lance', 'lance sweets', 'dr. lance', 'dr lance sweets', 'dr lance', 'agent sweets', 'doc sweets', 'l.sweets']: hey, so, uh, we're gormogon, um, i mean, the name of the band is gormogon. some people think that i'm gormogon, but i'm not, it's like how there's no-one named "floyd" in pink floyd... booth: just play, sweets.
+['sweets', 'dr. sweets', 'dr sweets', 'lance', 'lance sweets', 'dr. lance', 'dr lance sweets', 'dr lance', 'agent sweets', 'doc sweets', 'l.sweets']: yeah, ok...
+(sweets begins to play the intro on keyboard)
+['brennan', 'dr. brennan', 'dr brennan', 'temperance', 'temperance brennan', 'dr. temperance', 'dr temperance', 'dr. temperance brennan', 'dr temperance brennan', 'bones', 'temp', 'dr bones', 'ms. brennan', 'ms brennan', 'brnnan', 'brannan', 'dr.brennan', 'dr.brenan']: "gormogon" is a stupid name. what does it even mean?
+(gormogon perform the song "never ending summer")
+(pan to wendell, fisher, angela and hodgins sitting at the bar watching gormogon performing)
+['angela', 'angela montenegro', 'ms. montenegro', 'ms montenegro', 'ang', 'ange', 'an', 'a.montenegro', 'angella', 'angla', 'angelina', 'miss montenegro', 'angela m', 'dr. angela']: (to hodgins) man, i'm telling you, i'm looking at sweets in a totally different way!
+['hodgins', 'jack hodgins', 'jack', 'dr. hodgins', 'dr hodgins', 'dr. jack', 'mr. hodgins', 'hodges', 'hodg', 'jack h', 'hodginz', 'dr hodges']: really?
+(clark enters, looks down his nose at gormogon, rolls his eyes and walks away)
+(gormogon finish playing, everybody claps unenthusiastically except for angela, brennan and daisy)
+['angela', 'angela montenegro', 'ms. montenegro', 'ms montenegro', 'ang', 'ange', 'an', 'a.montenegro', 'angella', 'angla', 'angelina', 'miss montenegro', 'angela m', 'dr. angela']: whoo hoo!
+['sweets', 'dr. sweets', 'dr sweets', 'lance', 'lance sweets', 'dr. lance', 'dr lance sweets', 'dr lance', 'agent sweets', 'doc sweets', 'l.sweets']: thank you!
+['brennan', 'dr. brennan', 'dr brennan', 'temperance', 'temperance brennan', 'dr. temperance', 'dr temperance', 'dr. temperance brennan', 'dr temperance brennan', 'bones', 'temp', 'dr bones', 'ms. brennan', 'ms brennan', 'brnnan', 'brannan', 'dr.brennan', 'dr.brenan']: that was wonderful. (to booth) that was wonderful.
+(pan to fisher sitting at the bar drinking)
+['fisher', 'colin fisher', 'intern fisher', 'c. fisher', 'dr. fisher', 'dr fisher']: why did they even invent piano?
+(pan to the platform)
+['booth', 'agent booth', 'special agent booth', 'special agent seeley booth', 'seeley', 'seeley booth', 'mr. booth', 'mr booth', 'officer booth', 'boothy', 'boothie', 'bth', 'bohth', 'boof', 'dr. booth']: you see it's, uh, it's, uh, a nightclub, and people they gotta, they gotta dance, not just... daisy: fall in love.
+['sweets', 'dr. sweets', 'dr sweets', 'lance', 'lance sweets', 'dr. lance', 'dr lance sweets', 'dr lance', 'agent sweets', 'doc sweets', 'l.sweets']: (laughs nervously)
+(pan to fisher at the bar looking exasperated)
+['daisy', 'daisy wick', 'intern daisy', 'ms. wick', 'd. wick', 'miss wick', 'daizy', 'dasi']: (voice-over) you're really good.
+['sweets', 'dr. sweets', 'dr sweets', 'lance', 'lance sweets', 'dr. lance', 'dr lance sweets', 'dr lance', 'agent sweets', 'doc sweets', 'l.sweets']: (voice-over) oh, stop,
+(pan to the platform, booth is being joined by clark)
+['booth', 'agent booth', 'special agent booth', 'special agent seeley booth', 'seeley', 'seeley booth', 'mr. booth', 'mr booth', 'officer booth', 'boothy', 'boothie', 'bth', 'bohth', 'boof', 'dr. booth']: uh, it was great stuff, though. but people, they gotta, uh, they gotta... it's a dance club, big, big noise. you understand.
+['sweets', 'dr. sweets', 'dr sweets', 'lance', 'lance sweets', 'dr. lance', 'dr lance sweets', 'dr lance', 'agent sweets', 'doc sweets', 'l.sweets']: alright.
+['clark', 'clark edison', 'dr. edison', 'dr edison', 'edison', 'c. edison', 'doc clark', 'dr. clark']: (to booth) hey, my brother would like to talk to you, he's waiting out back.
+['booth', 'agent booth', 'special agent booth', 'special agent seeley booth', 'seeley', 'seeley booth', 'mr. booth', 'mr booth', 'officer booth', 'boothy', 'boothie', 'bth', 'bohth', 'boof', 'dr. booth']: right,
+(pan to wendell watching the conversation between booth and clark looking concerned)
+['booth', 'agent booth', 'special agent booth', 'special agent seeley booth', 'seeley', 'seeley booth', 'mr. booth', 'mr booth', 'officer booth', 'boothy', 'boothie', 'bth', 'bohth', 'boof', 'dr. booth']: (voice-over) uh sweets why don't you play another song for the girl, there.
+(booth leaves the platform, leaving brennan)
+['brennan', 'dr. brennan', 'dr brennan', 'temperance', 'temperance brennan', 'dr. temperance', 'dr temperance', 'dr. temperance brennan', 'dr temperance brennan', 'bones', 'temp', 'dr bones', 'ms. brennan', 'ms brennan', 'brnnan', 'brannan', 'dr.brennan', 'dr.brenan']: (sighs happily at gormogon)
+(pan to booth leaving the bar, he is closely followed by wendell. fisher is still sitting at the bar looking frustrated)
+(gormogon begin to play another ballad)
+['fisher', 'colin fisher', 'intern fisher', 'c. fisher', 'dr. fisher', 'dr fisher']: (exasperated) oh c'mon!
+(cut to: interior the lab - the back of the lab. booth opening the door out onto the alley)
+['wendell', 'wendell bray', 'intern wendell', 'w bray', 'w.bray', 'mr. bray', 'wendel']: what's going on, boss.
+['booth', 'agent booth', 'special agent booth', 'special agent seeley booth', 'seeley', 'seeley booth', 'mr. booth', 'mr booth', 'officer booth', 'boothy', 'boothie', 'bth', 'bohth', 'boof', 'dr. booth']: oh, i've got a meeting with an angry gang-banger in the alley. why?
+['wendell', 'wendell bray', 'intern wendell', 'w bray', 'w.bray', 'mr. bray', 'wendel']: i've got my gun.
+['booth', 'agent booth', 'special agent booth', 'special agent seeley booth', 'seeley', 'seeley booth', 'mr. booth', 'mr booth', 'officer booth', 'boothy', 'boothie', 'bth', 'bohth', 'boof', 'dr. booth']: you've got a gun?
+['wendell', 'wendell bray', 'intern wendell', 'w bray', 'w.bray', 'mr. bray', 'wendel']: (checks the magazine of his gun) he's the leader of a gang. he's kill people. and, he hates your guts. i ain't a mathematician, but that adds up bad.
+['booth', 'agent booth', 'special agent booth', 'special agent seeley booth', 'seeley', 'seeley booth', 'mr. booth', 'mr booth', 'officer booth', 'boothy', 'boothie', 'bth', 'bohth', 'boof', 'dr. booth']: alright, hang back.
+['wendell', 'wendell bray', 'intern wendell', 'w bray', 'w.bray', 'mr. bray', 'wendel']: alright.
+(booth goes through the back door and into the alley, locking wendell inside the lab)
+(wendell is surprised to see the door slam in his face, and presses down on the handle to try and open the door)
+['wendell', 'wendell bray', 'intern wendell', 'w bray', 'w.bray', 'mr. bray', 'wendel']: whaa?
+(wendell turns to go back into the lab)
+grayson: (voice-over) i want my brother to play in the club!
+(booth is then thrown by grayson into the door, and is then heard to be bashed)
+['wendell', 'wendell bray', 'intern wendell', 'w bray', 'w.bray', 'mr. bray', 'wendel']: open the door, boss! i'm right here! c'mon...
+(booth is thrown against the door again. wendell is taken aback)
+(sounds of a vicious fight come from the alley)
+['wendell', 'wendell bray', 'intern wendell', 'w bray', 'w.bray', 'mr. bray', 'wendel']: i'm coming!
+(cut to the platform. gormogon is still performing. brennan is watching. wendell comes running in and whispers in brennan's ear before they both turn and run)
+(cut to the alley, wendell and brennan come around the corner to find both booth and grayson sitting on the back of a delivery truck)
+['brennan', 'dr. brennan', 'dr brennan', 'temperance', 'temperance brennan', 'dr. temperance', 'dr temperance', 'dr. temperance brennan', 'dr temperance brennan', 'bones', 'temp', 'dr bones', 'ms. brennan', 'ms brennan', 'brnnan', 'brannan', 'dr.brennan', 'dr.brenan']: (voice-over) who is that?
+['wendell', 'wendell bray', 'intern wendell', 'w bray', 'w.bray', 'mr. bray', 'wendel']: (voice-over) c-sync's brother. head of the gang-bangers.
+(wendell cocks his gun and aims it at grayson)
+['wendell', 'wendell bray', 'intern wendell', 'w bray', 'w.bray', 'mr. bray', 'wendel']: don't move, or i'll blow your head off.
+(jared and cam enter. jared cocks his gun and aims it at wendell's head)
+['jared', 'jared booth', "booth's brother", 'j. booth']: you wanna drop that?
+(wendell uncocks his gun and hands it to jared)
+['jared', 'jared booth', "booth's brother", 'j. booth']: thank you.
+(pan to booth who is bleeding from a gash to his left eyebrow)
+['booth', 'agent booth', 'special agent booth', 'special agent seeley booth', 'seeley', 'seeley booth', 'mr. booth', 'mr booth', 'officer booth', 'boothy', 'boothie', 'bth', 'bohth', 'boof', 'dr. booth']: hi honey!
+['brennan', 'dr. brennan', 'dr brennan', 'temperance', 'temperance brennan', 'dr. temperance', 'dr temperance', 'dr. temperance brennan', 'dr temperance brennan', 'bones', 'temp', 'dr bones', 'ms. brennan', 'ms brennan', 'brnnan', 'brannan', 'dr.brennan', 'dr.brenan']: hey, you ok?
+['booth', 'agent booth', 'special agent booth', 'special agent seeley booth', 'seeley', 'seeley booth', 'mr. booth', 'mr booth', 'officer booth', 'boothy', 'boothie', 'bth', 'bohth', 'boof', 'dr. booth']: yeah. you should see the other guy.
+(pan to grayson who is clearly unharmed)
+['jared', 'jared booth', "booth's brother", 'j. booth']: (to cam) so who do you wanna arrest?
+['cam', 'camille', 'camille saroyan', 'dr. saroyan', 'dr saroyan', 'dr cam', 'dr. cam', 'cam s', 'ms. saroyan', 'ms saroyan', 'dr. camille', 'cammy', 'camil', 'cam saroyan']: (sighs) let's take 'em all.
+(cut to: interior the homicide division - the interrogation room. booth and grayson are seated next to each other, both handcuffed to their chairs)
+grayson: look man, my brother don't sag, slag or bang.
+['booth', 'agent booth', 'special agent booth', 'special agent seeley booth', 'seeley', 'seeley booth', 'mr. booth', 'mr booth', 'officer booth', 'boothy', 'boothie', 'bth', 'bohth', 'boof', 'dr. booth']: what about you?
+grayson: (scoffs) man, clark barely talks to me, ya dig?
+['booth', 'agent booth', 'special agent booth', 'special agent seeley booth', 'seeley', 'seeley booth', 'mr. booth', 'mr booth', 'officer booth', 'boothy', 'boothie', 'bth', 'bohth', 'boof', 'dr. booth']: why do you care?
+grayson: he's my brother. and, your club is on my block. do the math, man.
+['booth', 'agent booth', 'special agent booth', 'special agent seeley booth', 'seeley', 'seeley booth', 'mr. booth', 'mr booth', 'officer booth', 'boothy', 'boothie', 'bth', 'bohth', 'boof', 'dr. booth']: look, i've been here before, ok. the place becomes a gang hangout, east coast meets west coast, somebody gets popped.
+grayson: says the dude with a dead body in his bathroom.
+['booth', 'agent booth', 'special agent booth', 'special agent seeley booth', 'seeley', 'seeley booth', 'mr. booth', 'mr booth', 'officer booth', 'boothy', 'boothie', 'bth', 'bohth', 'boof', 'dr. booth']: yeah, for all i know, you did it!
+grayson: i pop somebody; i don't muffle the shot, brother,
+(pan to cam and jared watching the conversation behind the one-way mirror.)
+grayson: (voice-over) i shoot him right up in his face. ask anybody. look, man, what if i decree your place off limits to my crew or any other crew?
+(pan to booth)
+['booth', 'agent booth', 'special agent booth', 'special agent seeley booth', 'seeley', 'seeley booth', 'mr. booth', 'mr booth', 'officer booth', 'boothy', 'boothie', 'bth', 'bohth', 'boof', 'dr. booth']: you can decree?
+grayson: he's my brother, man. i wanna see him get his cheese, see his face on buses.
+['booth', 'agent booth', 'special agent booth', 'special agent seeley booth', 'seeley', 'seeley booth', 'mr. booth', 'mr booth', 'officer booth', 'boothy', 'boothie', 'bth', 'bohth', 'boof', 'dr. booth']: (chuckles) fine. c-sync in da house.
+(booth and grayson go to shake hands, but their hands are handcuffed to the seat. they bump fists in agreement instead)
+(pan to cam and jared behind the one-way mirror)
+['jared', 'jared booth', "booth's brother", 'j. booth']: you still think it could be him?
+['cam', 'camille', 'camille saroyan', 'dr. saroyan', 'dr saroyan', 'dr cam', 'dr. cam', 'cam s', 'ms. saroyan', 'ms saroyan', 'dr. camille', 'cammy', 'camil', 'cam saroyan']: nope, he'd of taken credit if he did it, used it to scare your brother. this guy's got nothing to do with worstenbach's murder. let 'em go.
+(cut to: interior the lab - the bar. brennan, booth and angela are having a conversation)
+['booth', 'agent booth', 'special agent booth', 'special agent seeley booth', 'seeley', 'seeley booth', 'mr. booth', 'mr booth', 'officer booth', 'boothy', 'boothie', 'bth', 'bohth', 'boof', 'dr. booth']: (to barman) thanks brennan: now they have my assistant, our doorman and our dj... angela: well, i can watch the door until they release wendell.
+['brennan', 'dr. brennan', 'dr brennan', 'temperance', 'temperance brennan', 'dr. temperance', 'dr temperance', 'dr. temperance brennan', 'dr temperance brennan', 'bones', 'temp', 'dr bones', 'ms. brennan', 'ms brennan', 'brnnan', 'brannan', 'dr.brennan', 'dr.brenan']: what about entertainment?
+['angela', 'angela montenegro', 'ms. montenegro', 'ms montenegro', 'ang', 'ange', 'an', 'a.montenegro', 'angella', 'angla', 'angelina', 'miss montenegro', 'angela m', 'dr. angela']: i thought that sweets was fantabulisticulious.
+['booth', 'agent booth', 'special agent booth', 'special agent seeley booth', 'seeley', 'seeley booth', 'mr. booth', 'mr booth', 'officer booth', 'boothy', 'boothie', 'bth', 'bohth', 'boof', 'dr. booth']: uh, we got "the crue".
+['angela', 'angela montenegro', 'ms. montenegro', 'ms montenegro', 'ang', 'ange', 'an', 'a.montenegro', 'angella', 'angla', 'angelina', 'miss montenegro', 'angela m', 'dr. angela']: what crew?
+(sweets and daisy enter. sweets' face is covered with lipstick marks, and daisy is wiping her mouth)
+['sweets', 'dr. sweets', 'dr sweets', 'lance', 'lance sweets', 'dr. lance', 'dr lance sweets', 'dr lance', 'agent sweets', 'doc sweets', 'l.sweets']: hey, uh, so daisy told me something, and i figured you need to know.
+['daisy', 'daisy wick', 'intern daisy', 'ms. wick', 'd. wick', 'miss wick', 'daizy', 'dasi']: that murder guy? i sorta had a conversation with him... brennan: and you didn't tell the police?
+['sweets', 'dr. sweets', 'dr sweets', 'lance', 'lance sweets', 'dr. lance', 'dr lance sweets', 'dr lance', 'agent sweets', 'doc sweets', 'l.sweets']: well, it's what they discussed that's important.
+['angela', 'angela montenegro', 'ms. montenegro', 'ms montenegro', 'ang', 'ange', 'an', 'a.montenegro', 'angella', 'angla', 'angelina', 'miss montenegro', 'angela m', 'dr. angela']: it's daisy, so they discussed sex.
+['daisy', 'daisy wick', 'intern daisy', 'ms. wick', 'd. wick', 'miss wick', 'daizy', 'dasi']: that's mostly true.
+['brennan', 'dr. brennan', 'dr brennan', 'temperance', 'temperance brennan', 'dr. temperance', 'dr temperance', 'dr. temperance brennan', 'dr temperance brennan', 'bones', 'temp', 'dr bones', 'ms. brennan', 'ms brennan', 'brnnan', 'brannan', 'dr.brennan', 'dr.brenan']: ok, please, what is the point?
+['daisy', 'daisy wick', 'intern daisy', 'ms. wick', 'd. wick', 'miss wick', 'daizy', 'dasi']: well, lance's songs were so romantic, which made me amorous... sweets: oh, maybe skip ahead a little bit, daisy: oh, well, lance was afraid we'd get caught because i am not abashed about noise, brennan: ok is it skip, ahead or point that she doesn't understand?
+['daisy', 'daisy wick', 'intern daisy', 'ms. wick', 'd. wick', 'miss wick', 'daizy', 'dasi']: well, i told lance that i knew a place where a couple in love could find some privacy.
+(brennan looks at daisy imploringly)
+['daisy', 'daisy wick', 'intern daisy', 'ms. wick', 'd. wick', 'miss wick', 'daizy', 'dasi']: oh! which is what i also told worstenbach.
+['sweets', 'dr. sweets', 'dr sweets', 'lance', 'lance sweets', 'dr. lance', 'dr lance sweets', 'dr lance', 'agent sweets', 'doc sweets', 'l.sweets']: yeah, and that's the point.
+(cut to the lost and found, daisy, brennan and booth are all present)
+['daisy', 'daisy wick', 'intern daisy', 'ms. wick', 'd. wick', 'miss wick', 'daizy', 'dasi']: when wendell does his sweep, he never checks the lost and found.
+['booth', 'agent booth', 'special agent booth', 'special agent seeley booth', 'seeley', 'seeley booth', 'mr. booth', 'mr booth', 'officer booth', 'boothy', 'boothie', 'bth', 'bohth', 'boof', 'dr. booth']: worstenbach could've hid back here,
+(pan to brennan crouching over to pick up a match)
+['booth', 'agent booth', 'special agent booth', 'special agent seeley booth', 'seeley', 'seeley booth', 'mr. booth', 'mr booth', 'officer booth', 'boothy', 'boothie', 'bth', 'bohth', 'boof', 'dr. booth']: (voice-over) and waited for the club to be empty.
+['brennan', 'dr. brennan', 'dr brennan', 'temperance', 'temperance brennan', 'dr. temperance', 'dr temperance', 'dr. temperance brennan', 'dr temperance brennan', 'bones', 'temp', 'dr bones', 'ms. brennan', 'ms brennan', 'brnnan', 'brannan', 'dr.brennan', 'dr.brenan']: remember all those wooden matches around the body? (holds up the match to booth)
+['booth', 'agent booth', 'special agent booth', 'special agent seeley booth', 'seeley', 'seeley booth', 'mr. booth', 'mr booth', 'officer booth', 'boothy', 'boothie', 'bth', 'bohth', 'boof', 'dr. booth']: he was here!
+['brennan', 'dr. brennan', 'dr brennan', 'temperance', 'temperance brennan', 'dr. temperance', 'dr temperance', 'dr. temperance brennan', 'dr temperance brennan', 'bones', 'temp', 'dr bones', 'ms. brennan', 'ms brennan', 'brnnan', 'brannan', 'dr.brennan', 'dr.brenan']: (to daisy) why didn't you tell the police you saw wostenbach?
+['daisy', 'daisy wick', 'intern daisy', 'ms. wick', 'd. wick', 'miss wick', 'daizy', 'dasi']: fisher says that mr. b probably kill the guy to save you, and that we should do everything we could to impede the investigation. was that wrong? it felt right.
+(cut to: interior the lab - brennan's office. zack is lying on brennan's couch without any shoes on)
+(brennan enters, and is shocked to find zack on her couch)
+['brennan', 'dr. brennan', 'dr brennan', 'temperance', 'temperance brennan', 'dr. temperance', 'dr temperance', 'dr. temperance brennan', 'dr temperance brennan', 'bones', 'temp', 'dr bones', 'ms. brennan', 'ms brennan', 'brnnan', 'brannan', 'dr.brennan', 'dr.brenan']: what? they let you out!
+['zack', 'zach', 'zack addy', 'zach addy', 'dr. addy', 'dr addy', 'z. addy', 'zack a', 'zackk', 'zaky', 'dr. zack', 'doc addy']: yes. someone stole my shoes.
+['brennan', 'dr. brennan', 'dr brennan', 'temperance', 'temperance brennan', 'dr. temperance', 'dr temperance', 'dr. temperance brennan', 'dr temperance brennan', 'bones', 'temp', 'dr bones', 'ms. brennan', 'ms brennan', 'brnnan', 'brannan', 'dr.brennan', 'dr.brenan']: (chuckles) of course they did.
+['zack', 'zach', 'zack addy', 'zach addy', 'dr. addy', 'dr addy', 'z. addy', 'zack a', 'zackk', 'zaky', 'dr. zack', 'doc addy']: sweets found your coat.
+['brennan', 'dr. brennan', 'dr brennan', 'temperance', 'temperance brennan', 'dr. temperance', 'dr temperance', 'dr. temperance brennan', 'dr temperance brennan', 'bones', 'temp', 'dr bones', 'ms. brennan', 'ms brennan', 'brnnan', 'brannan', 'dr.brennan', 'dr.brenan']: i don't get the connection.
+['zack', 'zach', 'zack addy', 'zach addy', 'dr. addy', 'dr addy', 'z. addy', 'zack a', 'zackk', 'zaky', 'dr. zack', 'doc addy']: it was jammed into a case of premium gin. he brought it to me. i found the bullet hole.
+['brennan', 'dr. brennan', 'dr brennan', 'temperance', 'temperance brennan', 'dr. temperance', 'dr temperance', 'dr. temperance brennan', 'dr temperance brennan', 'bones', 'temp', 'dr bones', 'ms. brennan', 'ms brennan', 'brnnan', 'brannan', 'dr.brennan', 'dr.brenan']: someone used my coat to muffle the gun.
+['zack', 'zach', 'zack addy', 'zach addy', 'dr. addy', 'dr addy', 'z. addy', 'zack a', 'zackk', 'zaky', 'dr. zack', 'doc addy']: (nods)
+['brennan', 'dr. brennan', 'dr brennan', 'temperance', 'temperance brennan', 'dr. temperance', 'dr temperance', 'dr. temperance brennan', 'dr temperance brennan', 'bones', 'temp', 'dr bones', 'ms. brennan', 'ms brennan', 'brnnan', 'brannan', 'dr.brennan', 'dr.brenan']: well, what'd you do with my coat?
+(cut to the storage room, sweets and zack are moving boxes to show brennan where they've disposed of her coat)
+['brennan', 'dr. brennan', 'dr brennan', 'temperance', 'temperance brennan', 'dr. temperance', 'dr temperance', 'dr. temperance brennan', 'dr temperance brennan', 'bones', 'temp', 'dr bones', 'ms. brennan', 'ms brennan', 'brnnan', 'brannan', 'dr.brennan', 'dr.brenan']: (looks into a bucket and sees the charred remains of her coat) that's my expensive belgian corduroy coat?
+['sweets', 'dr. sweets', 'dr sweets', 'lance', 'lance sweets', 'dr. lance', 'dr lance sweets', 'dr lance', 'agent sweets', 'doc sweets', 'l.sweets']: i decided to douse with pure grade alcohol and burn it.
+['brennan', 'dr. brennan', 'dr brennan', 'temperance', 'temperance brennan', 'dr. temperance', 'dr temperance', 'dr. temperance brennan', 'dr temperance brennan', 'bones', 'temp', 'dr bones', 'ms. brennan', 'ms brennan', 'brnnan', 'brannan', 'dr.brennan', 'dr.brenan']: so you two conspired to keep this big secret from the rest of us.
+['sweets', 'dr. sweets', 'dr sweets', 'lance', 'lance sweets', 'dr. lance', 'dr lance sweets', 'dr lance', 'agent sweets', 'doc sweets', 'l.sweets']: mr. b had the strength to smash the guy's head against the wall, and you had the, zack: clarity of will to shoot him.
+['brennan', 'dr. brennan', 'dr brennan', 'temperance', 'temperance brennan', 'dr. temperance', 'dr temperance', 'dr. temperance brennan', 'dr temperance brennan', 'bones', 'temp', 'dr bones', 'ms. brennan', 'ms brennan', 'brnnan', 'brannan', 'dr.brennan', 'dr.brenan']: is that why you picked up the gun? in case my fingerprints were on it?
+['zack', 'zach', 'zack addy', 'zach addy', 'dr. addy', 'dr addy', 'z. addy', 'zack a', 'zackk', 'zaky', 'dr. zack', 'doc addy']: i've learnt a lot from mr. hodgins' books.
+(cut to: interior booth and brennan's appartment - bedroom. booth is getting changed)
+(brennan enters)
+['brennan', 'dr. brennan', 'dr brennan', 'temperance', 'temperance brennan', 'dr. temperance', 'dr temperance', 'dr. temperance brennan', 'dr temperance brennan', 'bones', 'temp', 'dr bones', 'ms. brennan', 'ms brennan', 'brnnan', 'brannan', 'dr.brennan', 'dr.brenan']: zack and sweets found my belgian corduroy coat and burned it because it had a bullet hole in it.
+['booth', 'agent booth', 'special agent booth', 'special agent seeley booth', 'seeley', 'seeley booth', 'mr. booth', 'mr booth', 'officer booth', 'boothy', 'boothie', 'bth', 'bohth', 'boof', 'dr. booth']: oh, wow, are you serious?
+['brennan', 'dr. brennan', 'dr brennan', 'temperance', 'temperance brennan', 'dr. temperance', 'dr temperance', 'dr. temperance brennan', 'dr temperance brennan', 'bones', 'temp', 'dr bones', 'ms. brennan', 'ms brennan', 'brnnan', 'brannan', 'dr.brennan', 'dr.brenan']: yeah, the figured you bashed his head against the wall and i shot him.
+['booth', 'agent booth', 'special agent booth', 'special agent seeley booth', 'seeley', 'seeley booth', 'mr. booth', 'mr booth', 'officer booth', 'boothy', 'boothie', 'bth', 'bohth', 'boof', 'dr. booth']: should i be upset that everyone thinks that we're murder, or just happy that everyone's trying to help us get away with it?
+['brennan', 'dr. brennan', 'dr brennan', 'temperance', 'temperance brennan', 'dr. temperance', 'dr temperance', 'dr. temperance brennan', 'dr temperance brennan', 'bones', 'temp', 'dr bones', 'ms. brennan', 'ms brennan', 'brnnan', 'brannan', 'dr.brennan', 'dr.brenan']: you should recognise that everything they do to try to help just makes us look more guilty! especially you.
+['booth', 'agent booth', 'special agent booth', 'special agent seeley booth', 'seeley', 'seeley booth', 'mr. booth', 'mr booth', 'officer booth', 'boothy', 'boothie', 'bth', 'bohth', 'boof', 'dr. booth']: why me?
+['brennan', 'dr. brennan', 'dr brennan', 'temperance', 'temperance brennan', 'dr. temperance', 'dr temperance', 'dr. temperance brennan', 'dr temperance brennan', 'bones', 'temp', 'dr bones', 'ms. brennan', 'ms brennan', 'brnnan', 'brannan', 'dr.brennan', 'dr.brenan']: because you are strong enough to bash his head into the wall and i'm not.
+['booth', 'agent booth', 'special agent booth', 'special agent seeley booth', 'seeley', 'seeley booth', 'mr. booth', 'mr booth', 'officer booth', 'boothy', 'boothie', 'bth', 'bohth', 'boof', 'dr. booth']: oh, so, are we having some doubts?
+['brennan', 'dr. brennan', 'dr brennan', 'temperance', 'temperance brennan', 'dr. temperance', 'dr temperance', 'dr. temperance brennan', 'dr temperance brennan', 'bones', 'temp', 'dr bones', 'ms. brennan', 'ms brennan', 'brnnan', 'brannan', 'dr.brennan', 'dr.brenan']: not about anything important. here.
+(brennan goes over to fix booth's tie, booth kisses brennan)
+(cut to: exterior the street - the royal diner. jared and booth are walking together)
+['jared', 'jared booth', "booth's brother", 'j. booth']: yeah, the fibres we found in the wound track are belgian corduroy, how'd you know?
+['booth', 'agent booth', 'special agent booth', 'special agent seeley booth', 'seeley', 'seeley booth', 'mr. booth', 'mr booth', 'officer booth', 'boothy', 'boothie', 'bth', 'bohth', 'boof', 'dr. booth']: we can't find bren's coat!
+['jared', 'jared booth', "booth's brother", 'j. booth']: if it's in that club we'll eventually find it so, booth: yeah, i know, i heard you the first time! get rid of it, burn it, whatever. the problem is, i didn't kill the guy.
+max says that you're in the gravedigger's pocket. did he send this man?
+['jared', 'jared booth', "booth's brother", 'j. booth']: max is nuts, and crooked as a stick in water.
+(jared and booth enter the royal diner)
+['booth', 'agent booth', 'special agent booth', 'special agent seeley booth', 'seeley', 'seeley booth', 'mr. booth', 'mr booth', 'officer booth', 'boothy', 'boothie', 'bth', 'bohth', 'boof', 'dr. booth']: oh, hey, hey, somebody put this worstenbach guy on bren.
+(jared looks down)
+['booth', 'agent booth', 'special agent booth', 'special agent seeley booth', 'seeley', 'seeley booth', 'mr. booth', 'mr booth', 'officer booth', 'boothy', 'boothie', 'bth', 'bohth', 'boof', 'dr. booth']: what?
+['jared', 'jared booth', "booth's brother", 'j. booth']: you're not gonna like it.
+['booth', 'agent booth', 'special agent booth', 'special agent seeley booth', 'seeley', 'seeley booth', 'mr. booth', 'mr booth', 'officer booth', 'boothy', 'boothie', 'bth', 'bohth', 'boof', 'dr. booth']: somebody comes into my club to hurt my wife, of course i'm not gonna like it!
+['jared', 'jared booth', "booth's brother", 'j. booth']: bren was cheating on you with the persian.
+['booth', 'agent booth', 'special agent booth', 'special agent seeley booth', 'seeley', 'seeley booth', 'mr. booth', 'mr booth', 'officer booth', 'boothy', 'boothie', 'bth', 'bohth', 'boof', 'dr. booth']: (scoffs) you got that wrong.
+(jared pulls some phone records from his jacket pocket)
+['jared', 'jared booth', "booth's brother", 'j. booth']: she met with him over a dozen times, over 70 phone calls over the past two weeks. how many times a day you talk to her?
+(booth looks at jared incredulously)
+['jared', 'jared booth', "booth's brother", 'j. booth']: this is what happened. they get into a thing, it goes south, bren figures that it's not true love and that the persian wants her for your nightclub.
+(booth stands up, jared does too)
+['jared', 'jared booth', "booth's brother", 'j. booth']: and then he threatens her, he sends this worstenbach guy on the job, but you don't see it, because you don't use your head. you think that everything you feel is true,
+(booth punches jared in the face and walks out)
+['jared', 'jared booth', "booth's brother", 'j. booth']: you need to grow up.
+(cut to: interior the lab. booth enters, angela is checking the guest list)
+['angela', 'angela montenegro', 'ms. montenegro', 'ms montenegro', 'ang', 'ange', 'an', 'a.montenegro', 'angella', 'angla', 'angelina', 'miss montenegro', 'angela m', 'dr. angela']: hey, mr. b. anybody else get arrested?
+['booth', 'agent booth', 'special agent booth', 'special agent seeley booth', 'seeley', 'seeley booth', 'mr. booth', 'mr booth', 'officer booth', 'boothy', 'boothie', 'bth', 'bohth', 'boof', 'dr. booth']: not that i know of. hey, listen, ange, you know the napkin you drew for worstenbach, angela: yeah, i'm sorry about that, i didn't know what he wanted it for, booth: no, uh, i know that, i, uh, just, why wasn't it finished?
+['angela', 'angela montenegro', 'ms. montenegro', 'ms montenegro', 'ang', 'ange', 'an', 'a.montenegro', 'angella', 'angla', 'angelina', 'miss montenegro', 'angela m', 'dr. angela']: oh, well, i got interrupted.
+['booth', 'agent booth', 'special agent booth', 'special agent seeley booth', 'seeley', 'seeley booth', 'mr. booth', 'mr booth', 'officer booth', 'boothy', 'boothie', 'bth', 'bohth', 'boof', 'dr. booth']: interrupted? by who?
+['angela', 'angela montenegro', 'ms. montenegro', 'ms montenegro', 'ang', 'ange', 'an', 'a.montenegro', 'angella', 'angla', 'angelina', 'miss montenegro', 'angela m', 'dr. angela']: by jared. he came in to ask me out.
+['booth', 'agent booth', 'special agent booth', 'special agent seeley booth', 'seeley', 'seeley booth', 'mr. booth', 'mr booth', 'officer booth', 'boothy', 'boothie', 'bth', 'bohth', 'boof', 'dr. booth']: (scoffs) jared saw worstenbach and the napkin?
+['angela', 'angela montenegro', 'ms. montenegro', 'ms montenegro', 'ang', 'ange', 'an', 'a.montenegro', 'angella', 'angla', 'angelina', 'miss montenegro', 'angela m', 'dr. angela']: (nods)
+['booth', 'agent booth', 'special agent booth', 'special agent seeley booth', 'seeley', 'seeley booth', 'mr. booth', 'mr booth', 'officer booth', 'boothy', 'boothie', 'bth', 'bohth', 'boof', 'dr. booth']: right. you seen max?
+['angela', 'angela montenegro', 'ms. montenegro', 'ms montenegro', 'ang', 'ange', 'an', 'a.montenegro', 'angella', 'angla', 'angelina', 'miss montenegro', 'angela m', 'dr. angela']: yeah, uh, table 11.
+(booth walks over to table 11 where max is seated, on the way he passes a roadie for moltley crue)
+roadie: (to booth) hey, as soon as the crue gets here we'll do a sound check.
+['booth', 'agent booth', 'special agent booth', 'special agent seeley booth', 'seeley', 'seeley booth', 'mr. booth', 'mr booth', 'officer booth', 'boothy', 'boothie', 'bth', 'bohth', 'boof', 'dr. booth']: that's great.
+roadie: what time you want us to go on?
+['booth', 'agent booth', 'special agent booth', 'special agent seeley booth', 'seeley', 'seeley booth', 'mr. booth', 'mr booth', 'officer booth', 'boothy', 'boothie', 'bth', 'bohth', 'boof', 'dr. booth']: midnight.
+roadie: you got it, give or take.
+(booth arrives at max's table)
+['booth', 'agent booth', 'special agent booth', 'special agent seeley booth', 'seeley', 'seeley booth', 'mr. booth', 'mr booth', 'officer booth', 'boothy', 'boothie', 'bth', 'bohth', 'boof', 'dr. booth']: so, the cops think i committed the murder!
+['max', 'max keenan', 'mr. keenan', 'm. keenan', 'dad', "brennan's father", 'brennan’s father']: the cops are the least of your worries. make the payment.
+['booth', 'agent booth', 'special agent booth', 'special agent seeley booth', 'seeley', 'seeley booth', 'mr. booth', 'mr booth', 'officer booth', 'boothy', 'boothie', 'bth', 'bohth', 'boof', 'dr. booth']: right, you tell the gravedigger that unless he's willing to kill me, it's over. oh, one more thing, anything happens to my wife, it's you i'm coming after.
+['max', 'max keenan', 'mr. keenan', 'm. keenan', 'dad', "brennan's father", 'brennan’s father']: woah, woah, woah, me? i'm just the messenger!
+['booth', 'agent booth', 'special agent booth', 'special agent seeley booth', 'seeley', 'seeley booth', 'mr. booth', 'mr booth', 'officer booth', 'boothy', 'boothie', 'bth', 'bohth', 'boof', 'dr. booth']: (scoffs) oh, i don't know how you got jared to believe that crap, but my gut is telling me you're nobodies messenger.
+(booth exits, max calls after him)
+['max', 'max keenan', 'mr. keenan', 'm. keenan', 'dad', "brennan's father", 'brennan’s father']: it's only money! i hate it when people say that.
+(cut to: interior the lab. clark is entering with an entourage of women. he waves to brennan and booth who are standing on the catwalk above the platform)
+(pan to brennan and booth on the catwalk)
+['brennan', 'dr. brennan', 'dr brennan', 'temperance', 'temperance brennan', 'dr. temperance', 'dr temperance', 'dr. temperance brennan', 'dr temperance brennan', 'bones', 'temp', 'dr bones', 'ms. brennan', 'ms brennan', 'brnnan', 'brannan', 'dr.brennan', 'dr.brenan']: so, did the police try to convince you that i was having an affair with arastoo?
+['booth', 'agent booth', 'special agent booth', 'special agent seeley booth', 'seeley', 'seeley booth', 'mr. booth', 'mr booth', 'officer booth', 'boothy', 'boothie', 'bth', 'bohth', 'boof', 'dr. booth']: it's what they do, you know, drive wedges.
+['brennan', 'dr. brennan', 'dr brennan', 'temperance', 'temperance brennan', 'dr. temperance', 'dr temperance', 'dr. temperance brennan', 'dr temperance brennan', 'bones', 'temp', 'dr bones', 'ms. brennan', 'ms brennan', 'brnnan', 'brannan', 'dr.brennan', 'dr.brenan']: it wouldn't be irrational to think that i was having an affair with him. he's very handsome.
+['booth', 'agent booth', 'special agent booth', 'special agent seeley booth', 'seeley', 'seeley booth', 'mr. booth', 'mr booth', 'officer booth', 'boothy', 'boothie', 'bth', 'bohth', 'boof', 'dr. booth']: yeah, i'd feel if the energy was bad between the two us, i'd know. the same way that you would know that i couldn't murder someone.
+['brennan', 'dr. brennan', 'dr brennan', 'temperance', 'temperance brennan', 'dr. temperance', 'dr temperance', 'dr. temperance brennan', 'dr temperance brennan', 'bones', 'temp', 'dr bones', 'ms. brennan', 'ms brennan', 'brnnan', 'brannan', 'dr.brennan', 'dr.brenan']: i do believe that you would murder someone for me. and i believe that you'd lie about it so i wouldn't have to carry that burden.
+random girl: tommy! tommy! i love you!
+(pan to the platform, motley crue enter)
+['brennan', 'dr. brennan', 'dr brennan', 'temperance', 'temperance brennan', 'dr. temperance', 'dr temperance', 'dr. temperance brennan', 'dr temperance brennan', 'bones', 'temp', 'dr bones', 'ms. brennan', 'ms brennan', 'brnnan', 'brannan', 'dr.brennan', 'dr.brenan']: hey, nicky! vince!
+nicky: s'up!
+['booth', 'agent booth', 'special agent booth', 'special agent seeley booth', 'seeley', 'seeley booth', 'mr. booth', 'mr booth', 'officer booth', 'boothy', 'boothie', 'bth', 'bohth', 'boof', 'dr. booth']: excellent update on the lid, nick.
+(motley crue do their sound check)
+motley crue's manager: listen, go bigger, go louder, or just go home.
+(pan to brennan and booth on the catwalk)
+['brennan', 'dr. brennan', 'dr brennan', 'temperance', 'temperance brennan', 'dr. temperance', 'dr temperance', 'dr. temperance brennan', 'dr temperance brennan', 'bones', 'temp', 'dr bones', 'ms. brennan', 'ms brennan', 'brnnan', 'brannan', 'dr.brennan', 'dr.brenan']: (to booth) how did you convince them to leave crue fest and appear here?
+['booth', 'agent booth', 'special agent booth', 'special agent seeley booth', 'seeley', 'seeley booth', 'mr. booth', 'mr booth', 'officer booth', 'boothy', 'boothie', 'bth', 'bohth', 'boof', 'dr. booth']: benefit for the kids.
+['brennan', 'dr. brennan', 'dr brennan', 'temperance', 'temperance brennan', 'dr. temperance', 'dr temperance', 'dr. temperance brennan', 'dr temperance brennan', 'bones', 'temp', 'dr bones', 'ms. brennan', 'ms brennan', 'brnnan', 'brannan', 'dr.brennan', 'dr.brenan']: we're doing a benefit for sick kids? aww!
+(brennan kisses booth's cheek)
+['brennan', 'dr. brennan', 'dr brennan', 'temperance', 'temperance brennan', 'dr. temperance', 'dr temperance', 'dr. temperance brennan', 'dr temperance brennan', 'bones', 'temp', 'dr bones', 'ms. brennan', 'ms brennan', 'brnnan', 'brannan', 'dr.brennan', 'dr.brenan']: poor cam and jared. you know, if this murder is any inclination, i don't know how any homicide is ever solved. when everyone lies, everyone has a secret agenda. i'm glad we're nightclub owners and not crime solvers.
+['booth', 'agent booth', 'special agent booth', 'special agent seeley booth', 'seeley', 'seeley booth', 'mr. booth', 'mr booth', 'officer booth', 'boothy', 'boothie', 'bth', 'bohth', 'boof', 'dr. booth']: i know who did it.
+['brennan', 'dr. brennan', 'dr brennan', 'temperance', 'temperance brennan', 'dr. temperance', 'dr temperance', 'dr. temperance brennan', 'dr temperance brennan', 'bones', 'temp', 'dr bones', 'ms. brennan', 'ms brennan', 'brnnan', 'brannan', 'dr.brennan', 'dr.brenan']: so do i.
+(cut to wendell, vincent and cam entering the bar)
+['wendell', 'wendell bray', 'intern wendell', 'w bray', 'w.bray', 'mr. bray', 'wendel']: awesome, it's the crue!
+['vincent', 'vincent nigel-murray', 'nigel-murray', 'vincent n', 'v.nigel', 'intern vincent', 'nigel murray', 'nigel m', 'vinny', 'vince']: i've been bounced by a rock band!
+(max exits the club, whispering in cam's ear on the way out)
+(cut to: interior the lab - brennan's office. brennan and booth are entering)
+['booth', 'agent booth', 'special agent booth', 'special agent seeley booth', 'seeley', 'seeley booth', 'mr. booth', 'mr booth', 'officer booth', 'boothy', 'boothie', 'bth', 'bohth', 'boof', 'dr. booth']: when did you realise it wasn't me? (pours himself a large drink of whiskey)
+['brennan', 'dr. brennan', 'dr brennan', 'temperance', 'temperance brennan', 'dr. temperance', 'dr temperance', 'dr. temperance brennan', 'dr temperance brennan', 'bones', 'temp', 'dr bones', 'ms. brennan', 'ms brennan', 'brnnan', 'brannan', 'dr.brennan', 'dr.brenan']: you would kill for me, i know that, but whoever did this knocked him out, got my coat, before executing him. you would never do that. jared is different.
+['booth', 'agent booth', 'special agent booth', 'special agent seeley booth', 'seeley', 'seeley booth', 'mr. booth', 'mr booth', 'officer booth', 'boothy', 'boothie', 'bth', 'bohth', 'boof', 'dr. booth']: my brother kill a man to save my wife. what are we gonna do? (takes a large sip of whiskey)
+['brennan', 'dr. brennan', 'dr brennan', 'temperance', 'temperance brennan', 'dr. temperance', 'dr temperance', 'dr. temperance brennan', 'dr temperance brennan', 'bones', 'temp', 'dr bones', 'ms. brennan', 'ms brennan', 'brnnan', 'brannan', 'dr.brennan', 'dr.brenan']: do? we thank him and shut-up.
+['booth', 'agent booth', 'special agent booth', 'special agent seeley booth', 'seeley', 'seeley booth', 'mr. booth', 'mr booth', 'officer booth', 'boothy', 'boothie', 'bth', 'bohth', 'boof', 'dr. booth']: bren, this is murder!
+['brennan', 'dr. brennan', 'dr brennan', 'temperance', 'temperance brennan', 'dr. temperance', 'dr temperance', 'dr. temperance brennan', 'dr temperance brennan', 'bones', 'temp', 'dr bones', 'ms. brennan', 'ms brennan', 'brnnan', 'brannan', 'dr.brennan', 'dr.brenan']: it's more like a rescue.
+['booth', 'agent booth', 'special agent booth', 'special agent seeley booth', 'seeley', 'seeley booth', 'mr. booth', 'mr booth', 'officer booth', 'boothy', 'boothie', 'bth', 'bohth', 'boof', 'dr. booth']: not everything is just so clear to you!
+['brennan', 'dr. brennan', 'dr brennan', 'temperance', 'temperance brennan', 'dr. temperance', 'dr temperance', 'dr. temperance brennan', 'dr temperance brennan', 'bones', 'temp', 'dr bones', 'ms. brennan', 'ms brennan', 'brnnan', 'brannan', 'dr.brennan', 'dr.brenan']: it is this time.
+['booth', 'agent booth', 'special agent booth', 'special agent seeley booth', 'seeley', 'seeley booth', 'mr. booth', 'mr booth', 'officer booth', 'boothy', 'boothie', 'bth', 'bohth', 'boof', 'dr. booth']: i don't think i can live with this.
+(wendell enters)
+['wendell', 'wendell bray', 'intern wendell', 'w bray', 'w.bray', 'mr. bray', 'wendel']: boss?
+(cut to: exterior the lab - the alley. booth, brennan and wendell are exiting the lab into the alley. cam is holding jared at gun, caroline and max also enter)
+['jared', 'jared booth', "booth's brother", 'j. booth']: i'm not going to prison.
+['cam', 'camille', 'camille saroyan', 'dr. saroyan', 'dr saroyan', 'dr cam', 'dr. cam', 'cam s', 'ms. saroyan', 'ms saroyan', 'dr. camille', 'cammy', 'camil', 'cam saroyan']: gps puts you in this building at the time of the murder.
+['max', 'max keenan', 'mr. keenan', 'm. keenan', 'dad', "brennan's father", 'brennan’s father']: hey, i told you, no cell phone, no gps. should listen to me.
+['cam', 'camille', 'camille saroyan', 'dr. saroyan', 'dr saroyan', 'dr cam', 'dr. cam', 'cam s', 'ms. saroyan', 'ms saroyan', 'dr. camille', 'cammy', 'camil', 'cam saroyan']: lose the weapon detective.
+['jared', 'jared booth', "booth's brother", 'j. booth']: (shakes his head)
+['booth', 'agent booth', 'special agent booth', 'special agent seeley booth', 'seeley', 'seeley booth', 'mr. booth', 'mr booth', 'officer booth', 'boothy', 'boothie', 'bth', 'bohth', 'boof', 'dr. booth']: jared, just take out you gun.
+['jared', 'jared booth', "booth's brother", 'j. booth']: oh, that's exactly what i'm gonna do. you ready? i'm a quick bastard.
+['cam', 'camille', 'camille saroyan', 'dr. saroyan', 'dr saroyan', 'dr cam', 'dr. cam', 'cam s', 'ms. saroyan', 'ms saroyan', 'dr. camille', 'cammy', 'camil', 'cam saroyan']: by the barrel, nice and slowly.
+['jared', 'jared booth', "booth's brother", 'j. booth']: that's not how it's gonna go.
+(jared reaches down to his holser)
+['jared', 'jared booth', "booth's brother", 'j. booth']: we both know how this is gonna go.
+(cam cocks her gun)
+(brennan walks between cam and jared)
+['booth', 'agent booth', 'special agent booth', 'special agent seeley booth', 'seeley', 'seeley booth', 'mr. booth', 'mr booth', 'officer booth', 'boothy', 'boothie', 'bth', 'bohth', 'boof', 'dr. booth']: bren!
+['brennan', 'dr. brennan', 'dr brennan', 'temperance', 'temperance brennan', 'dr. temperance', 'dr temperance', 'dr. temperance brennan', 'dr temperance brennan', 'bones', 'temp', 'dr bones', 'ms. brennan', 'ms brennan', 'brnnan', 'brannan', 'dr.brennan', 'dr.brenan']: it's ok, it's all ok. (to jared) thank you.
+(cam lowers her gun)
+['brennan', 'dr. brennan', 'dr brennan', 'temperance', 'temperance brennan', 'dr. temperance', 'dr temperance', 'dr. temperance brennan', 'dr temperance brennan', 'bones', 'temp', 'dr bones', 'ms. brennan', 'ms brennan', 'brnnan', 'brannan', 'dr.brennan', 'dr.brenan']: you helped us. now please, let us help you.
+(jared gives his gun to brennan, who then passes it to cam)
+announcer: (voice over) please welcome to the stage, motley crue!
+['cam', 'camille', 'camille saroyan', 'dr. saroyan', 'dr saroyan', 'dr cam', 'dr. cam', 'cam s', 'ms. saroyan', 'ms saroyan', 'dr. camille', 'cammy', 'camil', 'cam saroyan']: put the handcuffs on, jared.
+(jared handcuffs himself)
+(cut to: interior the lab - the platform. motley crue play "dr. feelgood")
+(scene fades to white, then fades back to the lab at closing time)
+['hodgins', 'jack hodgins', 'jack', 'dr. hodgins', 'dr hodgins', 'dr. jack', 'mr. hodgins', 'hodges', 'hodg', 'jack h', 'hodginz', 'dr hodges']: [narrating] you love someone, you open yourself up to suffering; that's the sad truth. maybe they'll break your heart; maybe you'll break their heart and never be able to look at yourself in the same way. those are the risks.
+['wendell', 'wendell bray', 'intern wendell', 'w bray', 'w.bray', 'mr. bray', 'wendel']: (voice-over) locking up now, boss!
+(pan to brennan's office, booth is standing in the doorway while brennan stands behind her desk)
+['booth', 'agent booth', 'special agent booth', 'special agent seeley booth', 'seeley', 'seeley booth', 'mr. booth', 'mr booth', 'officer booth', 'boothy', 'boothie', 'bth', 'bohth', 'boof', 'dr. booth']: thanks, wendell. you know, i think you're right, you know, i think we should sell out.
+['brennan', 'dr. brennan', 'dr brennan', 'temperance', 'temperance brennan', 'dr. temperance', 'dr temperance', 'dr. temperance brennan', 'dr temperance brennan', 'bones', 'temp', 'dr bones', 'ms. brennan', 'ms brennan', 'brnnan', 'brannan', 'dr.brennan', 'dr.brenan']: you're not afraid of this gravedigger person?
+['booth', 'agent booth', 'special agent booth', 'special agent seeley booth', 'seeley', 'seeley booth', 'mr. booth', 'mr booth', 'officer booth', 'boothy', 'boothie', 'bth', 'bohth', 'boof', 'dr. booth']: nah, i told him if he didn't leave us alone i'd kill him. and he believes me.
+(booth sits down in an armchair)
+['brennan', 'dr. brennan', 'dr brennan', 'temperance', 'temperance brennan', 'dr. temperance', 'dr temperance', 'dr. temperance brennan', 'dr temperance brennan', 'bones', 'temp', 'dr bones', 'ms. brennan', 'ms brennan', 'brnnan', 'brannan', 'dr.brennan', 'dr.brenan']: you mean you told max to tell him.
+['booth', 'agent booth', 'special agent booth', 'special agent seeley booth', 'seeley', 'seeley booth', 'mr. booth', 'mr booth', 'officer booth', 'boothy', 'boothie', 'bth', 'bohth', 'boof', 'dr. booth']: yeah.
+['brennan', 'dr. brennan', 'dr brennan', 'temperance', 'temperance brennan', 'dr. temperance', 'dr temperance', 'dr. temperance brennan', 'dr temperance brennan', 'bones', 'temp', 'dr bones', 'ms. brennan', 'ms brennan', 'brnnan', 'brannan', 'dr.brennan', 'dr.brenan']: mhm. caroline says if they can't trace the gun to jared, they can't find my coat, he's going to walk. we can't sell the club; your brother might need a job. plus, i have another confession.
+['booth', 'agent booth', 'special agent booth', 'special agent seeley booth', 'seeley', 'seeley booth', 'mr. booth', 'mr booth', 'officer booth', 'boothy', 'boothie', 'bth', 'bohth', 'boof', 'dr. booth']: what?
+['hodgins', 'jack hodgins', 'jack', 'dr. hodgins', 'dr hodgins', 'dr. jack', 'mr. hodgins', 'hodges', 'hodg', 'jack h', 'hodginz', 'dr hodges']: [narrating] you see two people and think they belong together, but nothing happens,
+(brennan sits herself on booth's lap)
+['brennan', 'dr. brennan', 'dr brennan', 'temperance', 'temperance brennan', 'dr. temperance', 'dr temperance', 'dr. temperance brennan', 'dr temperance brennan', 'bones', 'temp', 'dr bones', 'ms. brennan', 'ms brennan', 'brnnan', 'brannan', 'dr.brennan', 'dr.brenan']: well, you know that glass of wine that we share every night?
+['booth', 'agent booth', 'special agent booth', 'special agent seeley booth', 'seeley', 'seeley booth', 'mr. booth', 'mr booth', 'officer booth', 'boothy', 'boothie', 'bth', 'bohth', 'boof', 'dr. booth']: yeah... brennan: i have to stop that.
+['booth', 'agent booth', 'special agent booth', 'special agent seeley booth', 'seeley', 'seeley booth', 'mr. booth', 'mr booth', 'officer booth', 'boothy', 'boothie', 'bth', 'bohth', 'boof', 'dr. booth']: oh c'mon, bren. just because you have one glass of wine every night with your husband, doesn't mean you're an alcoholic.
+['brennan', 'dr. brennan', 'dr brennan', 'temperance', 'temperance brennan', 'dr. temperance', 'dr temperance', 'dr. temperance brennan', 'dr temperance brennan', 'bones', 'temp', 'dr bones', 'ms. brennan', 'ms brennan', 'brnnan', 'brannan', 'dr.brennan', 'dr.brenan']: that's not why.
+(booth realises what brennan is trying to say and grins)
+['booth', 'agent booth', 'special agent booth', 'special agent seeley booth', 'seeley', 'seeley booth', 'mr. booth', 'mr booth', 'officer booth', 'boothy', 'boothie', 'bth', 'bohth', 'boof', 'dr. booth']: no way!
+['brennan', 'dr. brennan', 'dr brennan', 'temperance', 'temperance brennan', 'dr. temperance', 'dr temperance', 'dr. temperance brennan', 'dr temperance brennan', 'bones', 'temp', 'dr bones', 'ms. brennan', 'ms brennan', 'brnnan', 'brannan', 'dr.brennan', 'dr.brenan']: (chuckles)
+['booth', 'agent booth', 'special agent booth', 'special agent seeley booth', 'seeley', 'seeley booth', 'mr. booth', 'mr booth', 'officer booth', 'boothy', 'boothie', 'bth', 'bohth', 'boof', 'dr. booth']: yeah!
+(booth kisses brennan)
+['booth', 'agent booth', 'special agent booth', 'special agent seeley booth', 'seeley', 'seeley booth', 'mr. booth', 'mr booth', 'officer booth', 'boothy', 'boothie', 'bth', 'bohth', 'boof', 'dr. booth']: you are pregnant! there's a little baby boy, huh?
+['brennan', 'dr. brennan', 'dr brennan', 'temperance', 'temperance brennan', 'dr. temperance', 'dr temperance', 'dr. temperance brennan', 'dr temperance brennan', 'bones', 'temp', 'dr bones', 'ms. brennan', 'ms brennan', 'brnnan', 'brannan', 'dr.brennan', 'dr.brenan']: or girl... hodgins: [narrating] the thought of losing so much control over personal happiness is unbearable.
+(scene fades to booth lying in a hospital bed after his brain surgery, brennan is sitting in a chair next to the bed typing on her laptop: "you love someone, you open yourself up to suffering, that's the sad truth. maybe they'll break your heart; maybe you'll break their heart and never be able to look at yourself in the same way. those are the risks. that's the burden. like wings, they have weight, we feel that weight on our backs, but they are a burden that lifts us. burdens which -." [note: text differs from hodgins narration slightly])
+['hodgins', 'jack hodgins', 'jack', 'dr. hodgins', 'dr hodgins', 'dr. jack', 'mr. hodgins', 'hodges', 'hodg', 'jack h', 'hodginz', 'dr hodges']: [narrating] that's the burden. like wings, they have weight, we feel that weight on out backs, but they are a burden that lifts us. burdens that-
+brennan and hodgins: [narrating] allow us to fly.
+(brennan looks over at booth and then back to her computer. she considers what she has written, and then deletes it)
+['booth', 'agent booth', 'special agent booth', 'special agent seeley booth', 'seeley', 'seeley booth', 'mr. booth', 'mr booth', 'officer booth', 'boothy', 'boothie', 'bth', 'bohth', 'boof', 'dr. booth']: such a weird dream, brennan: booth? booth! you're awake!
+['booth', 'agent booth', 'special agent booth', 'special agent seeley booth', 'seeley', 'seeley booth', 'mr. booth', 'mr booth', 'officer booth', 'boothy', 'boothie', 'bth', 'bohth', 'boof', 'dr. booth']: so real.
+['brennan', 'dr. brennan', 'dr brennan', 'temperance', 'temperance brennan', 'dr. temperance', 'dr temperance', 'dr. temperance brennan', 'dr temperance brennan', 'bones', 'temp', 'dr bones', 'ms. brennan', 'ms brennan', 'brnnan', 'brannan', 'dr.brennan', 'dr.brenan']: you're operation was a success, but you reacted poorly to the anaesthesia. you've been in a coma for the past four days. what took you so long to wake up?
+['booth', 'agent booth', 'special agent booth', 'special agent seeley booth', 'seeley', 'seeley booth', 'mr. booth', 'mr booth', 'officer booth', 'boothy', 'boothie', 'bth', 'bohth', 'boof', 'dr. booth']: it felt so real.
+['brennan', 'dr. brennan', 'dr brennan', 'temperance', 'temperance brennan', 'dr. temperance', 'dr temperance', 'dr. temperance brennan', 'dr temperance brennan', 'bones', 'temp', 'dr bones', 'ms. brennan', 'ms brennan', 'brnnan', 'brannan', 'dr.brennan', 'dr.brenan']: it wasn't real.
+['booth', 'agent booth', 'special agent booth', 'special agent seeley booth', 'seeley', 'seeley booth', 'mr. booth', 'mr booth', 'officer booth', 'boothy', 'boothie', 'bth', 'bohth', 'boof', 'dr. booth']: who are you?
+(brennan is taken aback and looks hurt)
+end.

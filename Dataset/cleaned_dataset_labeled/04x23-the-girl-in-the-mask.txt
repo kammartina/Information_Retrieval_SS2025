@@ -1,0 +1,624 @@
+the girl in the mask
+season 4, episode 23
+[open: int. royal diner - day. brennan is showing booth files on her interns.]
+['brennan', 'dr. brennan', 'dr brennan', 'temperance', 'temperance brennan', 'dr. temperance', 'dr temperance', 'dr. temperance brennan', 'dr temperance brennan', 'bones', 'temp', 'dr bones', 'ms. brennan', 'ms brennan', 'brnnan', 'brannan', 'dr.brennan', 'dr.brenan']: overall, clark is the most astute and experienced.
+['booth', 'agent booth', 'special agent booth', 'special agent seeley booth', 'seeley', 'seeley booth', 'mr. booth', 'mr booth', 'officer booth', 'boothy', 'boothie', 'bth', 'bohth', 'boof', 'dr. booth']: ah, so hire him.
+['brennan', 'dr. brennan', 'dr brennan', 'temperance', 'temperance brennan', 'dr. temperance', 'dr temperance', 'dr. temperance brennan', 'dr temperance brennan', 'bones', 'temp', 'dr bones', 'ms. brennan', 'ms brennan', 'brnnan', 'brannan', 'dr.brennan', 'dr.brenan']: (changing files) wendell has the most potential, and he has an excellent work ethic.
+['booth', 'agent booth', 'special agent booth', 'special agent seeley booth', 'seeley', 'seeley booth', 'mr. booth', 'mr booth', 'officer booth', 'boothy', 'boothie', 'bth', 'bohth', 'boof', 'dr. booth']: plus, you know, he's somewhat normal.
+['brennan', 'dr. brennan', 'dr brennan', 'temperance', 'temperance brennan', 'dr. temperance', 'dr temperance', 'dr. temperance brennan', 'dr temperance brennan', 'bones', 'temp', 'dr bones', 'ms. brennan', 'ms brennan', 'brnnan', 'brannan', 'dr.brennan', 'dr.brenan']: well, that's what you like. (changing files) vincent is the most intelligent.
+['booth', 'agent booth', 'special agent booth', 'special agent seeley booth', 'seeley', 'seeley booth', 'mr. booth', 'mr booth', 'officer booth', 'boothy', 'boothie', 'bth', 'bohth', 'boof', 'dr. booth']: well, that's what you like, so you should hire him. i mean, this person's going to be your right-hand man.
+['brennan', 'dr. brennan', 'dr brennan', 'temperance', 'temperance brennan', 'dr. temperance', 'dr temperance', 'dr. temperance brennan', 'dr temperance brennan', 'bones', 'temp', 'dr bones', 'ms. brennan', 'ms brennan', 'brnnan', 'brannan', 'dr.brennan', 'dr.brenan']: well, i've decided to take your opinion into account as i make this decision.
+['booth', 'agent booth', 'special agent booth', 'special agent seeley booth', 'seeley', 'seeley booth', 'mr. booth', 'mr booth', 'officer booth', 'boothy', 'boothie', 'bth', 'bohth', 'boof', 'dr. booth']: really?
+['brennan', 'dr. brennan', 'dr brennan', 'temperance', 'temperance brennan', 'dr. temperance', 'dr temperance', 'dr. temperance brennan', 'dr temperance brennan', 'bones', 'temp', 'dr bones', 'ms. brennan', 'ms brennan', 'brnnan', 'brannan', 'dr.brennan', 'dr.brenan']: i'm making an effort.
+[booth's phone rings.]
+['booth', 'agent booth', 'special agent booth', 'special agent seeley booth', 'seeley', 'seeley booth', 'mr. booth', 'mr booth', 'officer booth', 'boothy', 'boothie', 'bth', 'bohth', 'boof', 'dr. booth']: well. (into phone) booth.
+[cut to: ext. tokyo, japan - alley - night. ken nakamura is sitting at an outdoor eatery.]
+ken nakamura: agent booth, this is sergeant nakamura.
+['booth', 'agent booth', 'special agent booth', 'special agent seeley booth', 'seeley', 'seeley booth', 'mr. booth', 'mr booth', 'officer booth', 'boothy', 'boothie', 'bth', 'bohth', 'boof', 'dr. booth']: nake! my friend nake with the sake! how's it hanging?
+nakamura: i'm afraid they are not hanging well, booth.
+['booth', 'agent booth', 'special agent booth', 'special agent seeley booth', 'seeley', 'seeley booth', 'mr. booth', 'mr booth', 'officer booth', 'boothy', 'boothie', 'bth', 'bohth', 'boof', 'dr. booth']: what's wrong?
+nakamura: my sister has not returned my calls. it has been five days.
+['booth', 'agent booth', 'special agent booth', 'special agent seeley booth', 'seeley', 'seeley booth', 'mr. booth', 'mr booth', 'officer booth', 'boothy', 'boothie', 'bth', 'bohth', 'boof', 'dr. booth']: okay, look, we all know how overly protective you are of sachi. your sister-
+nakamura: you're a cop like me, booth. she calls every day. something's wrong.
+['booth', 'agent booth', 'special agent booth', 'special agent seeley booth', 'seeley', 'seeley booth', 'mr. booth', 'mr booth', 'officer booth', 'boothy', 'boothie', 'bth', 'bohth', 'boof', 'dr. booth']: okay, so why are you telling me?
+nakamura: 'cause i'm in tokyo.
+['booth', 'agent booth', 'special agent booth', 'special agent seeley booth', 'seeley', 'seeley booth', 'mr. booth', 'mr booth', 'officer booth', 'boothy', 'boothie', 'bth', 'bohth', 'boof', 'dr. booth']: oh, sachi's here in d.c.?
+nakamura: almost two months. (getting agitated) she told me she called you. she has not called you?
+['booth', 'agent booth', 'special agent booth', 'special agent seeley booth', 'seeley', 'seeley booth', 'mr. booth', 'mr booth', 'officer booth', 'boothy', 'boothie', 'bth', 'bohth', 'boof', 'dr. booth']: whoa, whoa, whoa, just relax, all right? 21-year-old girl probably doesn't want her brother's friend cramping her style.
+nakamura: if i fly in, can you help me look for her?
+['booth', 'agent booth', 'special agent booth', 'special agent seeley booth', 'seeley', 'seeley booth', 'mr. booth', 'mr booth', 'officer booth', 'boothy', 'boothie', 'bth', 'bohth', 'boof', 'dr. booth']: i'll tell you what. just text me her information, i'll track her down and i'll make her call you. okay? i promise.
+nakamura: arigato. (translation: thank you.)
+['booth', 'agent booth', 'special agent booth', 'special agent seeley booth', 'seeley', 'seeley booth', 'mr. booth', 'mr booth', 'officer booth', 'boothy', 'boothie', 'bth', 'bohth', 'boof', 'dr. booth']: dewa mata. (translation: see you later.)
+nakamura: dewa mata, booth.
+[booth and nakamura hang up.]
+[cut to: int. booth's suv - day. booth is driving. brennan is in the passenger's seat. a call has been placed to det. rick frame.]
+det. rick frame: detective frame.
+['booth', 'agent booth', 'special agent booth', 'special agent seeley booth', 'seeley', 'seeley booth', 'mr. booth', 'mr booth', 'officer booth', 'boothy', 'boothie', 'bth', 'bohth', 'boof', 'dr. booth']: hey, rick, it's booth. listen, i'm looking for a little interagency cooperation.
+rick: what do you need?
+['booth', 'agent booth', 'special agent booth', 'special agent seeley booth', 'seeley', 'seeley booth', 'mr. booth', 'mr booth', 'officer booth', 'boothy', 'boothie', 'bth', 'bohth', 'boof', 'dr. booth']: hey, has there been any action on a japanese national, legal entry named sachi nakamura? female, age 21?
+rick: uh, give me a minute.
+['brennan', 'dr. brennan', 'dr brennan', 'temperance', 'temperance brennan', 'dr. temperance', 'dr temperance', 'dr. temperance brennan', 'dr temperance brennan', 'bones', 'temp', 'dr bones', 'ms. brennan', 'ms brennan', 'brnnan', 'brannan', 'dr.brennan', 'dr.brenan']: (to booth) when were you in japan?
+['booth', 'agent booth', 'special agent booth', 'special agent seeley booth', 'seeley', 'seeley booth', 'mr. booth', 'mr booth', 'officer booth', 'boothy', 'boothie', 'bth', 'bohth', 'boof', 'dr. booth']: a few years ago on an exchange program with the tokyo police. nak's a great guy, man. he and his sister, you know, they made me feel like family.
+['brennan', 'dr. brennan', 'dr brennan', 'temperance', 'temperance brennan', 'dr. temperance', 'dr temperance', 'dr. temperance brennan', 'dr temperance brennan', 'bones', 'temp', 'dr bones', 'ms. brennan', 'ms brennan', 'brnnan', 'brannan', 'dr.brennan', 'dr.brenan']: but he's overprotective?
+['booth', 'agent booth', 'special agent booth', 'special agent seeley booth', 'seeley', 'seeley booth', 'mr. booth', 'mr booth', 'officer booth', 'boothy', 'boothie', 'bth', 'bohth', 'boof', 'dr. booth']: he worries. every parent does.
+['brennan', 'dr. brennan', 'dr brennan', 'temperance', 'temperance brennan', 'dr. temperance', 'dr temperance', 'dr. temperance brennan', 'dr temperance brennan', 'bones', 'temp', 'dr bones', 'ms. brennan', 'ms brennan', 'brnnan', 'brannan', 'dr.brennan', 'dr.brenan']: (confused) but he's her brother.
+['booth', 'agent booth', 'special agent booth', 'special agent seeley booth', 'seeley', 'seeley booth', 'mr. booth', 'mr booth', 'officer booth', 'boothy', 'boothie', 'bth', 'bohth', 'boof', 'dr. booth']: raised his little sister after his parents died. that makes him a parent.
+rick: i got a hit on your girl. a car registered to her was found abandoned near tillbrook salt marshes.
+[booth winces.]
+['brennan', 'dr. brennan', 'dr brennan', 'temperance', 'temperance brennan', 'dr. temperance', 'dr temperance', 'dr. temperance brennan', 'dr temperance brennan', 'bones', 'temp', 'dr bones', 'ms. brennan', 'ms brennan', 'brnnan', 'brannan', 'dr.brennan', 'dr.brenan']: salt marshes. that's a pretty popular place to dump a body, booth.
+['booth', 'agent booth', 'special agent booth', 'special agent seeley booth', 'seeley', 'seeley booth', 'mr. booth', 'mr booth', 'officer booth', 'boothy', 'boothie', 'bth', 'bohth', 'boof', 'dr. booth']: yeah. (turns on police sirens)
+[cut to: ext. tillbrook salt marshes - night. workers are moving about. booth and brennan pull up in the suv. they exit the vehicle and walk up to officer lisa kopek.]
+['booth', 'agent booth', 'special agent booth', 'special agent seeley booth', 'seeley', 'seeley booth', 'mr. booth', 'mr booth', 'officer booth', 'boothy', 'boothie', 'bth', 'bohth', 'boof', 'dr. booth']: hey, i'm special agent- officer lisa kopek: (interrupting) booth. yeah. detective frame told me to wait on you before i had this vehicle towed.
+['brennan', 'dr. brennan', 'dr brennan', 'temperance', 'temperance brennan', 'dr. temperance', 'dr temperance', 'dr. temperance brennan', 'dr temperance brennan', 'bones', 'temp', 'dr bones', 'ms. brennan', 'ms brennan', 'brnnan', 'brannan', 'dr.brennan', 'dr.brenan']: well, that was nice of him.
+kopek: i'm officer lisa kopek. car is registered to sachi nakamura, 311 ring road, here on a work visa from tokyo, japan. i printed her visa photo. (hands sachi nakamura's visa photo to booth)
+['brennan', 'dr. brennan', 'dr brennan', 'temperance', 'temperance brennan', 'dr. temperance', 'dr temperance', 'dr. temperance brennan', 'dr temperance brennan', 'bones', 'temp', 'dr bones', 'ms. brennan', 'ms brennan', 'brnnan', 'brannan', 'dr.brennan', 'dr.brenan']: (studying the car) this is blood on the upholstery.
+kopek: yeah.
+['booth', 'agent booth', 'special agent booth', 'special agent seeley booth', 'seeley', 'seeley booth', 'mr. booth', 'mr booth', 'officer booth', 'boothy', 'boothie', 'bth', 'bohth', 'boof', 'dr. booth']: any sign of the girl?
+kopek: no.
+['booth', 'agent booth', 'special agent booth', 'special agent seeley booth', 'seeley', 'seeley booth', 'mr. booth', 'mr booth', 'officer booth', 'boothy', 'boothie', 'bth', 'bohth', 'boof', 'dr. booth']: damn.
+kopek: yeah. checked her residence; it's empty. looks like it's been that way a couple days. also no sign of her roommate, nozomi sato. (hands nozomi sato's visa photo to booth) ms. sato's here on a lapsed student visa. (beat) i got a request in for cadaver dogs.
+[brennan has made her way into the marsh.]
+['booth', 'agent booth', 'special agent booth', 'special agent seeley booth', 'seeley', 'seeley booth', 'mr. booth', 'mr booth', 'officer booth', 'boothy', 'boothie', 'bth', 'bohth', 'boof', 'dr. booth']: (running after brennan) okay, whoa, whoa, whoa, bones, what we usually do here is wait for people in rubber boots.
+['brennan', 'dr. brennan', 'dr brennan', 'temperance', 'temperance brennan', 'dr. temperance', 'dr temperance', 'dr. temperance brennan', 'dr temperance brennan', 'bones', 'temp', 'dr bones', 'ms. brennan', 'ms brennan', 'brnnan', 'brannan', 'dr.brennan', 'dr.brenan']: i see something... booth: (hesitating at the edge of the water) i just-i just got these shoes, so...
+[brennan approaches something in the water.]
+['booth', 'agent booth', 'special agent booth', 'special agent seeley booth', 'seeley', 'seeley booth', 'mr. booth', 'mr booth', 'officer booth', 'boothy', 'boothie', 'bth', 'bohth', 'boof', 'dr. booth']: what is it, a body?
+['brennan', 'dr. brennan', 'dr brennan', 'temperance', 'temperance brennan', 'dr. temperance', 'dr temperance', 'dr. temperance brennan', 'dr temperance brennan', 'bones', 'temp', 'dr bones', 'ms. brennan', 'ms brennan', 'brnnan', 'brannan', 'dr.brennan', 'dr.brenan']: no, it's some kind of mask.
+['booth', 'agent booth', 'special agent booth', 'special agent seeley booth', 'seeley', 'seeley booth', 'mr. booth', 'mr booth', 'officer booth', 'boothy', 'boothie', 'bth', 'bohth', 'boof', 'dr. booth']: okay, bones, come on, get out of there. let's go.
+['brennan', 'dr. brennan', 'dr brennan', 'temperance', 'temperance brennan', 'dr. temperance', 'dr temperance', 'dr. temperance brennan', 'dr temperance brennan', 'bones', 'temp', 'dr bones', 'ms. brennan', 'ms brennan', 'brnnan', 'brannan', 'dr.brennan', 'dr.brenan']: (lifting the mask) booth?
+['booth', 'agent booth', 'special agent booth', 'special agent seeley booth', 'seeley', 'seeley booth', 'mr. booth', 'mr booth', 'officer booth', 'boothy', 'boothie', 'bth', 'bohth', 'boof', 'dr. booth']: what?
+['brennan', 'dr. brennan', 'dr brennan', 'temperance', 'temperance brennan', 'dr. temperance', 'dr temperance', 'dr. temperance brennan', 'dr temperance brennan', 'bones', 'temp', 'dr bones', 'ms. brennan', 'ms brennan', 'brnnan', 'brannan', 'dr.brennan', 'dr.brenan']: there's flesh in the mask. human head.
+kopek: is she serious?
+['booth', 'agent booth', 'special agent booth', 'special agent seeley booth', 'seeley', 'seeley booth', 'mr. booth', 'mr booth', 'officer booth', 'boothy', 'boothie', 'bth', 'bohth', 'boof', 'dr. booth']: yeah, always.
+['brennan', 'dr. brennan', 'dr brennan', 'temperance', 'temperance brennan', 'dr. temperance', 'dr temperance', 'dr. temperance brennan', 'dr temperance brennan', 'bones', 'temp', 'dr bones', 'ms. brennan', 'ms brennan', 'brnnan', 'brannan', 'dr.brennan', 'dr.brenan']: and booth? this mask appears to be japanese in design.
+opening credits
+[cut to: int. medico-legal lab - examination platform - day. brennan, hodgins and cam are studying the skull.]
+['brennan', 'dr. brennan', 'dr brennan', 'temperance', 'temperance brennan', 'dr. temperance', 'dr temperance', 'dr. temperance brennan', 'dr temperance brennan', 'bones', 'temp', 'dr bones', 'ms. brennan', 'ms brennan', 'brnnan', 'brannan', 'dr.brennan', 'dr.brenan']: based on the weak prominence of the arcus superciliaris, the victim is female. the head was decapitated between c5 and c6 vertebrae.
+['cam', 'camille', 'camille saroyan', 'dr. saroyan', 'dr saroyan', 'dr cam', 'dr. cam', 'cam s', 'ms. saroyan', 'ms saroyan', 'dr. camille', 'cammy', 'camil', 'cam saroyan']: judging from decomp and discoloration, i'd estimate the head was in the pond a minimum of four days.
+['brennan', 'dr. brennan', 'dr brennan', 'temperance', 'temperance brennan', 'dr. temperance', 'dr temperance', 'dr. temperance brennan', 'dr temperance brennan', 'bones', 'temp', 'dr bones', 'ms. brennan', 'ms brennan', 'brnnan', 'brannan', 'dr.brennan', 'dr.brenan']: can you confirm decapitation as cause of death?
+['cam', 'camille', 'camille saroyan', 'dr. saroyan', 'dr saroyan', 'dr cam', 'dr. cam', 'cam s', 'ms. saroyan', 'ms saroyan', 'dr. camille', 'cammy', 'camil', 'cam saroyan']: nope, victim was in the water too long. the blood leached out.
+['hodgins', 'jack hodgins', 'jack', 'dr. hodgins', 'dr hodgins', 'dr. jack', 'mr. hodgins', 'hodges', 'hodg', 'jack h', 'hodginz', 'dr hodges']: there's trace lodged deep in the striae. the blade could have transferred particulates from the ground into the wound tract when it was withdrawn from the bone.
+[enter angela.]
+['angela', 'angela montenegro', 'ms. montenegro', 'ms montenegro', 'ang', 'ange', 'an', 'a.montenegro', 'angella', 'angla', 'angelina', 'miss montenegro', 'angela m', 'dr. angela']: (to brennan) hey, sweetie, booth is in your office. he's got some people with him.
+['brennan', 'dr. brennan', 'dr brennan', 'temperance', 'temperance brennan', 'dr. temperance', 'dr temperance', 'dr. temperance brennan', 'dr temperance brennan', 'bones', 'temp', 'dr bones', 'ms. brennan', 'ms brennan', 'brnnan', 'brannan', 'dr.brennan', 'dr.brenan']: thanks.
+[exit brennan.]
+['angela', 'angela montenegro', 'ms. montenegro', 'ms montenegro', 'ang', 'ange', 'an', 'a.montenegro', 'angella', 'angla', 'angelina', 'miss montenegro', 'angela m', 'dr. angela']: (groans) just when i thought it couldn't get worse.
+[cut to: int. medico-legal lab - brennan's office - day. brennan finds booth already present with ken nakamura and dr. haru tanaka.]
+['booth', 'agent booth', 'special agent booth', 'special agent seeley booth', 'seeley', 'seeley booth', 'mr. booth', 'mr booth', 'officer booth', 'boothy', 'boothie', 'bth', 'bohth', 'boof', 'dr. booth']: bones, this here is sachi nakamura's brother ken.
+['brennan', 'dr. brennan', 'dr brennan', 'temperance', 'temperance brennan', 'dr. temperance', 'dr temperance', 'dr. temperance brennan', 'dr temperance brennan', 'bones', 'temp', 'dr bones', 'ms. brennan', 'ms brennan', 'brnnan', 'brannan', 'dr.brennan', 'dr.brenan']: (bows) hajimemashite. oai dekite kouei desu. (rough translation: greetings. it is an honor to meet you.)
+nakamura: the honor is mine, dr. brennan. (bows) may i present to you... (turns toward dr. haru tanaka)
+['brennan', 'dr. brennan', 'dr brennan', 'temperance', 'temperance brennan', 'dr. temperance', 'dr temperance', 'dr. temperance brennan', 'dr temperance brennan', 'bones', 'temp', 'dr bones', 'ms. brennan', 'ms brennan', 'brnnan', 'brannan', 'dr.brennan', 'dr.brenan']: i know. dr. haru tanaka. the emperor awarded dr. tanaka the grand cordon of the order of the rising sun for dr. tanaka's paper on investigation of second, fourth and eighth sternal rib end variations related to age estimation. it was brilliant. (bows)
+dr. haru tanaka: (bows) i am honored to meet you. everyone in the field accepts that you are the best.
+['brennan', 'dr. brennan', 'dr brennan', 'temperance', 'temperance brennan', 'dr. temperance', 'dr temperance', 'dr. temperance brennan', 'dr temperance brennan', 'bones', 'temp', 'dr bones', 'ms. brennan', 'ms brennan', 'brnnan', 'brannan', 'dr.brennan', 'dr.brenan']: yes, i know. (bows)
+['booth', 'agent booth', 'special agent booth', 'special agent seeley booth', 'seeley', 'seeley booth', 'mr. booth', 'mr booth', 'officer booth', 'boothy', 'boothie', 'bth', 'bohth', 'boof', 'dr. booth']: (to brennan) i told ken and the doctor that they can aid in the investigation.
+['brennan', 'dr. brennan', 'dr brennan', 'temperance', 'temperance brennan', 'dr. temperance', 'dr temperance', 'dr. temperance brennan', 'dr temperance brennan', 'bones', 'temp', 'dr bones', 'ms. brennan', 'ms brennan', 'brnnan', 'brannan', 'dr.brennan', 'dr.brenan']: that is against protocol, booth.
+['booth', 'agent booth', 'special agent booth', 'special agent seeley booth', 'seeley', 'seeley booth', 'mr. booth', 'mr booth', 'officer booth', 'boothy', 'boothie', 'bth', 'bohth', 'boof', 'dr. booth']: (quietly) bones, this could be his sister.
+['brennan', 'dr. brennan', 'dr brennan', 'temperance', 'temperance brennan', 'dr. temperance', 'dr temperance', 'dr. temperance brennan', 'dr temperance brennan', 'bones', 'temp', 'dr bones', 'ms. brennan', 'ms brennan', 'brnnan', 'brannan', 'dr.brennan', 'dr.brenan']: i would enjoy working with dr. tanaka. (bows)
+[nakamura and tanaka bow.]
+[cut to: int. medico-legal lab - examination platform - day. brennan and tanaka are studying the skull while cam, booth and nakamura observe.]
+['booth', 'agent booth', 'special agent booth', 'special agent seeley booth', 'seeley', 'seeley booth', 'mr. booth', 'mr booth', 'officer booth', 'boothy', 'boothie', 'bth', 'bohth', 'boof', 'dr. booth']: you gonna be okay with this?
+nakamura: i am fine.
+tanaka: there is a contact wound inferior to the mandible, exiting slightly anterior to the bregma point.
+['brennan', 'dr. brennan', 'dr brennan', 'temperance', 'temperance brennan', 'dr. temperance', 'dr temperance', 'dr. temperance brennan', 'dr temperance brennan', 'bones', 'temp', 'dr bones', 'ms. brennan', 'ms brennan', 'brnnan', 'brannan', 'dr.brennan', 'dr.brenan']: that would be consistent with a gun wound.
+['booth', 'agent booth', 'special agent booth', 'special agent seeley booth', 'seeley', 'seeley booth', 'mr. booth', 'mr booth', 'officer booth', 'boothy', 'boothie', 'bth', 'bohth', 'boof', 'dr. booth']: (approaching the examination table) bones, maybe you should just jump ahead and i.d. the victim.
+tanaka: maxilla and zygomatic conform to her photograph.
+[cam appears uncomfortable and looks at nakamura, who seems troubled. tanaka loosens the skull's jawbone and turns the opening toward brennan.]
+['brennan', 'dr. brennan', 'dr brennan', 'temperance', 'temperance brennan', 'dr. temperance', 'dr temperance', 'dr. temperance brennan', 'dr temperance brennan', 'bones', 'temp', 'dr bones', 'ms. brennan', 'ms brennan', 'brnnan', 'brannan', 'dr.brennan', 'dr.brenan']: the palate is fractured but appears parabolic with a straight suture across the palatine bone, indicating that she was a native japanese speaker. (turning to nakamura) did your sister have any kind of distinctive facial scarring or dental work?
+nakamura: when sachi was eight, she fell doing gymnastics, broke her jaw. it was wired for two months.
+['brennan', 'dr. brennan', 'dr brennan', 'temperance', 'temperance brennan', 'dr. temperance', 'dr temperance', 'dr. temperance brennan', 'dr temperance brennan', 'bones', 'temp', 'dr bones', 'ms. brennan', 'ms brennan', 'brnnan', 'brannan', 'dr.brennan', 'dr.brenan']: (studying the jaw) impact fracture from a fall. remodeling of the jaw suggests that it occurred prior to puberty. (turning to nakamura) i feel comfortable identifying the remains as your sister. i'm very sorry.
+nakamura: thank you. (beat) if you would excuse me.
+[cut to: int. medico-legal lab - hallway - day. booth approaches nakamura from behind.]
+['booth', 'agent booth', 'special agent booth', 'special agent seeley booth', 'seeley', 'seeley booth', 'mr. booth', 'mr booth', 'officer booth', 'boothy', 'boothie', 'bth', 'bohth', 'boof', 'dr. booth']: hey, nak, listen. i have agents looking for sachi's roommate. there's a chance the roommate may have seen something.
+nakamura: (strained) yes. good.
+['booth', 'agent booth', 'special agent booth', 'special agent seeley booth', 'seeley', 'seeley booth', 'mr. booth', 'mr booth', 'officer booth', 'boothy', 'boothie', 'bth', 'bohth', 'boof', 'dr. booth']: i'm sorry, nak.
+nakamura: (turning to booth) you have a child. you know it was my responsibility to keep her safe. she was 21, but still a child.
+['booth', 'agent booth', 'special agent booth', 'special agent seeley booth', 'seeley', 'seeley booth', 'mr. booth', 'mr booth', 'officer booth', 'boothy', 'boothie', 'bth', 'bohth', 'boof', 'dr. booth']: all right, come on, let me get you back to the hotel. you get some rest.
+nakamura: not until we find who did this.
+['booth', 'agent booth', 'special agent booth', 'special agent seeley booth', 'seeley', 'seeley booth', 'mr. booth', 'mr booth', 'officer booth', 'boothy', 'boothie', 'bth', 'bohth', 'boof', 'dr. booth']: i hear you, nak, but we need a lead, something we can go on.
+nakamura: sachi was going to move back to japan. (takes out card with photos of sachi and hands it to booth) but the man who took these pictures said he could make her a model.
+['booth', 'agent booth', 'special agent booth', 'special agent seeley booth', 'seeley', 'seeley booth', 'mr. booth', 'mr booth', 'officer booth', 'boothy', 'boothie', 'bth', 'bohth', 'boof', 'dr. booth']: okay, there's something. right? (pats nakamura on the shoulder)
+[cut to: int. medico-legal lab - examination room - day. a mask sits atop a stand. enter sweets, hodgins, angela and tanaka, who all gather around the mask.]
+['sweets', 'dr. sweets', 'dr sweets', 'lance', 'lance sweets', 'dr. lance', 'dr lance sweets', 'dr lance', 'agent sweets', 'doc sweets', 'l.sweets']: whoa, this is like one of those big-eyed paintings they sell at the mall.
+tanaka: uh, the mask is based on anime design.
+['angela', 'angela montenegro', 'ms. montenegro', 'ms montenegro', 'ang', 'ange', 'an', 'a.montenegro', 'angella', 'angla', 'angelina', 'miss montenegro', 'angela m', 'dr. angela']: japanese animation.
+['hodgins', 'jack hodgins', 'jack', 'dr. hodgins', 'dr hodgins', 'dr. jack', 'mr. hodgins', 'hodges', 'hodg', 'jack h', 'hodginz', 'dr hodges']: (sarcastically) so, someone had it out for a cartoon character?
+tanaka: no, this is original. uh, not representing any of the well-known characters: sailor moon, faye valentine, motoko.
+['sweets', 'dr. sweets', 'dr sweets', 'lance', 'lance sweets', 'dr. lance', 'dr lance sweets', 'dr lance', 'agent sweets', 'doc sweets', 'l.sweets']: the mask could have been used by the kill to dehumanize the victim, allowing whoever decapitated her to distance himself from the ugly reality of her death.
+tanaka: hmm, you are entering the realm of psychology, a field of unverifiable speculation. perhaps i can be of further help to dr. brennan. (bows)
+[exit tanaka.]
+['sweets', 'dr. sweets', 'dr sweets', 'lance', 'lance sweets', 'dr. lance', 'dr lance sweets', 'dr lance', 'agent sweets', 'doc sweets', 'l.sweets']: (offended) sometimes i hate hard science. i know that seems immature, but that's just how i feel.
+['angela', 'angela montenegro', 'ms. montenegro', 'ms montenegro', 'ang', 'ange', 'an', 'a.montenegro', 'angella', 'angla', 'angelina', 'miss montenegro', 'angela m', 'dr. angela']: so any guesses?
+['hodgins', 'jack hodgins', 'jack', 'dr. hodgins', 'dr hodgins', 'dr. jack', 'mr. hodgins', 'hodges', 'hodg', 'jack h', 'hodginz', 'dr hodges']: we don't really have enough evidence yet.
+['angela', 'angela montenegro', 'ms. montenegro', 'ms montenegro', 'ang', 'ange', 'an', 'a.montenegro', 'angella', 'angla', 'angelina', 'miss montenegro', 'angela m', 'dr. angela']: no, not the case. the doctor. (steps toward doorway where tanaka had exited, mischievously) dude or dudette?
+[sweets and hodgins exchange looks.]
+['sweets', 'dr. sweets', 'dr sweets', 'lance', 'lance sweets', 'dr. lance', 'dr lance sweets', 'dr lance', 'agent sweets', 'doc sweets', 'l.sweets']: i don't know.
+['hodgins', 'jack hodgins', 'jack', 'dr. hodgins', 'dr hodgins', 'dr. jack', 'mr. hodgins', 'hodges', 'hodg', 'jack h', 'hodginz', 'dr hodges']: i... (shrugs)
+[cut to: int. micah strutt's studio - day. booth and nakamura enter.]
+['booth', 'agent booth', 'special agent booth', 'special agent seeley booth', 'seeley', 'seeley booth', 'mr. booth', 'mr booth', 'officer booth', 'boothy', 'boothie', 'bth', 'bohth', 'boof', 'dr. booth']: now remember, nak, this is my investigation. you're just a tourist.
+nakamura: just a tourist.
+micah strutt: (approaching) micah strutt. how can i help you?
+['booth', 'agent booth', 'special agent booth', 'special agent seeley booth', 'seeley', 'seeley booth', 'mr. booth', 'mr booth', 'officer booth', 'boothy', 'boothie', 'bth', 'bohth', 'boof', 'dr. booth']: (flashes his badge) fbi. i'd like to ask you a few questions about sachi nakamura and nozomi sato.
+strutt: sure. they were the roommates, right? nice kids.
+['booth', 'agent booth', 'special agent booth', 'special agent seeley booth', 'seeley', 'seeley booth', 'mr. booth', 'mr booth', 'officer booth', 'boothy', 'boothie', 'bth', 'bohth', 'boof', 'dr. booth']: when did you see them last?
+strutt: must be about a couple months now. they came in for a shoot.
+[nakamura has made his way toward a large poster with a photo of two scantily-clad women. booth follows.]
+['booth', 'agent booth', 'special agent booth', 'special agent seeley booth', 'seeley', 'seeley booth', 'mr. booth', 'mr booth', 'officer booth', 'boothy', 'boothie', 'bth', 'bohth', 'boof', 'dr. booth']: (reading off poster) pappa puffs.
+strutt: yeah, the girls worked there.
+nakamura: you made them pose like this?
+strutt: me? no. that was their idea. they convinced their boss to do some advertising, but he went postal when he saw the proofs. that old jerk fired them for this. the 21st century, who cares about a little skin, right?
+[nakamura turns around angrily. booth steps in front of him.]
+['booth', 'agent booth', 'special agent booth', 'special agent seeley booth', 'seeley', 'seeley booth', 'mr. booth', 'mr booth', 'officer booth', 'boothy', 'boothie', 'bth', 'bohth', 'boof', 'dr. booth']: he does. that's his sister.
+[cut to: int. pappa puffs tea house - day. strangely-dressed workers and patrons are moving about. booth and nakamura walk in.]
+['booth', 'agent booth', 'special agent booth', 'special agent seeley booth', 'seeley', 'seeley booth', 'mr. booth', 'mr booth', 'officer booth', 'boothy', 'boothie', 'bth', 'bohth', 'boof', 'dr. booth']: (looking around) hey, i feel like someone slipped something into my coffee, huh?
+nakamura: fashion is the way the japanese youth rebel against traditional social roles.
+['booth', 'agent booth', 'special agent booth', 'special agent seeley booth', 'seeley', 'seeley booth', 'mr. booth', 'mr booth', 'officer booth', 'boothy', 'boothie', 'bth', 'bohth', 'boof', 'dr. booth']: what is with the, uh, "amaloli" girls? i never expected to see the, uh, "sweet lolitas" here in the states.
+nakamura: the culture follows the youth. it's just innocent role playing. usually.
+['booth', 'agent booth', 'special agent booth', 'special agent seeley booth', 'seeley', 'seeley booth', 'mr. booth', 'mr booth', 'officer booth', 'boothy', 'boothie', 'bth', 'bohth', 'boof', 'dr. booth']: (noticing a masked patron at the back) nak... nakamura: i see.
+['booth', 'agent booth', 'special agent booth', 'special agent seeley booth', 'seeley', 'seeley booth', 'mr. booth', 'mr booth', 'officer booth', 'boothy', 'boothie', 'bth', 'bohth', 'boof', 'dr. booth']: (to a cook) excuse me. you the owner?
+bruce takedo: why do you ask?
+['booth', 'agent booth', 'special agent booth', 'special agent seeley booth', 'seeley', 'seeley booth', 'mr. booth', 'mr booth', 'officer booth', 'boothy', 'boothie', 'bth', 'bohth', 'boof', 'dr. booth']: (flashes his badge) fbi.
+[takedo returns to his work, ignoring booth.]
+nakamura: (in japanese) i am sorry to bother you. my name is ken nakamura. (bows)
+takedo: takedo bruce. (bows)
+nakamura: we need your help. (to booth) as a tourist.
+booth we'd like to ask you a few questions about sachi nakamura and her friend nozomi.
+takedo: are sachi and nozomi in trouble?
+['booth', 'agent booth', 'special agent booth', 'special agent seeley booth', 'seeley', 'seeley booth', 'mr. booth', 'mr booth', 'officer booth', 'boothy', 'boothie', 'bth', 'bohth', 'boof', 'dr. booth']: well, sachi is dead and nozomi is missing.
+takedo: (surprised by the news) i've known them since they started coming for the tea parties. they were anime girls. i gave them jobs.
+['booth', 'agent booth', 'special agent booth', 'special agent seeley booth', 'seeley', 'seeley booth', 'mr. booth', 'mr booth', 'officer booth', 'boothy', 'boothie', 'bth', 'bohth', 'boof', 'dr. booth']: (takes out a picture of the mask found at the marsh and holds it out to takedo) is this the, uh, mask that, uh, sachi was wearing to the parties?
+takedo: no, that's nozomi's. what happened? those girls were like family.
+['booth', 'agent booth', 'special agent booth', 'special agent seeley booth', 'seeley', 'seeley booth', 'mr. booth', 'mr booth', 'officer booth', 'boothy', 'boothie', 'bth', 'bohth', 'boof', 'dr. booth']: you always fire family?
+takedo: they developed other interests. they didn't belong here anymore. i tried to talk to them, explain what a bad choice they were making.
+nakamura: what are you talking about?
+takedo: the girls started working for an escort service. i couldn't allow that here. families come here.
+nakamura: (angrily) that's not possible.
+takedo: it's true.
+nakamura: (to booth) not my sister.
+takedo: your sister?
+['booth', 'agent booth', 'special agent booth', 'special agent seeley booth', 'seeley', 'seeley booth', 'mr. booth', 'mr booth', 'officer booth', 'boothy', 'boothie', 'bth', 'bohth', 'boof', 'dr. booth']: you know the name of the escort service?
+takedo: elegant escorts.
+nakamura: (furious) don't believe you! (in japanese) my sister is not a prostitute!
+[booth holds back nakamura. tanaka picks up his cleaver and holds it out threateningly.]
+['booth', 'agent booth', 'special agent booth', 'special agent seeley booth', 'seeley', 'seeley booth', 'mr. booth', 'mr booth', 'officer booth', 'boothy', 'boothie', 'bth', 'bohth', 'boof', 'dr. booth']: whoa, whoa, whoa, whoa, whoa, whoa! (to takedo) put the cleaver down, pal. easy. put it down.
+[cut to: int. medico-legal lab - autopsy room - day. cam is about to experiment on the skull. enter tanaka.]
+tanaka: dr. saroyan.
+['cam', 'camille', 'camille saroyan', 'dr. saroyan', 'dr saroyan', 'dr cam', 'dr. cam', 'cam s', 'ms. saroyan', 'ms saroyan', 'dr. camille', 'cammy', 'camil', 'cam saroyan']: dr. tanaka.
+tanaka: with your permission, i would like to free the head of tissue.
+['cam', 'camille', 'camille saroyan', 'dr. saroyan', 'dr saroyan', 'dr cam', 'dr. cam', 'cam s', 'ms. saroyan', 'ms saroyan', 'dr. camille', 'cammy', 'camil', 'cam saroyan']: i have a test to perform first.
+[tanaka bows and turns to leave.]
+['cam', 'camille', 'camille saroyan', 'dr. saroyan', 'dr saroyan', 'dr cam', 'dr. cam', 'cam s', 'ms. saroyan', 'ms saroyan', 'dr. camille', 'cammy', 'camil', 'cam saroyan']: you're welcome to observe.
+tanaka: (turns back and nods) this is ferrozine?
+['cam', 'camille', 'camille saroyan', 'dr. saroyan', 'dr saroyan', 'dr cam', 'dr. cam', 'cam s', 'ms. saroyan', 'ms saroyan', 'dr. camille', 'cammy', 'camil', 'cam saroyan']: (swabbing the skull) yes, i'm testing for gun residue.
+[cam places the pad on a petri dish and sprays it with a chemical. nothing happens.]
+tanaka: no reaction.
+['cam', 'camille', 'camille saroyan', 'dr. saroyan', 'dr saroyan', 'dr cam', 'dr. cam', 'cam s', 'ms. saroyan', 'ms saroyan', 'dr. camille', 'cammy', 'camil', 'cam saroyan']: any shot fired within five feet would've left residue.
+tanaka: (pointing) the angle of entry was steep, exiting at the top of the cranium.
+['cam', 'camille', 'camille saroyan', 'dr. saroyan', 'dr saroyan', 'dr cam', 'dr. cam', 'cam s', 'ms. saroyan', 'ms saroyan', 'dr. camille', 'cammy', 'camil', 'cam saroyan']: sachi was only five feet tall. even if her kill was lying on the ground, there'd be residue.
+tanaka: perhaps she was coming downstairs.
+['cam', 'camille', 'camille saroyan', 'dr. saroyan', 'dr saroyan', 'dr cam', 'dr. cam', 'cam s', 'ms. saroyan', 'ms saroyan', 'dr. camille', 'cammy', 'camil', 'cam saroyan']: or maybe standing on the balcony of her apartment? (putting on her mask) grab some goggles and a mask.
+[tanaka does so. cam picks up the skull and places it in a clamp.]
+['cam', 'camille', 'camille saroyan', 'dr. saroyan', 'dr saroyan', 'dr cam', 'dr. cam', 'cam s', 'ms. saroyan', 'ms saroyan', 'dr. camille', 'cammy', 'camil', 'cam saroyan']: did you know the victim, dr. tanaka?
+tanaka: i met sachi three times. she and her brother were very close.
+['cam', 'camille', 'camille saroyan', 'dr. saroyan', 'dr saroyan', 'dr cam', 'dr. cam', 'cam s', 'ms. saroyan', 'ms saroyan', 'dr. camille', 'cammy', 'camil', 'cam saroyan']: that's a very big favor to do to detective nakamura, coming all the way from japan.
+tanaka: i would do anything for him.
+['cam', 'camille', 'camille saroyan', 'dr. saroyan', 'dr saroyan', 'dr cam', 'dr. cam', 'cam s', 'ms. saroyan', 'ms saroyan', 'dr. camille', 'cammy', 'camil', 'cam saroyan']: okay.
+[cam starts her medical saw and uses it to cut off the top of the skull. she detaches it from the rest of the skull and places it on a tray.]
+['cam', 'camille', 'camille saroyan', 'dr. saroyan', 'dr saroyan', 'dr cam', 'dr. cam', 'cam s', 'ms. saroyan', 'ms saroyan', 'dr. camille', 'cammy', 'camil', 'cam saroyan']: there. (handing the tray to tanaka) while i examine the wound track, you can analyze exit trauma.
+tanaka: thank you.
+[cut to: int. medico-legal lab - hallway - day. brennan is walking with nakamura.]
+['brennan', 'dr. brennan', 'dr brennan', 'temperance', 'temperance brennan', 'dr. temperance', 'dr temperance', 'dr. temperance brennan', 'dr temperance brennan', 'bones', 'temp', 'dr bones', 'ms. brennan', 'ms brennan', 'brnnan', 'brannan', 'dr.brennan', 'dr.brenan']: since booth took you out of the field, i thought perhaps you'd like to consolidate the results of our analysis to convey to booth.
+[brennan and nakamura enter brennan's office.]
+nakamura: you are trying to make me feel useful.
+['brennan', 'dr. brennan', 'dr brennan', 'temperance', 'temperance brennan', 'dr. temperance', 'dr temperance', 'dr. temperance brennan', 'dr temperance brennan', 'bones', 'temp', 'dr bones', 'ms. brennan', 'ms brennan', 'brnnan', 'brannan', 'dr.brennan', 'dr.brenan']: no, i-i don't really do things like that.
+nakamura: i owe you for talking booth out of sending me home.
+['brennan', 'dr. brennan', 'dr brennan', 'temperance', 'temperance brennan', 'dr. temperance', 'dr temperance', 'dr. temperance brennan', 'dr temperance brennan', 'bones', 'temp', 'dr bones', 'ms. brennan', 'ms brennan', 'brnnan', 'brannan', 'dr.brennan', 'dr.brenan']: wasn't me. booth is a very empathetic man.
+nakamura: yes. are you aware how we met?
+['brennan', 'dr. brennan', 'dr brennan', 'temperance', 'temperance brennan', 'dr. temperance', 'dr temperance', 'dr. temperance brennan', 'dr temperance brennan', 'bones', 'temp', 'dr bones', 'ms. brennan', 'ms brennan', 'brnnan', 'brannan', 'dr.brennan', 'dr.brenan']: um, some kind of exchange program?
+nakamura: hai. most of the fbi agents showed up and started telling us how to handle our organized crime problem. booth said nothing. two, three days, just listening.
+['brennan', 'dr. brennan', 'dr brennan', 'temperance', 'temperance brennan', 'dr. temperance', 'dr temperance', 'dr. temperance brennan', 'dr temperance brennan', 'bones', 'temp', 'dr bones', 'ms. brennan', 'ms brennan', 'brnnan', 'brannan', 'dr.brennan', 'dr.brenan']: he was quiet? that (chuckles) that does not sound like booth.
+nakamura: then he asked a question. (approaching brennan's desk) he asked, "how would you gentlemen handle our organized crime problem?" he was respectful.
+['brennan', 'dr. brennan', 'dr brennan', 'temperance', 'temperance brennan', 'dr. temperance', 'dr temperance', 'dr. temperance brennan', 'dr temperance brennan', 'bones', 'temp', 'dr bones', 'ms. brennan', 'ms brennan', 'brnnan', 'brannan', 'dr.brennan', 'dr.brenan']: that is the basis of your friendship?
+nakamura: that, and a situation incited by a gallon of sake, a police boat, and uraga harbor at dawn.
+[brennan laughs.]
+nakamura: you're a lucky woman, dr. brennan.
+['brennan', 'dr. brennan', 'dr brennan', 'temperance', 'temperance brennan', 'dr. temperance', 'dr temperance', 'dr. temperance brennan', 'dr temperance brennan', 'bones', 'temp', 'dr bones', 'ms. brennan', 'ms brennan', 'brnnan', 'brannan', 'dr.brennan', 'dr.brenan']: to work with booth. i know.
+nakamura: to work with booth. yes.
+[cut to: int. royal diner - day.]
+cook: (handing a plate to waitress) there you go.
+[enter sweets and hodgins.]
+['sweets', 'dr. sweets', 'dr sweets', 'lance', 'lance sweets', 'dr. lance', 'dr lance sweets', 'dr lance', 'agent sweets', 'doc sweets', 'l.sweets']: so the mask didn't belong to the kill; it belonged to nozomi, sachi's roommate.
+['hodgins', 'jack hodgins', 'jack', 'dr. hodgins', 'dr hodgins', 'dr. jack', 'mr. hodgins', 'hodges', 'hodg', 'jack h', 'hodginz', 'dr hodges']: okay, so?
+['sweets', 'dr. sweets', 'dr sweets', 'lance', 'lance sweets', 'dr. lance', 'dr lance sweets', 'dr lance', 'agent sweets', 'doc sweets', 'l.sweets']: so perhaps the kill wasn't trying to dehumanize his victim.
+['hodgins', 'jack hodgins', 'jack', 'dr. hodgins', 'dr hodgins', 'dr. jack', 'mr. hodgins', 'hodges', 'hodg', 'jack h', 'hodginz', 'dr hodges']: (to waitress) two coffees, please?
+waitress: you got it.
+[hodgins and sweets sit down.]
+['hodgins', 'jack hodgins', 'jack', 'dr. hodgins', 'dr hodgins', 'dr. jack', 'mr. hodgins', 'hodges', 'hodg', 'jack h', 'hodginz', 'dr hodges']: well, maybe he just had a thing for girls in masks. i mean, i get that.
+['sweets', 'dr. sweets', 'dr sweets', 'lance', 'lance sweets', 'dr. lance', 'dr lance sweets', 'dr lance', 'agent sweets', 'doc sweets', 'l.sweets']: you do?
+['hodgins', 'jack hodgins', 'jack', 'dr. hodgins', 'dr hodgins', 'dr. jack', 'mr. hodgins', 'hodges', 'hodg', 'jack h', 'hodginz', 'dr hodges']: yeah.
+[sweets gives hodgins a strange look.]
+['hodgins', 'jack hodgins', 'jack', 'dr. hodgins', 'dr hodgins', 'dr. jack', 'mr. hodgins', 'hodges', 'hodg', 'jack h', 'hodginz', 'dr hodges']: in an objective, evidentiary way.
+[sweets continues to look strangely at hodgins.]
+['hodgins', 'jack hodgins', 'jack', 'dr. hodgins', 'dr hodgins', 'dr. jack', 'mr. hodgins', 'hodges', 'hodg', 'jack h', 'hodginz', 'dr hodges']: (annoyed) you had a point?
+['sweets', 'dr. sweets', 'dr sweets', 'lance', 'lance sweets', 'dr. lance', 'dr lance sweets', 'dr lance', 'agent sweets', 'doc sweets', 'l.sweets']: yeah, i think that the kill was purposely projecting nozomi's identity onto his murder victim.
+[enter angela.]
+['angela', 'angela montenegro', 'ms. montenegro', 'ms montenegro', 'ang', 'ange', 'an', 'a.montenegro', 'angella', 'angla', 'angelina', 'miss montenegro', 'angela m', 'dr. angela']: hey. so, i googled tanaka. 300 hits, all japanese, none with a personal pronoun.
+['hodgins', 'jack hodgins', 'jack', 'dr. hodgins', 'dr hodgins', 'dr. jack', 'mr. hodgins', 'hodges', 'hodg', 'jack h', 'hodginz', 'dr hodges']: maybe we should just ask her.
+['angela', 'angela montenegro', 'ms. montenegro', 'ms montenegro', 'ang', 'ange', 'an', 'a.montenegro', 'angella', 'angla', 'angelina', 'miss montenegro', 'angela m', 'dr. angela']: him.
+['sweets', 'dr. sweets', 'dr sweets', 'lance', 'lance sweets', 'dr. lance', 'dr lance sweets', 'dr lance', 'agent sweets', 'doc sweets', 'l.sweets']: (groans) you people can identify human remains based on a tiny little finger bone, but you can't judge the sex of a person standing right in front of you? does nobody else see the irony in this?
+['hodgins', 'jack hodgins', 'jack', 'dr. hodgins', 'dr hodgins', 'dr. jack', 'mr. hodgins', 'hodges', 'hodg', 'jack h', 'hodginz', 'dr hodges']: of course. but, as a scientist, i also see the challenge.
+['sweets', 'dr. sweets', 'dr sweets', 'lance', 'lance sweets', 'dr. lance', 'dr lance sweets', 'dr lance', 'agent sweets', 'doc sweets', 'l.sweets']: well, dr. tanaka identifies with a subset of an urban japanese aesthetic known as kei.
+[waitress brings them their coffee.]
+['sweets', 'dr. sweets', 'dr sweets', 'lance', 'lance sweets', 'dr. lance', 'dr lance sweets', 'dr lance', 'agent sweets', 'doc sweets', 'l.sweets']: (to waitress) thank you. (turning back to hodgins and angela) it glorifies androgyny.
+['hodgins', 'jack hodgins', 'jack', 'dr. hodgins', 'dr hodgins', 'dr. jack', 'mr. hodgins', 'hodges', 'hodg', 'jack h', 'hodginz', 'dr hodges']: well, mission accomplished there, dr. tanaka.
+['angela', 'angela montenegro', 'ms. montenegro', 'ms montenegro', 'ang', 'ange', 'an', 'a.montenegro', 'angella', 'angla', 'angelina', 'miss montenegro', 'angela m', 'dr. angela']: you know, i think you're probably right. we should just ask him.
+['hodgins', 'jack hodgins', 'jack', 'dr. hodgins', 'dr hodgins', 'dr. jack', 'mr. hodgins', 'hodges', 'hodg', 'jack h', 'hodginz', 'dr hodges']: her.
+['sweets', 'dr. sweets', 'dr sweets', 'lance', 'lance sweets', 'dr. lance', 'dr lance sweets', 'dr lance', 'agent sweets', 'doc sweets', 'l.sweets']: tanaka won't answer. that's the whole point. gender is unimportant. we should be mature enough to accept dr. tanaka just the way dr. tanaka is.
+['hodgins', 'jack hodgins', 'jack', 'dr. hodgins', 'dr hodgins', 'dr. jack', 'mr. hodgins', 'hodges', 'hodg', 'jack h', 'hodginz', 'dr hodges']: yeah, you know what? you're right. who cares?
+['angela', 'angela montenegro', 'ms. montenegro', 'ms montenegro', 'ang', 'ange', 'an', 'a.montenegro', 'angella', 'angla', 'angelina', 'miss montenegro', 'angela m', 'dr. angela']: yeah. yeah, i mean, it doesn't really matter what he is.
+['hodgins', 'jack hodgins', 'jack', 'dr. hodgins', 'dr hodgins', 'dr. jack', 'mr. hodgins', 'hodges', 'hodg', 'jack h', 'hodginz', 'dr hodges']: she. what she is.
+[angela and hodgins exchange looks. sweets slams the tabletop with both hands, exasperated.]
+[cut to: ext. washington d.c. - side of street - day. booth is leaning against a car. brennan is standing in front of him. james sok runs up to them.]
+james sok: do you mind? (opens the hood of the car, which belongs to him)
+['booth', 'agent booth', 'special agent booth', 'special agent seeley booth', 'seeley', 'seeley booth', 'mr. booth', 'mr booth', 'officer booth', 'boothy', 'boothie', 'bth', 'bohth', 'boof', 'dr. booth']: yeah, actually, i do. james sok, right? elegant escorts? (flashes his badge)
+sok: yeah. so? i run a legitimate business.
+['booth', 'agent booth', 'special agent booth', 'special agent seeley booth', 'seeley', 'seeley booth', 'mr. booth', 'mr booth', 'officer booth', 'boothy', 'boothie', 'bth', 'bohth', 'boof', 'dr. booth']: (slams down on the hood of sok's car, shutting it) you're a pimp. i don't like pimps.
+['brennan', 'dr. brennan', 'dr brennan', 'temperance', 'temperance brennan', 'dr. temperance', 'dr temperance', 'dr. temperance brennan', 'dr temperance brennan', 'bones', 'temp', 'dr bones', 'ms. brennan', 'ms brennan', 'brnnan', 'brannan', 'dr.brennan', 'dr.brenan']: he really doesn't.
+['booth', 'agent booth', 'special agent booth', 'special agent seeley booth', 'seeley', 'seeley booth', 'mr. booth', 'mr booth', 'officer booth', 'boothy', 'boothie', 'bth', 'bohth', 'boof', 'dr. booth']: no.
+['brennan', 'dr. brennan', 'dr brennan', 'temperance', 'temperance brennan', 'dr. temperance', 'dr temperance', 'dr. temperance brennan', 'dr temperance brennan', 'bones', 'temp', 'dr bones', 'ms. brennan', 'ms brennan', 'brnnan', 'brannan', 'dr.brennan', 'dr.brenan']: your record says that you assault bruce takedo.
+sok: those charges were dropped. because the guy attacked me (lifting his shirt to show a long scar) with a knife. all i did was protect myself.
+['booth', 'agent booth', 'special agent booth', 'special agent seeley booth', 'seeley', 'seeley booth', 'mr. booth', 'mr booth', 'officer booth', 'boothy', 'boothie', 'bth', 'bohth', 'boof', 'dr. booth']: really? probably because you were recruiting at his place.
+sok: middle-aged guy, surrounds himself with schoolgirls, maybe he's the guy you want to look at.
+['booth', 'agent booth', 'special agent booth', 'special agent seeley booth', 'seeley', 'seeley booth', 'mr. booth', 'mr booth', 'officer booth', 'boothy', 'boothie', 'bth', 'bohth', 'boof', 'dr. booth']: nozomi sato. (holds out a picture of nozomi) you recognize her?
+sok: yeah. i like nozomi.
+['brennan', 'dr. brennan', 'dr brennan', 'temperance', 'temperance brennan', 'dr. temperance', 'dr temperance', 'dr. temperance brennan', 'dr temperance brennan', 'bones', 'temp', 'dr bones', 'ms. brennan', 'ms brennan', 'brnnan', 'brannan', 'dr.brennan', 'dr.brenan']: well, she's missing.
+sok: well, most of my models come from asia. they-they're young, flaky. sometimes they take off.
+['booth', 'agent booth', 'special agent booth', 'special agent seeley booth', 'seeley', 'seeley booth', 'mr. booth', 'mr booth', 'officer booth', 'boothy', 'boothie', 'bth', 'bohth', 'boof', 'dr. booth']: you know, you got a sweet life, jimmy. you got a houseboat down at the marina. you got cash rolling in. if you want to live your life as my prime suspect in the murder of sachi nakamura, that's just fine. but just know, as of right now, your business is done. (taps the top of sok's car)
+sok: (unfazed) or?
+['booth', 'agent booth', 'special agent booth', 'special agent seeley booth', 'seeley', 'seeley booth', 'mr. booth', 'mr booth', 'officer booth', 'boothy', 'boothie', 'bth', 'bohth', 'boof', 'dr. booth']: or you give me something shiny to distract me.
+sok: i don't know anything about sachi nakamura. but, uh, nozomi booked a client last friday, and i haven't seen her since.
+['brennan', 'dr. brennan', 'dr brennan', 'temperance', 'temperance brennan', 'dr. temperance', 'dr temperance', 'dr. temperance brennan', 'dr temperance brennan', 'bones', 'temp', 'dr bones', 'ms. brennan', 'ms brennan', 'brnnan', 'brannan', 'dr.brennan', 'dr.brenan']: (to booth) that's the day that sachi nakamura disappeared.
+['booth', 'agent booth', 'special agent booth', 'special agent seeley booth', 'seeley', 'seeley booth', 'mr. booth', 'mr booth', 'officer booth', 'boothy', 'boothie', 'bth', 'bohth', 'boof', 'dr. booth']: what's the client's name?
+sok: banker named vogler. got hurt bad in the big crunch. made him mean. and nozomi didn't mind a little of the rough stuff.
+['booth', 'agent booth', 'special agent booth', 'special agent seeley booth', 'seeley', 'seeley booth', 'mr. booth', 'mr booth', 'officer booth', 'boothy', 'boothie', 'bth', 'bohth', 'boof', 'dr. booth']: let's go, bones.
+sok: that shiny enough for ya?
+['booth', 'agent booth', 'special agent booth', 'special agent seeley booth', 'seeley', 'seeley booth', 'mr. booth', 'mr booth', 'officer booth', 'boothy', 'boothie', 'bth', 'bohth', 'boof', 'dr. booth']: (steps up close to sok, threateningly) excuse me?
+['brennan', 'dr. brennan', 'dr brennan', 'temperance', 'temperance brennan', 'dr. temperance', 'dr temperance', 'dr. temperance brennan', 'dr temperance brennan', 'bones', 'temp', 'dr bones', 'ms. brennan', 'ms brennan', 'brnnan', 'brannan', 'dr.brennan', 'dr.brenan']: booth? (pulling booth away) okay, come on.
+[cut to: int. medico-legal lab - examination room - day. tanaka and cam are studying the top of the skull. an enlarged version of the exit wound is displayed across a monitor. nakamura is observing.]
+tanaka: there is a small scratch to the left of the exit wound.
+['cam', 'camille', 'camille saroyan', 'dr. saroyan', 'dr saroyan', 'dr cam', 'dr. cam', 'cam s', 'ms. saroyan', 'ms saroyan', 'dr. camille', 'cammy', 'camil', 'cam saroyan']: (pointing to the screen) and the directionality is outward from the midpoint of the coronal suture.
+tanaka: whatever pierced the skull must have splintered back inside.
+nakamura: splintered? it was a gun. don't you mean fragmented?
+tanaka: there are no striations on the cross section of the exit wound.
+['cam', 'camille', 'camille saroyan', 'dr. saroyan', 'dr saroyan', 'dr cam', 'dr. cam', 'cam s', 'ms. saroyan', 'ms saroyan', 'dr. camille', 'cammy', 'camil', 'cam saroyan']: so she wasn't kill by a bullet?
+tanaka: that is my assessment.
+nakamura: (agitated) what could have been driven through her head?
+[tanaka gives cam an uncomfortable look.]
+['cam', 'camille', 'camille saroyan', 'dr. saroyan', 'dr saroyan', 'dr cam', 'dr. cam', 'cam s', 'ms. saroyan', 'ms saroyan', 'dr. camille', 'cammy', 'camil', 'cam saroyan']: (to nakamura, pointedly) perhaps you can inform booth that the murder weapon was not a gun.
+[nakamura understands and exits.]
+['cam', 'camille', 'camille saroyan', 'dr. saroyan', 'dr saroyan', 'dr cam', 'dr. cam', 'cam s', 'ms. saroyan', 'ms saroyan', 'dr. camille', 'cammy', 'camil', 'cam saroyan']: (to tanaka) and we can x-ray the brain to see if we find any evidence of splinters.
+[enter hodgins.]
+['hodgins', 'jack hodgins', 'jack', 'dr. hodgins', 'dr hodgins', 'dr. jack', 'mr. hodgins', 'hodges', 'hodg', 'jack h', 'hodginz', 'dr hodges']: i ran the particulates from the c5 through the mass spec. nematodes, turbellaria, copepods, blah blah blah... all congruent with the marsh where the head was found.
+tanaka: (to cam) i am not familiar with the 'blah blah blah.'
+['hodgins', 'jack hodgins', 'jack', 'dr. hodgins', 'dr hodgins', 'dr. jack', 'mr. hodgins', 'hodges', 'hodg', 'jack h', 'hodginz', 'dr hodges']: but i also found bird vomit on the victim's head.
+tanaka: now i truly do not understand.
+['cam', 'camille', 'camille saroyan', 'dr. saroyan', 'dr saroyan', 'dr cam', 'dr. cam', 'cam s', 'ms. saroyan', 'ms saroyan', 'dr. camille', 'cammy', 'camil', 'cam saroyan']: totally lost.
+['hodgins', 'jack hodgins', 'jack', 'dr. hodgins', 'dr hodgins', 'dr. jack', 'mr. hodgins', 'hodges', 'hodg', 'jack h', 'hodginz', 'dr hodges']: okay, uh, all right. (waves cam and tanaka toward a computer) in salt marshes, there are high marshes, low marshes, and salt flats.
+['cam', 'camille', 'camille saroyan', 'dr. saroyan', 'dr saroyan', 'dr cam', 'dr. cam', 'cam s', 'ms. saroyan', 'ms saroyan', 'dr. camille', 'cammy', 'camil', 'cam saroyan']: dr. brennan found the head on the low marsh.
+['hodgins', 'jack hodgins', 'jack', 'dr. hodgins', 'dr hodgins', 'dr. jack', 'mr. hodgins', 'hodges', 'hodg', 'jack h', 'hodginz', 'dr hodges']: yes, but the bird vomit comes from catoptrophorus semipalmatus. (looks from cam to tanaka) a willet. (looks from tanaka to cam; both are lost) the willet is a high marsh creature. but the cadaver dogs are looking here on the low marsh. (points at screen) they should be looking here in the high marsh, where the willet is found.
+tanaka: but that is miles away.
+['hodgins', 'jack hodgins', 'jack', 'dr. hodgins', 'dr hodgins', 'dr. jack', 'mr. hodgins', 'hodges', 'hodg', 'jack h', 'hodginz', 'dr hodges']: yeah, which is why we need to call the search team.
+['cam', 'camille', 'camille saroyan', 'dr. saroyan', 'dr saroyan', 'dr cam', 'dr. cam', 'cam s', 'ms. saroyan', 'ms saroyan', 'dr. camille', 'cammy', 'camil', 'cam saroyan']: (pointing at screen) why would someone cut a head off a body here, and drive miles away to dispose of the head here?
+['hodgins', 'jack hodgins', 'jack', 'dr. hodgins', 'dr hodgins', 'dr. jack', 'mr. hodgins', 'hodges', 'hodg', 'jack h', 'hodginz', 'dr hodges']: i rarely find motive in bird vomit.
+[cut to: ext. tillbrook salt marshes - day. booth, brennan, an officer, and his cadaver dog are present.]
+officer #1: (to dog) seek!
+[the dog seeks, leading the party to a second officer, who is standing by with a second cadaver dog.]
+officer #1: (to officer #2) okay. it's here.
+officer #2: okay.
+[a dog barks. a headless body has already been located in the tall grass. brennan approaches the body and touches the exposed vertebrae.]
+['booth', 'agent booth', 'special agent booth', 'special agent seeley booth', 'seeley', 'seeley booth', 'mr. booth', 'mr booth', 'officer booth', 'boothy', 'boothie', 'bth', 'bohth', 'boof', 'dr. booth']: bones?
+[brennan looks up and nods. booth sighs and dials a number on his phone.]
+['booth', 'agent booth', 'special agent booth', 'special agent seeley booth', 'seeley', 'seeley booth', 'mr. booth', 'mr booth', 'officer booth', 'boothy', 'boothie', 'bth', 'bohth', 'boof', 'dr. booth']: (on the phone) nak, i think we found her.
+[cut to: int. medico-legal lab - examination platform - day. the body is wheeled into the autopsy theatre in a bag. present are brennan, cam, tanaka and, from a distance, nakamura.]
+['cam', 'camille', 'camille saroyan', 'dr. saroyan', 'dr saroyan', 'dr cam', 'dr. cam', 'cam s', 'ms. saroyan', 'ms saroyan', 'dr. camille', 'cammy', 'camil', 'cam saroyan']: i will autopsy the remains, then give the body back to dr. brennan, so she can remove the tissue.
+['brennan', 'dr. brennan', 'dr brennan', 'temperance', 'temperance brennan', 'dr. temperance', 'dr temperance', 'dr. temperance brennan', 'dr temperance brennan', 'bones', 'temp', 'dr bones', 'ms. brennan', 'ms brennan', 'brnnan', 'brannan', 'dr.brennan', 'dr.brenan']: the marks on the vertebrae will give us a clearer idea of the weapon used to decapitate her.
+['cam', 'camille', 'camille saroyan', 'dr. saroyan', 'dr saroyan', 'dr cam', 'dr. cam', 'cam s', 'ms. saroyan', 'ms saroyan', 'dr. camille', 'cammy', 'camil', 'cam saroyan']: dr. tanaka can help me prepare the brain for liquefaction.
+[brennan begins to unzip the body bag. nakamura is watching as she begins unwrapping the body. it is in terrible shape. nakamura turns away. brennan notices.]
+['brennan', 'dr. brennan', 'dr brennan', 'temperance', 'temperance brennan', 'dr. temperance', 'dr temperance', 'dr. temperance brennan', 'dr temperance brennan', 'bones', 'temp', 'dr bones', 'ms. brennan', 'ms brennan', 'brnnan', 'brannan', 'dr.brennan', 'dr.brenan']: (to tanaka) perhaps he shouldn't be here.
+tanaka: if he doesn't ask for help, it would be an insult for me to offer. it would imply weakness.
+[brennan nods and approaches nakamura.]
+['brennan', 'dr. brennan', 'dr brennan', 'temperance', 'temperance brennan', 'dr. temperance', 'dr temperance', 'dr. temperance brennan', 'dr temperance brennan', 'bones', 'temp', 'dr bones', 'ms. brennan', 'ms brennan', 'brnnan', 'brannan', 'dr.brennan', 'dr.brenan']: (to nakamura) i realize that staying here shows great strength and commitment to your sister's memory. she is lucky to have such a devoted brother. but it is distracting for us and might compromise our work. i'm sure you wouldn't want that.
+nakamura: of course not.
+['brennan', 'dr. brennan', 'dr brennan', 'temperance', 'temperance brennan', 'dr. temperance', 'dr temperance', 'dr. temperance brennan', 'dr temperance brennan', 'bones', 'temp', 'dr bones', 'ms. brennan', 'ms brennan', 'brnnan', 'brannan', 'dr.brennan', 'dr.brenan']: i will come to you with any news.
+[brennan returns to the examination table. exit nakamura.]
+[cut to: int. medico-legal lab - autopsy room - day. cam and nakamura are liquefying the victim's brain by cooking it under a red light.]
+['cam', 'camille', 'camille saroyan', 'dr. saroyan', 'dr saroyan', 'dr cam', 'dr. cam', 'cam s', 'ms. saroyan', 'ms saroyan', 'dr. camille', 'cammy', 'camil', 'cam saroyan']: the heat and vibration will liquefy the tissue enabling us to examine whatever foreign particle was picked up by the x-ray.
+tanaka: this was an excellent idea.
+['cam', 'camille', 'camille saroyan', 'dr. saroyan', 'dr saroyan', 'dr cam', 'dr. cam', 'cam s', 'ms. saroyan', 'ms saroyan', 'dr. camille', 'cammy', 'camil', 'cam saroyan']: thank you.
+[while waiting for the brain to liquefy, cam steals peeks at tanaka, presumably trying to gauge gender. tanaka catches cam staring.]
+tanaka: is there something wrong?
+['cam', 'camille', 'camille saroyan', 'dr. saroyan', 'dr saroyan', 'dr cam', 'dr. cam', 'cam s', 'ms. saroyan', 'ms saroyan', 'dr. camille', 'cammy', 'camil', 'cam saroyan']: what? no. why?
+tanaka: you were staring at me.
+['cam', 'camille', 'camille saroyan', 'dr. saroyan', 'dr saroyan', 'dr cam', 'dr. cam', 'cam s', 'ms. saroyan', 'ms saroyan', 'dr. camille', 'cammy', 'camil', 'cam saroyan']: i was? (stammering) i was... i don't... i didn't realize. i... like your shirt.
+[tanaka looks down at the shirt, unconvinced.]
+['cam', 'camille', 'camille saroyan', 'dr. saroyan', 'dr saroyan', 'dr cam', 'dr. cam', 'cam s', 'ms. saroyan', 'ms saroyan', 'dr. camille', 'cammy', 'camil', 'cam saroyan']: (trying to change the subject) oh, wow, look at that brain. (flips off the red light)
+tanaka: oh, i think i see it. (pulls out the tray and picks up a piece of splinter with forceps) what is it?
+['cam', 'camille', 'camille saroyan', 'dr. saroyan', 'dr saroyan', 'dr cam', 'dr. cam', 'cam s', 'ms. saroyan', 'ms saroyan', 'dr. camille', 'cammy', 'camil', 'cam saroyan']: wood?
+tanaka: the wound track wasn't from a bullet, but from a piece of wood being thrust into her skull?
+['cam', 'camille', 'camille saroyan', 'dr. saroyan', 'dr saroyan', 'dr cam', 'dr. cam', 'cam s', 'ms. saroyan', 'ms saroyan', 'dr. camille', 'cammy', 'camil', 'cam saroyan']: let's not get ahead of ourselves; give it to hodgins so we know exactly what we're dealing with.
+tanaka: right away. he has also been staring. (sarcastically) it seems many people like my shirt.
+[cam watches tanaka leave.]
+[cut to: int. massage parlor - day. paul vogler is lying face-down and receiving a massage from a masseuse. booth and brennan burst in.]
+['booth', 'agent booth', 'special agent booth', 'special agent seeley booth', 'seeley', 'seeley booth', 'mr. booth', 'mr booth', 'officer booth', 'boothy', 'boothie', 'bth', 'bohth', 'boof', 'dr. booth']: paul vogler?
+paul vogler: (groans) what the hell?
+['brennan', 'dr. brennan', 'dr brennan', 'temperance', 'temperance brennan', 'dr. temperance', 'dr temperance', 'dr. temperance brennan', 'dr temperance brennan', 'bones', 'temp', 'dr bones', 'ms. brennan', 'ms brennan', 'brnnan', 'brannan', 'dr.brennan', 'dr.brenan']: (to masseuse) don't stop because of us.
+['booth', 'agent booth', 'special agent booth', 'special agent seeley booth', 'seeley', 'seeley booth', 'mr. booth', 'mr booth', 'officer booth', 'boothy', 'boothie', 'bth', 'bohth', 'boof', 'dr. booth']: (to vogler) i'd like to ask you a few questions about nozomi sato.
+['brennan', 'dr. brennan', 'dr brennan', 'temperance', 'temperance brennan', 'dr. temperance', 'dr temperance', 'dr. temperance brennan', 'dr temperance brennan', 'bones', 'temp', 'dr bones', 'ms. brennan', 'ms brennan', 'brnnan', 'brannan', 'dr.brennan', 'dr.brenan']: (to masseuse) how much do you charge for a massage?
+masseuse: two hundred dollars.
+['booth', 'agent booth', 'special agent booth', 'special agent seeley booth', 'seeley', 'seeley booth', 'mr. booth', 'mr booth', 'officer booth', 'boothy', 'boothie', 'bth', 'bohth', 'boof', 'dr. booth']: bones.
+['brennan', 'dr. brennan', 'dr brennan', 'temperance', 'temperance brennan', 'dr. temperance', 'dr temperance', 'dr. temperance brennan', 'dr temperance brennan', 'bones', 'temp', 'dr bones', 'ms. brennan', 'ms brennan', 'brnnan', 'brannan', 'dr.brennan', 'dr.brenan']: what? that seems way too much. her knowledge of the skeletal and musculature systems seems minimal at best.
+['booth', 'agent booth', 'special agent booth', 'special agent seeley booth', 'seeley', 'seeley booth', 'mr. booth', 'mr booth', 'officer booth', 'boothy', 'boothie', 'bth', 'bohth', 'boof', 'dr. booth']: right. uh, she's not that type of masseuse. (to vogler) so, nozomi sato?
+vogler: who?
+['booth', 'agent booth', 'special agent booth', 'special agent seeley booth', 'seeley', 'seeley booth', 'mr. booth', 'mr booth', 'officer booth', 'boothy', 'boothie', 'bth', 'bohth', 'boof', 'dr. booth']: you know, the prostitute you like beat up.
+vogler: i don't know what you're talking about.
+['booth', 'agent booth', 'special agent booth', 'special agent seeley booth', 'seeley', 'seeley booth', 'mr. booth', 'mr booth', 'officer booth', 'boothy', 'boothie', 'bth', 'bohth', 'boof', 'dr. booth']: okay, fine. we'll just go subpoena the phone records from elegant escorts. (turns to leave)
+vogler: i saw her a few times.
+['booth', 'agent booth', 'special agent booth', 'special agent seeley booth', 'seeley', 'seeley booth', 'mr. booth', 'mr booth', 'officer booth', 'boothy', 'boothie', 'bth', 'bohth', 'boof', 'dr. booth']: (turning back) oh, really?
+vogler: yeah, to blow off some steam. you know. a photographer who did some ads for my firm, he's the one that gave me the elegant flyer.
+['brennan', 'dr. brennan', 'dr brennan', 'temperance', 'temperance brennan', 'dr. temperance', 'dr temperance', 'dr. temperance brennan', 'dr temperance brennan', 'bones', 'temp', 'dr bones', 'ms. brennan', 'ms brennan', 'brnnan', 'brannan', 'dr.brennan', 'dr.brenan']: micah strutt?
+vogler: yeah. i guess he shot for them, too.
+['brennan', 'dr. brennan', 'dr brennan', 'temperance', 'temperance brennan', 'dr. temperance', 'dr temperance', 'dr. temperance brennan', 'dr temperance brennan', 'bones', 'temp', 'dr bones', 'ms. brennan', 'ms brennan', 'brnnan', 'brannan', 'dr.brennan', 'dr.brenan']: (approaching the massage bed, to masseuse) you-you should really focus on the iliocostalis and the longissimus. that's where most people carry their tension. like this. (presses her elbow into vogler's back)
+vogler: oh! whoa! whoa, that's great.
+['brennan', 'dr. brennan', 'dr brennan', 'temperance', 'temperance brennan', 'dr. temperance', 'dr temperance', 'dr. temperance brennan', 'dr temperance brennan', 'bones', 'temp', 'dr bones', 'ms. brennan', 'ms brennan', 'brnnan', 'brannan', 'dr.brennan', 'dr.brenan']: (to masseuse) you see? that's what they want.
+masseuse: (awkwardly) not... usually.
+['booth', 'agent booth', 'special agent booth', 'special agent seeley booth', 'seeley', 'seeley booth', 'mr. booth', 'mr booth', 'officer booth', 'boothy', 'boothie', 'bth', 'bohth', 'boof', 'dr. booth']: bones, she's a "happy ending" masseuse, okay? "happy ending."
+['brennan', 'dr. brennan', 'dr brennan', 'temperance', 'temperance brennan', 'dr. temperance', 'dr temperance', 'dr. temperance brennan', 'dr temperance brennan', 'bones', 'temp', 'dr bones', 'ms. brennan', 'ms brennan', 'brnnan', 'brannan', 'dr.brennan', 'dr.brenan']: oh... booth: (slides a picture of sachi nakamura under the face hole of the massage bed, to vogler) what about this girl?
+vogler: (lifting his head) i never met her. nozomi was the only escort i was seeing.
+['booth', 'agent booth', 'special agent booth', 'special agent seeley booth', 'seeley', 'seeley booth', 'mr. booth', 'mr booth', 'officer booth', 'boothy', 'boothie', 'bth', 'bohth', 'boof', 'dr. booth']: you seem to be a fine collector of asian art. (snaps open an article about vogler and holds it up to him) do you want to explain the sword on the wall there, in the background?
+vogler: it's a nihonto sword.
+['brennan', 'dr. brennan', 'dr brennan', 'temperance', 'temperance brennan', 'dr. temperance', 'dr temperance', 'dr. temperance brennan', 'dr temperance brennan', 'bones', 'temp', 'dr bones', 'ms. brennan', 'ms brennan', 'brnnan', 'brannan', 'dr.brennan', 'dr.brenan']: it was used by the feudal executioners to behead the condemned.
+vogler: (turning to brennan) yeah, i know. i had to sell it. i lost a fortune in the market.
+['booth', 'agent booth', 'special agent booth', 'special agent seeley booth', 'seeley', 'seeley booth', 'mr. booth', 'mr booth', 'officer booth', 'boothy', 'boothie', 'bth', 'bohth', 'boof', 'dr. booth']: right. how convenient of you to sell the sword off, you know, 'cause sachi nakamura was beheaded.
+vogler: what?
+['booth', 'agent booth', 'special agent booth', 'special agent seeley booth', 'seeley', 'seeley booth', 'mr. booth', 'mr booth', 'officer booth', 'boothy', 'boothie', 'bth', 'bohth', 'boof', 'dr. booth']: beheaded.
+vogler: hey, i don't know what you're thinking-
+['brennan', 'dr. brennan', 'dr brennan', 'temperance', 'temperance brennan', 'dr. temperance', 'dr temperance', 'dr. temperance brennan', 'dr temperance brennan', 'bones', 'temp', 'dr bones', 'ms. brennan', 'ms brennan', 'brnnan', 'brannan', 'dr.brennan', 'dr.brenan']: (interrupting) hitting the iliohypogastric nerve can be extremely painful.
+[brennan digs her elbow into vogler's back. vogler cries out in pain.]
+['booth', 'agent booth', 'special agent booth', 'special agent seeley booth', 'seeley', 'seeley booth', 'mr. booth', 'mr booth', 'officer booth', 'boothy', 'boothie', 'bth', 'bohth', 'boof', 'dr. booth']: where's the sword now?
+vogler: listen-
+[brennan presses her elbow into vogler's back again. vogler cries out.]
+vogler: i'm not saying another word to you people without my lawyer.
+['booth', 'agent booth', 'special agent booth', 'special agent seeley booth', 'seeley', 'seeley booth', 'mr. booth', 'mr booth', 'officer booth', 'boothy', 'boothie', 'bth', 'bohth', 'boof', 'dr. booth']: fine. that's fine with us. we'll be in touch. (taps vogler on the shoulder with his article) come on, bones.
+[booth rises from his seat and goes to open the door. as booth and brennan are about to leave, vogler cries out again. the masseuse has hit vogler's iliohypogastric nerve.]
+['brennan', 'dr. brennan', 'dr brennan', 'temperance', 'temperance brennan', 'dr. temperance', 'dr temperance', 'dr. temperance brennan', 'dr temperance brennan', 'bones', 'temp', 'dr bones', 'ms. brennan', 'ms brennan', 'brnnan', 'brannan', 'dr.brennan', 'dr.brenan']: oh, she's a quick learner.
+['booth', 'agent booth', 'special agent booth', 'special agent seeley booth', 'seeley', 'seeley booth', 'mr. booth', 'mr booth', 'officer booth', 'boothy', 'boothie', 'bth', 'bohth', 'boof', 'dr. booth']: yeah, very quick.
+[booth and brennan leave as vogler continues to cry out.]
+(adsbygoogle = window.adsbygoogle || []).push({});
+[cut to: int. medico-legal lab - main - day. angela catches a passing cam.]
+['angela', 'angela montenegro', 'ms. montenegro', 'ms montenegro', 'ang', 'ange', 'an', 'a.montenegro', 'angella', 'angla', 'angelina', 'miss montenegro', 'angela m', 'dr. angela']: hey, i did a little research on strutt photography.
+['cam', 'camille', 'camille saroyan', 'dr. saroyan', 'dr saroyan', 'dr cam', 'dr. cam', 'cam s', 'ms. saroyan', 'ms saroyan', 'dr. camille', 'cammy', 'camil', 'cam saroyan']: i almost asked tanaka.
+['angela', 'angela montenegro', 'ms. montenegro', 'ms montenegro', 'ang', 'ange', 'an', 'a.montenegro', 'angella', 'angla', 'angelina', 'miss montenegro', 'angela m', 'dr. angela']: (gasps) no! really?
+['cam', 'camille', 'camille saroyan', 'dr. saroyan', 'dr saroyan', 'dr cam', 'dr. cam', 'cam s', 'ms. saroyan', 'ms saroyan', 'dr. camille', 'cammy', 'camil', 'cam saroyan']: (heading into angela's office with angela) not that it matters, but he - she/he - caught me staring. i didn't mean to, but i had an opening, you know, but i didn't know how to lead off. if i said he/she was a girl, and he/she was a guy, he/she might be offended, or other way around, same thing. god, i missed the ease of a simple pronoun.
+['angela', 'angela montenegro', 'ms. montenegro', 'ms montenegro', 'ang', 'ange', 'an', 'a.montenegro', 'angella', 'angla', 'angelina', 'miss montenegro', 'angela m', 'dr. angela']: yeah, tell me about it. (turns to computer) all right, check out strutt photography's website. now, there's a link to additional services, which requires permission and a password. i traced the ip address and i found the ftp site that contains all the uploads. then i bypassed the password protection by hacking into the server where his web address is registered.
+['cam', 'camille', 'camille saroyan', 'dr. saroyan', 'dr saroyan', 'dr cam', 'dr. cam', 'cam s', 'ms. saroyan', 'ms saroyan', 'dr. camille', 'cammy', 'camil', 'cam saroyan']: why do i feel like my checking account isn't safe?
+['angela', 'angela montenegro', 'ms. montenegro', 'ms montenegro', 'ang', 'ange', 'an', 'a.montenegro', 'angella', 'angla', 'angelina', 'miss montenegro', 'angela m', 'dr. angela']: look what mr. strutt's been hiding.
+[many photos of sachi nakamura pop up on the screen.]
+['cam', 'camille', 'camille saroyan', 'dr. saroyan', 'dr saroyan', 'dr cam', 'dr. cam', 'cam s', 'ms. saroyan', 'ms saroyan', 'dr. camille', 'cammy', 'camil', 'cam saroyan']: these pictures definitely weren't taken at strutt's studio.
+['angela', 'angela montenegro', 'ms. montenegro', 'ms montenegro', 'ang', 'ange', 'an', 'a.montenegro', 'angella', 'angla', 'angelina', 'miss montenegro', 'angela m', 'dr. angela']: (as she zooms into various photos) long lens, foreground objects, probably taken without the subject's consent.
+['cam', 'camille', 'camille saroyan', 'dr. saroyan', 'dr saroyan', 'dr cam', 'dr. cam', 'cam s', 'ms. saroyan', 'ms saroyan', 'dr. camille', 'cammy', 'camil', 'cam saroyan']: classic stalker photos.
+['angela', 'angela montenegro', 'ms. montenegro', 'ms montenegro', 'ang', 'ange', 'an', 'a.montenegro', 'angella', 'angla', 'angelina', 'miss montenegro', 'angela m', 'dr. angela']: mm-hmm.
+['cam', 'camille', 'camille saroyan', 'dr. saroyan', 'dr saroyan', 'dr cam', 'dr. cam', 'cam s', 'ms. saroyan', 'ms saroyan', 'dr. camille', 'cammy', 'camil', 'cam saroyan']: if he was stalking sachi... angela: maybe it wasn't just pictures he wanted to shoot.
+[cut to: int. medico-legal lab - examination room - day. brennan and tanaka are examining the victim's bones.]
+tanaka: forgive me, dr. brennan, but i must ask if you are familiar with the shinto idea of kami?
+['brennan', 'dr. brennan', 'dr brennan', 'temperance', 'temperance brennan', 'dr. temperance', 'dr temperance', 'dr. temperance brennan', 'dr temperance brennan', 'bones', 'temp', 'dr bones', 'ms. brennan', 'ms brennan', 'brnnan', 'brannan', 'dr.brennan', 'dr.brenan']: the spiritual essence of an object?
+tanaka: yes. i cannot define what is missing from this skull, how its kami is incomplete.
+['brennan', 'dr. brennan', 'dr brennan', 'temperance', 'temperance brennan', 'dr. temperance', 'dr temperance', 'dr. temperance brennan', 'dr temperance brennan', 'bones', 'temp', 'dr bones', 'ms. brennan', 'ms brennan', 'brnnan', 'brannan', 'dr.brennan', 'dr.brenan']: maybe because the top of the cranium had been removed.
+tanaka: perhaps. i often find that handling the bone gives me insight to that pure science cannot explain.
+['brennan', 'dr. brennan', 'dr brennan', 'temperance', 'temperance brennan', 'dr. temperance', 'dr temperance', 'dr. temperance brennan', 'dr temperance brennan', 'bones', 'temp', 'dr bones', 'ms. brennan', 'ms brennan', 'brnnan', 'brannan', 'dr.brennan', 'dr.brenan']: well, i find that pure science is the only thing that gives satisfactory explanations, dr. tanaka. (turns back to the skull) there is something with the temporal bone. (hands the skull to tanaka)
+tanaka: (touching the temporal bone) yes. the tympanomastoid. a swelling in the air space. (hands the skull back to brennan)
+['brennan', 'dr. brennan', 'dr brennan', 'temperance', 'temperance brennan', 'dr. temperance', 'dr temperance', 'dr. temperance brennan', 'dr temperance brennan', 'bones', 'temp', 'dr bones', 'ms. brennan', 'ms brennan', 'brnnan', 'brannan', 'dr.brennan', 'dr.brenan']: tympanomastoid hemorrhaging in the absence of a bleeding diathesis.
+tanaka: (suddenly realizing) the victim was drowned.
+['brennan', 'dr. brennan', 'dr brennan', 'temperance', 'temperance brennan', 'dr. temperance', 'dr temperance', 'dr. temperance brennan', 'dr temperance brennan', 'bones', 'temp', 'dr bones', 'ms. brennan', 'ms brennan', 'brnnan', 'brannan', 'dr.brennan', 'dr.brenan']: very impressive, dr. tanaka.
+tanaka: it wasn't me. it was the kami. (touches the top of the skull and bows her head slightly)
+[enter cam.]
+['cam', 'camille', 'camille saroyan', 'dr. saroyan', 'dr saroyan', 'dr cam', 'dr. cam', 'cam s', 'ms. saroyan', 'ms saroyan', 'dr. camille', 'cammy', 'camil', 'cam saroyan']: well, she wasn't kill by whatever pierced her brain. i aspirated her lungs. cause of death was drowning.
+[brennan and tanaka share a look.]
+[cut to: int. medio-legal lab - examination platform - day. hodgins pushes a stand toward brennan as she enters with cam, who is carrying the victim's lung in a bowl.]
+['brennan', 'dr. brennan', 'dr brennan', 'temperance', 'temperance brennan', 'dr. temperance', 'dr temperance', 'dr. temperance brennan', 'dr temperance brennan', 'bones', 'temp', 'dr bones', 'ms. brennan', 'ms brennan', 'brnnan', 'brannan', 'dr.brennan', 'dr.brenan']: we need to determine if the victim was drowned in the marsh or somewhere else.
+['hodgins', 'jack hodgins', 'jack', 'dr. hodgins', 'dr hodgins', 'dr. jack', 'mr. hodgins', 'hodges', 'hodg', 'jack h', 'hodginz', 'dr hodges']: no problem. i'll analyze the water samples from the lungs. (turning to computer) now, i discovered what the splinter from the brain tissue is. it's pseudosasa japonica. it's arrow bamboo. it's ornamental. (turning back to brennan and cam) only grows indoors in this climate.
+['brennan', 'dr. brennan', 'dr brennan', 'temperance', 'temperance brennan', 'dr. temperance', 'dr temperance', 'dr. temperance brennan', 'dr temperance brennan', 'bones', 'temp', 'dr bones', 'ms. brennan', 'ms brennan', 'brnnan', 'brannan', 'dr.brennan', 'dr.brenan']: sharpened bamboo could easily pierce the skull.
+['cam', 'camille', 'camille saroyan', 'dr. saroyan', 'dr saroyan', 'dr cam', 'dr. cam', 'cam s', 'ms. saroyan', 'ms saroyan', 'dr. camille', 'cammy', 'camil', 'cam saroyan']: the girl was drowned first, a mask was put on her, then she was decapitated and her head was mounted on a bamboo stake?
+['hodgins', 'jack hodgins', 'jack', 'dr. hodgins', 'dr hodgins', 'dr. jack', 'mr. hodgins', 'hodges', 'hodg', 'jack h', 'hodginz', 'dr hodges']: yeah, then the head was tossed into the marsh?
+['cam', 'camille', 'camille saroyan', 'dr. saroyan', 'dr saroyan', 'dr cam', 'dr. cam', 'cam s', 'ms. saroyan', 'ms saroyan', 'dr. camille', 'cammy', 'camil', 'cam saroyan']: let's find out what kind of water was in her lungs.
+[fade to: int. medico-legal lab - brennan's office - day. nakamura is looking at a photo of his sister sachi. enter brennan, who pauses at the doorway.]
+nakamura: she was beautiful, wasn't she?
+['brennan', 'dr. brennan', 'dr brennan', 'temperance', 'temperance brennan', 'dr. temperance', 'dr temperance', 'dr. temperance brennan', 'dr temperance brennan', 'bones', 'temp', 'dr bones', 'ms. brennan', 'ms brennan', 'brnnan', 'brannan', 'dr.brennan', 'dr.brenan']: (approaches and looks at photo) yes, she was. a beautiful young woman.
+nakamura: which is probably why she came to america. she felt like a woman and wanted to be rid of a big brother watching her all the time.
+['brennan', 'dr. brennan', 'dr brennan', 'temperance', 'temperance brennan', 'dr. temperance', 'dr temperance', 'dr. temperance brennan', 'dr temperance brennan', 'bones', 'temp', 'dr bones', 'ms. brennan', 'ms brennan', 'brnnan', 'brannan', 'dr.brennan', 'dr.brenan']: my parents left me and my brother when i was 15. my brother was the only family that i had then. but he walked out on me, too.
+nakamura: i'm sorry.
+['brennan', 'dr. brennan', 'dr brennan', 'temperance', 'temperance brennan', 'dr. temperance', 'dr temperance', 'dr. temperance brennan', 'dr temperance brennan', 'bones', 'temp', 'dr bones', 'ms. brennan', 'ms brennan', 'brnnan', 'brannan', 'dr.brennan', 'dr.brenan']: i turned out quite well, actually. but it would've been nice to have had a brother like you. (long pause) according to the fbi logs, she called you every day, often twice a day. and the conversations... never were less than five minutes and averaged 15 minutes.
+nakamura: this has meaning for you?
+['brennan', 'dr. brennan', 'dr brennan', 'temperance', 'temperance brennan', 'dr. temperance', 'dr temperance', 'dr. temperance brennan', 'dr temperance brennan', 'bones', 'temp', 'dr bones', 'ms. brennan', 'ms brennan', 'brnnan', 'brannan', 'dr.brennan', 'dr.brenan']: objectively speaking, it would indicate a, an irrefutable desire to connect. a deep and abiding love.
+nakamura: i cannot imagine never talking to her again.
+['brennan', 'dr. brennan', 'dr brennan', 'temperance', 'temperance brennan', 'dr. temperance', 'dr temperance', 'dr. temperance brennan', 'dr temperance brennan', 'bones', 'temp', 'dr bones', 'ms. brennan', 'ms brennan', 'brnnan', 'brannan', 'dr.brennan', 'dr.brenan']: i myself have no one in my life whom i talk to that much. outside of work, i mean. (beat) perhaps that is good.
+nakamura: how so?
+['brennan', 'dr. brennan', 'dr brennan', 'temperance', 'temperance brennan', 'dr. temperance', 'dr temperance', 'dr. temperance brennan', 'dr temperance brennan', 'bones', 'temp', 'dr bones', 'ms. brennan', 'ms brennan', 'brnnan', 'brannan', 'dr.brennan', 'dr.brenan']: i can see how much pain you're in.
+[nakamura looks down.]
+['brennan', 'dr. brennan', 'dr brennan', 'temperance', 'temperance brennan', 'dr. temperance', 'dr temperance', 'dr. temperance brennan', 'dr temperance brennan', 'bones', 'temp', 'dr bones', 'ms. brennan', 'ms brennan', 'brnnan', 'brannan', 'dr.brennan', 'dr.brenan']: is it worth it?
+[nakamura looks back up and frowns.]
+['brennan', 'dr. brennan', 'dr brennan', 'temperance', 'temperance brennan', 'dr. temperance', 'dr temperance', 'dr. temperance brennan', 'dr temperance brennan', 'bones', 'temp', 'dr bones', 'ms. brennan', 'ms brennan', 'brnnan', 'brannan', 'dr.brennan', 'dr.brenan']: to have your own happiness so contingent upon another human being?
+nakamura: if i was willing to give up my life for sachi... why would i not be willing to risk my happiness for her?
+[fade to: int. booth's suv - day. brennan and booth are speaking with cam, hodgins and nakamura on the phone.]
+['cam', 'camille', 'camille saroyan', 'dr. saroyan', 'dr saroyan', 'dr cam', 'dr. cam', 'cam s', 'ms. saroyan', 'ms saroyan', 'dr. camille', 'cammy', 'camil', 'cam saroyan']: hodgins analyzed the water in sachi's lungs.
+['hodgins', 'jack hodgins', 'jack', 'dr. hodgins', 'dr hodgins', 'dr. jack', 'mr. hodgins', 'hodges', 'hodg', 'jack h', 'hodginz', 'dr hodges']: i found dibromides. it's the active ingredient in algaecides used to treat water features.
+['brennan', 'dr. brennan', 'dr brennan', 'temperance', 'temperance brennan', 'dr. temperance', 'dr temperance', 'dr. temperance brennan', 'dr temperance brennan', 'bones', 'temp', 'dr bones', 'ms. brennan', 'ms brennan', 'brnnan', 'brannan', 'dr.brennan', 'dr.brenan']: so the victim wasn't drowned in the salt marshes. she was drowned in a water feature?
+['booth', 'agent booth', 'special agent booth', 'special agent seeley booth', 'seeley', 'seeley booth', 'mr. booth', 'mr booth', 'officer booth', 'boothy', 'boothie', 'bth', 'bohth', 'boof', 'dr. booth']: hey, the photographer has a water thing in his lobby.
+['brennan', 'dr. brennan', 'dr brennan', 'temperance', 'temperance brennan', 'dr. temperance', 'dr temperance', 'dr. temperance brennan', 'dr temperance brennan', 'bones', 'temp', 'dr bones', 'ms. brennan', 'ms brennan', 'brnnan', 'brannan', 'dr.brennan', 'dr.brenan']: (correcting) water feature. water feature.
+['booth', 'agent booth', 'special agent booth', 'special agent seeley booth', 'seeley', 'seeley booth', 'mr. booth', 'mr booth', 'officer booth', 'boothy', 'boothie', 'bth', 'bohth', 'boof', 'dr. booth']: i'm not going to say "feature." it's just weird, okay? i'll say pond or pool.
+['brennan', 'dr. brennan', 'dr brennan', 'temperance', 'temperance brennan', 'dr. temperance', 'dr temperance', 'dr. temperance brennan', 'dr temperance brennan', 'bones', 'temp', 'dr bones', 'ms. brennan', 'ms brennan', 'brnnan', 'brannan', 'dr.brennan', 'dr.brenan']: or thing.
+['booth', 'agent booth', 'special agent booth', 'special agent seeley booth', 'seeley', 'seeley booth', 'mr. booth', 'mr booth', 'officer booth', 'boothy', 'boothie', 'bth', 'bohth', 'boof', 'dr. booth']: all right, wishing well. can we just move on?
+['brennan', 'dr. brennan', 'dr brennan', 'temperance', 'temperance brennan', 'dr. temperance', 'dr temperance', 'dr. temperance brennan', 'dr temperance brennan', 'bones', 'temp', 'dr bones', 'ms. brennan', 'ms brennan', 'brnnan', 'brannan', 'dr.brennan', 'dr.brenan']: hodgins, if we had a sample, could you isolate a single water feature?
+['hodgins', 'jack hodgins', 'jack', 'dr. hodgins', 'dr hodgins', 'dr. jack', 'mr. hodgins', 'hodges', 'hodg', 'jack h', 'hodginz', 'dr hodges']: yeah, i could match profiles.
+nakamura: if you think the photographer is the kill, i want to be there.
+['booth', 'agent booth', 'special agent booth', 'special agent seeley booth', 'seeley', 'seeley booth', 'mr. booth', 'mr booth', 'officer booth', 'boothy', 'boothie', 'bth', 'bohth', 'boof', 'dr. booth']: nak, if you budge from the jeffersonian, i will have you on the first plane back to japan. you understand? you know me. and you know that's true. (hangs up)
+['brennan', 'dr. brennan', 'dr brennan', 'temperance', 'temperance brennan', 'dr. temperance', 'dr temperance', 'dr. temperance brennan', 'dr temperance brennan', 'bones', 'temp', 'dr bones', 'ms. brennan', 'ms brennan', 'brnnan', 'brannan', 'dr.brennan', 'dr.brenan']: you were kind of mean there, booth.
+['booth', 'agent booth', 'special agent booth', 'special agent seeley booth', 'seeley', 'seeley booth', 'mr. booth', 'mr booth', 'officer booth', 'boothy', 'boothie', 'bth', 'bohth', 'boof', 'dr. booth']: the man's in big pain, bones. makes it hard for him to hear.
+['brennan', 'dr. brennan', 'dr brennan', 'temperance', 'temperance brennan', 'dr. temperance', 'dr temperance', 'dr. temperance brennan', 'dr temperance brennan', 'bones', 'temp', 'dr bones', 'ms. brennan', 'ms brennan', 'brnnan', 'brannan', 'dr.brennan', 'dr.brenan']: i've never heard of grief affecting auditory acuteness.
+['booth', 'agent booth', 'special agent booth', 'special agent seeley booth', 'seeley', 'seeley booth', 'mr. booth', 'mr booth', 'officer booth', 'boothy', 'boothie', 'bth', 'bohth', 'boof', 'dr. booth']: medical fact. look it up.
+[cut to: int. micah strutt's studio - day. brennan is collecting water samples from the water feature. booth is questioning strutt.]
+['booth', 'agent booth', 'special agent booth', 'special agent seeley booth', 'seeley', 'seeley booth', 'mr. booth', 'mr booth', 'officer booth', 'boothy', 'boothie', 'bth', 'bohth', 'boof', 'dr. booth']: (to strutt) huh. i thought you only did one shoot with sachi nakamura, huh? (tosses a bunch of photos of sachi onto a stand)
+strutt: okay, look, this is... it's getting totally out of hand. maybe i should get a lawyer.
+['booth', 'agent booth', 'special agent booth', 'special agent seeley booth', 'seeley', 'seeley booth', 'mr. booth', 'mr booth', 'officer booth', 'boothy', 'boothie', 'bth', 'bohth', 'boof', 'dr. booth']: what's your connection with james sok?
+strutt: all i do is give him names, man.
+['brennan', 'dr. brennan', 'dr brennan', 'temperance', 'temperance brennan', 'dr. temperance', 'dr temperance', 'dr. temperance brennan', 'dr temperance brennan', 'bones', 'temp', 'dr bones', 'ms. brennan', 'ms brennan', 'brnnan', 'brannan', 'dr.brennan', 'dr.brenan']: what names?
+strutt: names of girls who don't mind doing nude shots.
+['booth', 'agent booth', 'special agent booth', 'special agent seeley booth', 'seeley', 'seeley booth', 'mr. booth', 'mr booth', 'officer booth', 'boothy', 'boothie', 'bth', 'bohth', 'boof', 'dr. booth']: oh, a finder's fee?
+strutt: yeah.
+['booth', 'agent booth', 'special agent booth', 'special agent seeley booth', 'seeley', 'seeley booth', 'mr. booth', 'mr booth', 'officer booth', 'boothy', 'boothie', 'bth', 'bohth', 'boof', 'dr. booth']: yeah.
+strutt: but i mean, that's all.
+['booth', 'agent booth', 'special agent booth', 'special agent seeley booth', 'seeley', 'seeley booth', 'mr. booth', 'mr booth', 'officer booth', 'boothy', 'boothie', 'bth', 'bohth', 'boof', 'dr. booth']: right, but you do know what james sok does with these girls, right?
+strutt: i mind my own business.
+['booth', 'agent booth', 'special agent booth', 'special agent seeley booth', 'seeley', 'seeley booth', 'mr. booth', 'mr booth', 'officer booth', 'boothy', 'boothie', 'bth', 'bohth', 'boof', 'dr. booth']: he's a pimp. (taps strutt on the chest) which makes you a pimp, too. what about sachi?
+strutt: she wouldn't pose nude.
+['brennan', 'dr. brennan', 'dr brennan', 'temperance', 'temperance brennan', 'dr. temperance', 'dr temperance', 'dr. temperance brennan', 'dr temperance brennan', 'bones', 'temp', 'dr bones', 'ms. brennan', 'ms brennan', 'brnnan', 'brannan', 'dr.brennan', 'dr.brenan']: what about these photos?
+strutt: what? it's a style, man. look, i got the releases that she signed before we even did it. you want to see 'em?
+['brennan', 'dr. brennan', 'dr brennan', 'temperance', 'temperance brennan', 'dr. temperance', 'dr temperance', 'dr. temperance brennan', 'dr temperance brennan', 'bones', 'temp', 'dr bones', 'ms. brennan', 'ms brennan', 'brnnan', 'brannan', 'dr.brennan', 'dr.brenan']: yes. thank you.
+[cut to: medico-legal lab - examination room - day. tanaka is examining the victim's bones. nakamura is observing. enter hodgins.]
+['hodgins', 'jack hodgins', 'jack', 'dr. hodgins', 'dr hodgins', 'dr. jack', 'mr. hodgins', 'hodges', 'hodg', 'jack h', 'hodginz', 'dr hodges']: the water at the photographer's studio uses chlorine.
+nakamura: so sachi was not drowned there?
+['hodgins', 'jack hodgins', 'jack', 'dr. hodgins', 'dr hodgins', 'dr. jack', 'mr. hodgins', 'hodges', 'hodg', 'jack h', 'hodginz', 'dr hodges']: no, sir.
+nakamura: you should inform dr. saroyan.
+hodgins yeah, i already have. i just thought if i were you, i'd want to hear everything from the horse's mouth.
+nakamura: thank you, dr. hodgins. (bows)
+['hodgins', 'jack hodgins', 'jack', 'dr. hodgins', 'dr hodgins', 'dr. jack', 'mr. hodgins', 'hodges', 'hodg', 'jack h', 'hodginz', 'dr hodges']: (to tanaka) any luck with the microsil?
+tanaka: yes. i believe your partly chinese woman will be able to reconstruct the tool used to decapitate the victim.
+[enter angela.]
+['angela', 'angela montenegro', 'ms. montenegro', 'ms montenegro', 'ang', 'ange', 'an', 'a.montenegro', 'angella', 'angla', 'angelina', 'miss montenegro', 'angela m', 'dr. angela']: uh, excuse me. hi. i heard that.
+nakamura: dr. tanaka means no offense. in japanese, that would not sound so insulting.
+tanaka: i will complete my work and give you the results.
+[exit tanaka and hodgins.]
+['angela', 'angela montenegro', 'ms. montenegro', 'ms montenegro', 'ang', 'ange', 'an', 'a.montenegro', 'angella', 'angla', 'angelina', 'miss montenegro', 'angela m', 'dr. angela']: (to nakamura) so, how are you holding up?
+nakamura: i should have known the life she was living.
+['angela', 'angela montenegro', 'ms. montenegro', 'ms montenegro', 'ang', 'ange', 'an', 'a.montenegro', 'angella', 'angla', 'angelina', 'miss montenegro', 'angela m', 'dr. angela']: (sighs) listen, your sister wasn't a prostitute. her roommate was.
+nakamura: (nods) it was a warning.
+['angela', 'angela montenegro', 'ms. montenegro', 'ms montenegro', 'ang', 'ange', 'an', 'a.montenegro', 'angella', 'angla', 'angelina', 'miss montenegro', 'angela m', 'dr. angela']: what was?
+nakamura: putting sachi's head on the spike. in feudal japan, a traitor's head was placed on a pole as a warning that others should fear the warlords.
+['angela', 'angela montenegro', 'ms. montenegro', 'ms montenegro', 'ang', 'ange', 'an', 'a.montenegro', 'angella', 'angla', 'angelina', 'miss montenegro', 'angela m', 'dr. angela']: right. and she was wearing her roommate nozomi's mask.
+nakamura: yes. because the warning was meant for nozomi. nozomi sees the head and knows she must run.
+['angela', 'angela montenegro', 'ms. montenegro', 'ms montenegro', 'ang', 'ange', 'an', 'a.montenegro', 'angella', 'angla', 'angelina', 'miss montenegro', 'angela m', 'dr. angela']: and she disposes of it so that no one will think that she kill sachi.
+nakamura: (nods) but what did my sister do? (beat) if sachi was a good girl... (touches the top of sachi's skull) what did she do to get kill?
+[nakamura picks up a small cloth and drapes it over sachi's bones. angela gives nakamura a sympathetic look and leaves.]
+[cut to: int. fbi building - hallway - day. booth and sweets are walking toward the interrogation room.]
+['booth', 'agent booth', 'special agent booth', 'special agent seeley booth', 'seeley', 'seeley booth', 'mr. booth', 'mr booth', 'officer booth', 'boothy', 'boothie', 'bth', 'bohth', 'boof', 'dr. booth']: picked up her roommate trying to leave the country. she's still pretty freaked out.
+['sweets', 'dr. sweets', 'dr sweets', 'lance', 'lance sweets', 'dr. lance', 'dr lance sweets', 'dr lance', 'agent sweets', 'doc sweets', 'l.sweets']: she saw her best friend's head on a spike. trauma like that could take years to assimilate.
+['booth', 'agent booth', 'special agent booth', 'special agent seeley booth', 'seeley', 'seeley booth', 'mr. booth', 'mr booth', 'officer booth', 'boothy', 'boothie', 'bth', 'bohth', 'boof', 'dr. booth']: yeah, we don't have years, okay? (taps sweets on the back) so get in there and work your magic, all right? go.
+[sweets shoot booth a disgruntled look, then enters the interrogation room. nozomi sato is sitting at the table, extremely anxious. booth watches from behind the glass. sweets sits down opposite nozomi, who turns away.]
+['sweets', 'dr. sweets', 'dr sweets', 'lance', 'lance sweets', 'dr. lance', 'dr lance sweets', 'dr lance', 'agent sweets', 'doc sweets', 'l.sweets']: (exhales and clasps his hands together) we'll keep you safe, nozomi. you don't have to worry.
+[nozomi, terrified, says nothing.]
+['sweets', 'dr. sweets', 'dr sweets', 'lance', 'lance sweets', 'dr. lance', 'dr lance sweets', 'dr lance', 'agent sweets', 'doc sweets', 'l.sweets']: can i get you anything?
+[nozomi remains silent.]
+['sweets', 'dr. sweets', 'dr sweets', 'lance', 'lance sweets', 'dr. lance', 'dr lance sweets', 'dr lance', 'agent sweets', 'doc sweets', 'l.sweets']: (sighs) look, i know you feel alone. you think that no one else could understand what you went through. and no one could. but that doesn't mean that you can't be helped. we can prevent anything like this from happening again, to you or anyone else. if you tell us who did this, nozomi, we can protect you. and we'll make sure that you get home safely.
+[nozomi still does not respond. finally, sweets rises from his seat and faces the window. from the other side, booth sees sweets and understands.]
+[cut to: int. medico-legal lab - angela's office - day. brennan, angela and tanaka enter.]
+['angela', 'angela montenegro', 'ms. montenegro', 'ms montenegro', 'ang', 'ange', 'an', 'a.montenegro', 'angella', 'angla', 'angelina', 'miss montenegro', 'angela m', 'dr. angela']: we got the general shape from dr. tanaka's cast, but we still need to fill in the details.
+['brennan', 'dr. brennan', 'dr brennan', 'temperance', 'temperance brennan', 'dr. temperance', 'dr temperance', 'dr. temperance brennan', 'dr temperance brennan', 'bones', 'temp', 'dr bones', 'ms. brennan', 'ms brennan', 'brnnan', 'brannan', 'dr.brennan', 'dr.brenan']: does the basic shape resemble a katana sword or a japanese dough knife?
+['angela', 'angela montenegro', 'ms. montenegro', 'ms montenegro', 'ang', 'ange', 'an', 'a.montenegro', 'angella', 'angla', 'angelina', 'miss montenegro', 'angela m', 'dr. angela']: (sits down at her computer) well, it's too early to say.
+tanaka: the prominent residual striae indicate that a power tool was not used and that the blade was curved.
+['brennan', 'dr. brennan', 'dr brennan', 'temperance', 'temperance brennan', 'dr. temperance', 'dr temperance', 'dr. temperance brennan', 'dr temperance brennan', 'bones', 'temp', 'dr bones', 'ms. brennan', 'ms brennan', 'brnnan', 'brannan', 'dr.brennan', 'dr.brenan']: it has a combination of serrated and plain edging.
+['angela', 'angela montenegro', 'ms. montenegro', 'ms montenegro', 'ang', 'ange', 'an', 'a.montenegro', 'angella', 'angla', 'angelina', 'miss montenegro', 'angela m', 'dr. angela']: all right, so, there goes the katana sword.
+['brennan', 'dr. brennan', 'dr brennan', 'temperance', 'temperance brennan', 'dr. temperance', 'dr temperance', 'dr. temperance brennan', 'dr temperance brennan', 'bones', 'temp', 'dr bones', 'ms. brennan', 'ms brennan', 'brnnan', 'brannan', 'dr.brennan', 'dr.brenan']: from the breakaway spur, i could see that there are approximately six teeth per inch on the serrated section.
+['angela', 'angela montenegro', 'ms. montenegro', 'ms montenegro', 'ang', 'ange', 'an', 'a.montenegro', 'angella', 'angla', 'angelina', 'miss montenegro', 'angela m', 'dr. angela']: okay, anything else?
+['brennan', 'dr. brennan', 'dr brennan', 'temperance', 'temperance brennan', 'dr. temperance', 'dr temperance', 'dr. temperance brennan', 'dr temperance brennan', 'bones', 'temp', 'dr bones', 'ms. brennan', 'ms brennan', 'brnnan', 'brannan', 'dr.brennan', 'dr.brenan']: there also appears to be something that catches on the bone as it's pulled back, like a hook near the blade's point.
+['angela', 'angela montenegro', 'ms. montenegro', 'ms montenegro', 'ang', 'ange', 'an', 'a.montenegro', 'angella', 'angla', 'angelina', 'miss montenegro', 'angela m', 'dr. angela']: ooh, that's good.
+[angela enters the specifics and an image of a knife appears on screen.]
+tanaka: i've never seen a knife like that. perhaps there was an error in the topography of my mold.
+['brennan', 'dr. brennan', 'dr brennan', 'temperance', 'temperance brennan', 'dr. temperance', 'dr temperance', 'dr. temperance brennan', 'dr temperance brennan', 'bones', 'temp', 'dr bones', 'ms. brennan', 'ms brennan', 'brnnan', 'brannan', 'dr.brennan', 'dr.brenan']: no, i've seen this knife before. it's a marine knife. (pointing) the hook is used for cutting line and cord.
+['angela', 'angela montenegro', 'ms. montenegro', 'ms montenegro', 'ang', 'ange', 'an', 'a.montenegro', 'angella', 'angla', 'angelina', 'miss montenegro', 'angela m', 'dr. angela']: wait a minute. james sok, the owner of elegant escorts, doesn't he live on a boat?
+[cut to: int. fbi building - interrogation room - day. booth and brennan are questioning sok. nakamura is observing from behind the glass. an agent enters with evidence bags and hands them to brennan.]
+['booth', 'agent booth', 'special agent booth', 'special agent seeley booth', 'seeley', 'seeley booth', 'mr. booth', 'mr booth', 'officer booth', 'boothy', 'boothie', 'bth', 'bohth', 'boof', 'dr. booth']: so what was it, sok? you wanted to keep, uh, nozomi in line, so you used sachi as an example? sachi, she doesn't even work for you.
+sok: (to brennan) where did you get that?
+['brennan', 'dr. brennan', 'dr brennan', 'temperance', 'temperance brennan', 'dr. temperance', 'dr temperance', 'dr. temperance brennan', 'dr temperance brennan', 'bones', 'temp', 'dr bones', 'ms. brennan', 'ms brennan', 'brnnan', 'brannan', 'dr.brennan', 'dr.brenan']: (takes knife out of evidence bag) we have a search warrant. these were taken from your boat. (beat) the serrations are consistent with the tool markings on the bone.
+sok: i didn't kill anyone.
+['booth', 'agent booth', 'special agent booth', 'special agent seeley booth', 'seeley', 'seeley booth', 'mr. booth', 'mr booth', 'officer booth', 'boothy', 'boothie', 'bth', 'bohth', 'boof', 'dr. booth']: then you're going to have to explain why there's blood on your knife.
+[brennan swabs sok's knife and sprays the swab with a chemical. nothing happens.]
+['brennan', 'dr. brennan', 'dr brennan', 'temperance', 'temperance brennan', 'dr. temperance', 'dr temperance', 'dr. temperance brennan', 'dr temperance brennan', 'bones', 'temp', 'dr bones', 'ms. brennan', 'ms brennan', 'brnnan', 'brannan', 'dr.brennan', 'dr.brenan']: it's clean.
+['booth', 'agent booth', 'special agent booth', 'special agent seeley booth', 'seeley', 'seeley booth', 'mr. booth', 'mr booth', 'officer booth', 'boothy', 'boothie', 'bth', 'bohth', 'boof', 'dr. booth']: what?
+['brennan', 'dr. brennan', 'dr brennan', 'temperance', 'temperance brennan', 'dr. temperance', 'dr temperance', 'dr. temperance brennan', 'dr temperance brennan', 'bones', 'temp', 'dr bones', 'ms. brennan', 'ms brennan', 'brnnan', 'brannan', 'dr.brennan', 'dr.brenan']: there's no blood on the knife.
+['booth', 'agent booth', 'special agent booth', 'special agent seeley booth', 'seeley', 'seeley booth', 'mr. booth', 'mr booth', 'officer booth', 'boothy', 'boothie', 'bth', 'bohth', 'boof', 'dr. booth']: yeah, well, i'm sure there's another knife. we'll just tear your place apart until we find one, that's all.
+[brennan swabs the inside of the sheath. the swab changes color.]
+['brennan', 'dr. brennan', 'dr brennan', 'temperance', 'temperance brennan', 'dr. temperance', 'dr temperance', 'dr. temperance brennan', 'dr temperance brennan', 'bones', 'temp', 'dr bones', 'ms. brennan', 'ms brennan', 'brnnan', 'brannan', 'dr.brennan', 'dr.brenan']: booth? (holding up swab) he didn't clean the sheath.
+['booth', 'agent booth', 'special agent booth', 'special agent seeley booth', 'seeley', 'seeley booth', 'mr. booth', 'mr booth', 'officer booth', 'boothy', 'boothie', 'bth', 'bohth', 'boof', 'dr. booth']: hah. look at that, huh. why don't you just save the taxpayers some money and confess.
+sok: why don't you offer me a deal instead?
+['booth', 'agent booth', 'special agent booth', 'special agent seeley booth', 'seeley', 'seeley booth', 'mr. booth', 'mr booth', 'officer booth', 'boothy', 'boothie', 'bth', 'bohth', 'boof', 'dr. booth']: you're really in no bargaining position right now, mr. sok. evidence proves that you kill sachi.
+['brennan', 'dr. brennan', 'dr brennan', 'temperance', 'temperance brennan', 'dr. temperance', 'dr temperance', 'dr. temperance brennan', 'dr temperance brennan', 'bones', 'temp', 'dr bones', 'ms. brennan', 'ms brennan', 'brnnan', 'brannan', 'dr.brennan', 'dr.brenan']: no, it doesn't. it proves that he cut off her head. she died by drowning.
+sok: very good. sachi stuck her nose in where it didn't belong. if you want to know who kill her, you'll cut me a deal.
+['booth', 'agent booth', 'special agent booth', 'special agent seeley booth', 'seeley', 'seeley booth', 'mr. booth', 'mr booth', 'officer booth', 'boothy', 'boothie', 'bth', 'bohth', 'boof', 'dr. booth']: huh. right. (grabs sok by the collar, furious) you cut off her head (slams sok into the wall) and you stuck it on a spike to keep your girls in line, and you want me to cut you a deal?
+sok: yeah, that's right.
+[after a few tense moments, booth releases sok and storms off.]
+[cut to: int. fbi building - interrogation observation room - day. nakamura has been watching the interrogation from behind the glass. enter booth.]
+['booth', 'agent booth', 'special agent booth', 'special agent seeley booth', 'seeley', 'seeley booth', 'mr. booth', 'mr booth', 'officer booth', 'boothy', 'boothie', 'bth', 'bohth', 'boof', 'dr. booth']: what do you want to do, nak?
+nakamura: i want to kill him.
+['booth', 'agent booth', 'special agent booth', 'special agent seeley booth', 'seeley', 'seeley booth', 'mr. booth', 'mr booth', 'officer booth', 'boothy', 'boothie', 'bth', 'bohth', 'boof', 'dr. booth']: look, he could give us sachi's murder.
+nakamura: and then he goes free. the man who put my sister's head on a spike.
+['booth', 'agent booth', 'special agent booth', 'special agent seeley booth', 'seeley', 'seeley booth', 'mr. booth', 'mr booth', 'officer booth', 'boothy', 'boothie', 'bth', 'bohth', 'boof', 'dr. booth']: if i don't cut this deal, then... her murder could walk.
+nakamura: this is your case, booth. what i want doesn't matter.
+['booth', 'agent booth', 'special agent booth', 'special agent seeley booth', 'seeley', 'seeley booth', 'mr. booth', 'mr booth', 'officer booth', 'boothy', 'boothie', 'bth', 'bohth', 'boof', 'dr. booth']: to me it does. and it would to sachi.
+nakamura: (after a long pause) cut the deal.
+[booth pats nakamura on the shoulder and leaves.]
+[cut to: int. fbi building - interrogation room - day. sok is confessing to booth and brennan.]
+sok: paul vogler. he was a good customer. one of my best. always wanted nozomi. but he liked to get rough. sometimes maybe too rough.
+[cut to: int. fbi building - hallway - day. vogler is being taken in by booth and nakamura.]
+sok: (voice over) one day, that girl sachi barges into vogler's place, screaming, saying she was going to call her cop brother if vogler ever touched her friend nozomi again. vogler pushes her into his koi pond, holds her down, just to shut her up. idiot kill her. he paid me to clean up the mess. so yeah, i put the girl's head in nozomi's apartment. and nozomi took off, like i knew she would. i had a business to save. but i didn't kill anyone. it was vogler.
+[vogler and booth enter the interrogation room. nakamura remains outside and hangs his head.]
+[cut to: int. medico-legal lab - examination room - day. nakamura is standing in front of sachi's coffin. he lights incense in honor of his sister. he blows it out just as booth and brennan enter.]
+['booth', 'agent booth', 'special agent booth', 'special agent seeley booth', 'seeley', 'seeley booth', 'mr. booth', 'mr booth', 'officer booth', 'boothy', 'boothie', 'bth', 'bohth', 'boof', 'dr. booth']: hey, nak. (beat) nozomi's been cleared to leave by immigration.
+nakamura: i will see that she gets home safely.
+['booth', 'agent booth', 'special agent booth', 'special agent seeley booth', 'seeley', 'seeley booth', 'mr. booth', 'mr booth', 'officer booth', 'boothy', 'boothie', 'bth', 'bohth', 'boof', 'dr. booth']: thank you, nak.
+nakamura: and sachi can rest with our parents. if the teachings are correct, she will be reborn, and sok and vogler will have to answer for their actions.
+['brennan', 'dr. brennan', 'dr brennan', 'temperance', 'temperance brennan', 'dr. temperance', 'dr temperance', 'dr. temperance brennan', 'dr temperance brennan', 'bones', 'temp', 'dr bones', 'ms. brennan', 'ms brennan', 'brnnan', 'brannan', 'dr.brennan', 'dr.brenan']: that... is highly improbable.
+[booth looks at brennan.]
+['brennan', 'dr. brennan', 'dr brennan', 'temperance', 'temperance brennan', 'dr. temperance', 'dr temperance', 'dr. temperance brennan', 'dr temperance brennan', 'bones', 'temp', 'dr bones', 'ms. brennan', 'ms brennan', 'brnnan', 'brannan', 'dr.brennan', 'dr.brenan']: but i hope that it's true.
+nakamura: i am forever in your debt. (bows)
+[booth and brennan bow. booth approaches nakamura and extends his hand.]
+['booth', 'agent booth', 'special agent booth', 'special agent seeley booth', 'seeley', 'seeley booth', 'mr. booth', 'mr booth', 'officer booth', 'boothy', 'boothie', 'bth', 'bohth', 'boof', 'dr. booth']: my friend, one of those good japanese beers will be just fine.
+['brennan', 'dr. brennan', 'dr brennan', 'temperance', 'temperance brennan', 'dr. temperance', 'dr temperance', 'dr. temperance brennan', 'dr temperance brennan', 'bones', 'temp', 'dr bones', 'ms. brennan', 'ms brennan', 'brnnan', 'brannan', 'dr.brennan', 'dr.brenan']: oh, i prefer sake.
+[booth and nakamura turn to look at her.]
+['brennan', 'dr. brennan', 'dr brennan', 'temperance', 'temperance brennan', 'dr. temperance', 'dr temperance', 'dr. temperance brennan', 'dr temperance brennan', 'bones', 'temp', 'dr bones', 'ms. brennan', 'ms brennan', 'brnnan', 'brannan', 'dr.brennan', 'dr.brenan']: (quietly) sake.
+['booth', 'agent booth', 'special agent booth', 'special agent seeley booth', 'seeley', 'seeley booth', 'mr. booth', 'mr booth', 'officer booth', 'boothy', 'boothie', 'bth', 'bohth', 'boof', 'dr. booth']: (shaking nakamura's hand) we'll let you know when it's time to go, okay?
+[nakamura nods. exit booth and brennan. nakamura returns to the coffin and draws his hands together in prayer.]
+[cut to: int. medico-legal lab - examination platform - day. tanaka is packing up her tools. enter hodgins, angela, cam and sweets, who observe from afar.]
+['hodgins', 'jack hodgins', 'jack', 'dr. hodgins', 'dr hodgins', 'dr. jack', 'mr. hodgins', 'hodges', 'hodg', 'jack h', 'hodginz', 'dr hodges']: so... no one asked tanaka?
+['sweets', 'dr. sweets', 'dr sweets', 'lance', 'lance sweets', 'dr. lance', 'dr lance sweets', 'dr lance', 'agent sweets', 'doc sweets', 'l.sweets']: it doesn't matter, remember?
+['hodgins', 'jack hodgins', 'jack', 'dr. hodgins', 'dr hodgins', 'dr. jack', 'mr. hodgins', 'hodges', 'hodg', 'jack h', 'hodginz', 'dr hodges']: yeah, yeah. no, i know.
+['cam', 'camille', 'camille saroyan', 'dr. saroyan', 'dr saroyan', 'dr cam', 'dr. cam', 'cam s', 'ms. saroyan', 'ms saroyan', 'dr. camille', 'cammy', 'camil', 'cam saroyan']: it's tanaka's life. we are not children.
+['sweets', 'dr. sweets', 'dr sweets', 'lance', 'lance sweets', 'dr. lance', 'dr lance sweets', 'dr lance', 'agent sweets', 'doc sweets', 'l.sweets']: very good.
+['angela', 'angela montenegro', 'ms. montenegro', 'ms montenegro', 'ang', 'ange', 'an', 'a.montenegro', 'angella', 'angla', 'angelina', 'miss montenegro', 'angela m', 'dr. angela']: oh, this is ridiculous. (sighs and approaches tanaka) hey, haru. it was great working with you. i hope to see you again soon.
+[angela envelopes tanaka in a tight hug. hodgins, cam and sweets look away. after a few moments, angela releases tanaka and smiles.]
+['angela', 'angela montenegro', 'ms. montenegro', 'ms montenegro', 'ang', 'ange', 'an', 'a.montenegro', 'angella', 'angla', 'angelina', 'miss montenegro', 'angela m', 'dr. angela']: okay, then. have a great trip back.
+[tanaka bows.]
+['angela', 'angela montenegro', 'ms. montenegro', 'ms montenegro', 'ang', 'ange', 'an', 'a.montenegro', 'angella', 'angla', 'angelina', 'miss montenegro', 'angela m', 'dr. angela']: okay.
+[tanaka continues packing. angela returns to where hodgins, cam and sweets are standing.]
+['angela', 'angela montenegro', 'ms. montenegro', 'ms montenegro', 'ang', 'ange', 'an', 'a.montenegro', 'angella', 'angla', 'angelina', 'miss montenegro', 'angela m', 'dr. angela']: it moved. he's a guy.
+[everyone reacts.]
+['angela', 'angela montenegro', 'ms. montenegro', 'ms montenegro', 'ang', 'ange', 'an', 'a.montenegro', 'angella', 'angla', 'angelina', 'miss montenegro', 'angela m', 'dr. angela']: yeah.
+[cut to: booth's apartment - night. brennan is sitting at the table. booth carries over a banana split.]
+['booth', 'agent booth', 'special agent booth', 'special agent seeley booth', 'seeley', 'seeley booth', 'mr. booth', 'mr booth', 'officer booth', 'boothy', 'boothie', 'bth', 'bohth', 'boof', 'dr. booth']: there, huh? eh-hey! it's good for what ails you.
+['brennan', 'dr. brennan', 'dr brennan', 'temperance', 'temperance brennan', 'dr. temperance', 'dr temperance', 'dr. temperance brennan', 'dr temperance brennan', 'bones', 'temp', 'dr bones', 'ms. brennan', 'ms brennan', 'brnnan', 'brannan', 'dr.brennan', 'dr.brenan']: usually in this situation, we'd have alcohol.
+['booth', 'agent booth', 'special agent booth', 'special agent seeley booth', 'seeley', 'seeley booth', 'mr. booth', 'mr booth', 'officer booth', 'boothy', 'boothie', 'bth', 'bohth', 'boof', 'dr. booth']: which is exactly why we should do this, okay, from time to time. (scoops up a spoonful of ice cream and moves it toward brennan's face while making airplane noises)
+['brennan', 'dr. brennan', 'dr brennan', 'temperance', 'temperance brennan', 'dr. temperance', 'dr temperance', 'dr. temperance brennan', 'dr temperance brennan', 'bones', 'temp', 'dr bones', 'ms. brennan', 'ms brennan', 'brnnan', 'brannan', 'dr.brennan', 'dr.brenan']: (chuckles) oh, no. (eats the ice cream fed to her by booth.)
+['booth', 'agent booth', 'special agent booth', 'special agent seeley booth', 'seeley', 'seeley booth', 'mr. booth', 'mr booth', 'officer booth', 'boothy', 'boothie', 'bth', 'bohth', 'boof', 'dr. booth']: yum, hmm? here you go.
+['brennan', 'dr. brennan', 'dr brennan', 'temperance', 'temperance brennan', 'dr. temperance', 'dr temperance', 'dr. temperance brennan', 'dr temperance brennan', 'bones', 'temp', 'dr bones', 'ms. brennan', 'ms brennan', 'brnnan', 'brannan', 'dr.brennan', 'dr.brenan']: will he recover? your friend ken?
+['booth', 'agent booth', 'special agent booth', 'special agent seeley booth', 'seeley', 'seeley booth', 'mr. booth', 'mr booth', 'officer booth', 'boothy', 'boothie', 'bth', 'bohth', 'boof', 'dr. booth']: from losing his sister? um... well, you don't recover from something like that. you just survive.
+['brennan', 'dr. brennan', 'dr brennan', 'temperance', 'temperance brennan', 'dr. temperance', 'dr temperance', 'dr. temperance brennan', 'dr temperance brennan', 'bones', 'temp', 'dr bones', 'ms. brennan', 'ms brennan', 'brnnan', 'brannan', 'dr.brennan', 'dr.brenan']: people die. there's a fault in the design if we can't recover from it.
+['booth', 'agent booth', 'special agent booth', 'special agent seeley booth', 'seeley', 'seeley booth', 'mr. booth', 'mr booth', 'officer booth', 'boothy', 'boothie', 'bth', 'bohth', 'boof', 'dr. booth']: "fault in the design?" what are we, coffee pots?
+['brennan', 'dr. brennan', 'dr brennan', 'temperance', 'temperance brennan', 'dr. temperance', 'dr temperance', 'dr. temperance brennan', 'dr temperance brennan', 'bones', 'temp', 'dr bones', 'ms. brennan', 'ms brennan', 'brnnan', 'brannan', 'dr.brennan', 'dr.brenan']: no, i just mean that we should be designed so that we can handle the worst.
+['booth', 'agent booth', 'special agent booth', 'special agent seeley booth', 'seeley', 'seeley booth', 'mr. booth', 'mr booth', 'officer booth', 'boothy', 'boothie', 'bth', 'bohth', 'boof', 'dr. booth']: we are designed that way. we aren't sent anything that we can't handle.
+['brennan', 'dr. brennan', 'dr brennan', 'temperance', 'temperance brennan', 'dr. temperance', 'dr temperance', 'dr. temperance brennan', 'dr temperance brennan', 'bones', 'temp', 'dr bones', 'ms. brennan', 'ms brennan', 'brnnan', 'brannan', 'dr.brennan', 'dr.brenan']: i'm not convinced that loving someone is worth it.
+['booth', 'agent booth', 'special agent booth', 'special agent seeley booth', 'seeley', 'seeley booth', 'mr. booth', 'mr booth', 'officer booth', 'boothy', 'boothie', 'bth', 'bohth', 'boof', 'dr. booth']: i got a son, and it's worth it.
+['brennan', 'dr. brennan', 'dr brennan', 'temperance', 'temperance brennan', 'dr. temperance', 'dr temperance', 'dr. temperance brennan', 'dr temperance brennan', 'bones', 'temp', 'dr bones', 'ms. brennan', 'ms brennan', 'brnnan', 'brannan', 'dr.brennan', 'dr.brenan']: even if he died?
+['booth', 'agent booth', 'special agent booth', 'special agent seeley booth', 'seeley', 'seeley booth', 'mr. booth', 'mr booth', 'officer booth', 'boothy', 'boothie', 'bth', 'bohth', 'boof', 'dr. booth']: whoa. bones, don't even say anything like that. don't even put that out there. it is worth it, and everything around it is worth it. (beat) every moment, everything... is worth it, so eat the ice cream before it melts.
+['brennan', 'dr. brennan', 'dr brennan', 'temperance', 'temperance brennan', 'dr. temperance', 'dr temperance', 'dr. temperance brennan', 'dr temperance brennan', 'bones', 'temp', 'dr bones', 'ms. brennan', 'ms brennan', 'brnnan', 'brannan', 'dr.brennan', 'dr.brenan']: (eats a spoonful of ice cream and frowns) i wish it was beer.
+['booth', 'agent booth', 'special agent booth', 'special agent seeley booth', 'seeley', 'seeley booth', 'mr. booth', 'mr booth', 'officer booth', 'boothy', 'boothie', 'bth', 'bohth', 'boof', 'dr. booth']: right. (gets up and moves to his fridge) you know what? (takes two beers out of the fridge) okay. (places the beers on the table and opens them) you're right.
+['brennan', 'dr. brennan', 'dr brennan', 'temperance', 'temperance brennan', 'dr. temperance', 'dr temperance', 'dr. temperance brennan', 'dr temperance brennan', 'bones', 'temp', 'dr bones', 'ms. brennan', 'ms brennan', 'brnnan', 'brannan', 'dr.brennan', 'dr.brenan']: (takes a beer) now, this is what i'm talking about.
+['booth', 'agent booth', 'special agent booth', 'special agent seeley booth', 'seeley', 'seeley booth', 'mr. booth', 'mr booth', 'officer booth', 'boothy', 'boothie', 'bth', 'bohth', 'boof', 'dr. booth']: good. we agree to understand that this is worth it.
+[brennan and booth drink their beers.]
+[fade to black.]
+end
