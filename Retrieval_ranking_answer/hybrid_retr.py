@@ -1,5 +1,7 @@
-from semantic_retr_colbertv2 import ColBERTReranker
-from lexical_retr_spladev3 import SpladeRetriever
+#from semantic_retr_colbertv2 import ColBERTReranker
+from Retrieval_ranking_answer.semantic_retr_colbertv2 import ColBERTReranker
+#from lexical_retr_spladev3 import SpladeRetriever
+from Retrieval_ranking_answer.lexical_retr_spladev3 import SpladeRetriever
 from transformers import AutoTokenizer, AutoModelForCausalLM
 import torch
 from dotenv import load_dotenv
