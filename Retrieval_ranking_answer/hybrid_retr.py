@@ -1,7 +1,10 @@
-#from semantic_retr_colbertv2 import ColBERTReranker
+# using relative imports
+#from .semantic_retr_colbertv2 import ColBERTReranker
+#from .lexical_retr_spladev3 import SpladeRetriever
+
 from Retrieval_ranking_answer.semantic_retr_colbertv2 import ColBERTReranker
-#from lexical_retr_spladev3 import SpladeRetriever
 from Retrieval_ranking_answer.lexical_retr_spladev3 import SpladeRetriever
+
 from transformers import AutoTokenizer, AutoModelForCausalLM
 import torch
 from dotenv import load_dotenv
@@ -58,8 +61,9 @@ class HybridRetriever:
                 **inputs,
                 max_new_tokens=256,
                 do_sample=True,
-                temperature=0.7,
-                top_p=0.9,
+                temperature=0.2,
+                repetition_penalty=1.1,
+                top_p=0.8,
                 eos_token_id=self.llm_tokenizer.eos_token_id,
             )
         response = self.llm_tokenizer.decode(output[0], skip_special_tokens=True)

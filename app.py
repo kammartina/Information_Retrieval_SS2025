@@ -12,8 +12,8 @@ sys.path.append(os.path.abspath("."))
 try:
     from Retrieval_ranking_answer.hybrid_retr import HybridRetriever
     st.success("HybridRetriever imported successfully!")
-    # Example usage to avoid "not accessed" warning
     hybrid_retriever_instance = HybridRetriever()
+    hybrid_retriever_instance.load_llm()
 except Exception as e:
     st.error(f"Error importing HybridRetriever: {e}")
 
@@ -24,5 +24,17 @@ query = st.text_input("Enter your query:")
 
 if query:
     st.write(f"You asked: {query}")
+    
+    with st.spinner("Retrieving and generating answer..."):
+        try:
+            results = hybrid_retriever_instance.search(query)
+            if results:
+                answer = hybrid_retriever_instance.generate_answer(query, results)
+                st.subheader("🧠 Answer:")
+                st.write(answer)
+            else:
+                st.warning("No results found. Please try another query.")
+        except Exception as e:
+            st.error(f"Error generating answer: {e}")
 else:
     st.info("Please enter a query above to get started.")
