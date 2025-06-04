@@ -1,7 +1,3 @@
-# using relative imports
-#from .semantic_retr_colbertv2 import ColBERTReranker
-#from .lexical_retr_spladev3 import SpladeRetriever
-
 from Retrieval_ranking_answer.semantic_retr_colbertv2 import ColBERTReranker
 from Retrieval_ranking_answer.lexical_retr_spladev3 import SpladeRetriever
 
@@ -70,7 +66,7 @@ class HybridRetriever:
         return response.split("<|assistant|>")[-1].strip()
     ##
 
-
+'''
 if __name__ == "__main__":
     load_dotenv()
     retriever = HybridRetriever()
@@ -87,3 +83,4 @@ if __name__ == "__main__":
     answer = retriever.generate_answer(query, results)
     print("\n🧠 Generated Answer:")
     print(answer)
+'''

@@ -1,3 +1,7 @@
+### Using Streamlit for basic user interface for a hybrid RAG system
+# 
+# This code sets up a Streamlit app for a our hybrid RAG system with very basic user interface
+
 import os
 import sys
 import streamlit as st
@@ -8,7 +12,7 @@ st.set_page_config(page_title="Hybrid RAG System", layout="wide")
 # Add project root to sys.path for imports
 sys.path.append(os.path.abspath("."))
 
-# Try to import HybridRetriever with error handling
+# Try to import HybridRetriever with error handling (from "hybrid_retr.py")
 try:
     from Retrieval_ranking_answer.hybrid_retr import HybridRetriever
     st.success("HybridRetriever imported successfully!")
@@ -18,7 +22,7 @@ except Exception as e:
     st.error(f"Error importing HybridRetriever: {e}")
 
 # Streamlit app layout
-st.title("🔍 Hybrid RAG System")
+st.title("🔍 Hybrid Bones RAG System")
 
 query = st.text_input("Enter your query:")
 
