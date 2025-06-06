@@ -34,9 +34,9 @@ class HybridRetriever:
 
     def load_llm(self):
         print("Loading TinyLlama model...")
-        self.llm_tokenizer = AutoTokenizer.from_pretrained("TinyLlama/TinyLlama-1.1B-Chat-v0.6")
+        self.llm_tokenizer = AutoTokenizer.from_pretrained("TinyLlama/TinyLlama-1.1B-Chat-v1.0")
         self.llm_model = AutoModelForCausalLM.from_pretrained(
-            "TinyLlama/TinyLlama-1.1B-Chat-v0.6",
+            "TinyLlama/TinyLlama-1.1B-Chat-v1.0",
             device_map="auto",
             torch_dtype=torch.float16 if torch.cuda.is_available() else torch.float32
         )
@@ -47,9 +47,21 @@ class HybridRetriever:
         context = "\n".join([f"{i+1}. {text}" for i, (_, text, _) in enumerate(retrieved_passages)])
         
         ## VERY BASIC, ORIGINAL (FIRST TRY) PROMPT
-        prompt = f"""<|system|>\nYou are an intelligent assistant helping with information retrieval.\n<|user|>\nPlease synthesize an answer from the following passages to answer the question:\n\n{context}\n\nQuestion: {query}\n<|assistant|>"""
+        #prompt = f"""<|system|>\nYou are an intelligent assistant helping with information retrieval.\n<|user|>\nPlease synthesize an answer from the following passages to answer the question:\n\n{context}\n\nQuestion: {query}\n<|assistant|>"""
+        
+        ## this is a manually crafted prompt, but many modern open-source chat models use a structured prompt format
+        prompt = f"""
+        <|system|>\n
+        You are a knowledgeable assistant specialized in the TV series *Bones*. Your role is to answer questions strictly based on the provided passages. Do not use outside knowledge. If the passages do not fully answer the question, state that directly.\n
 
-        ## STILL WORKING ON THIS...
+        <|user|>\n
+        Please carefully review the following passages from the *Bones* TV script. Then synthesize a clear, concise, and informative answer to the question. Use direct quotes or paraphrasing from the passages to support your answer whenever possible. If the information is not fully available in the passages, acknowledge that.\n
+
+        Passages:\n
+        {context}
+
+        \nQuestion: {query}\n
+        <|assistant|>"""
 
         inputs = self.llm_tokenizer(prompt, return_tensors="pt").to(self.llm_model.device)
         with torch.no_grad():
@@ -64,7 +76,7 @@ class HybridRetriever:
             )
         response = self.llm_tokenizer.decode(output[0], skip_special_tokens=True)
         return response.split("<|assistant|>")[-1].strip()
-    ##
+
 
 '''
 if __name__ == "__main__":

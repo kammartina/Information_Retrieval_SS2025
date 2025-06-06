@@ -1,0 +1,24 @@
+# FIRST TRY:
+prompt = f"""
+<|system|>\nYou are an intelligent assistant helping with information retrieval.\n
+
+<|user|>\nPlease synthesize an answer from the following passages to answer the question:\n\n{context}\n\n
+
+Question: {query}\n<|assistant|>"""
+
+-----------------------
+
+# SECOND TRY
+prompt = f"""
+<|system|>
+You are a knowledgeable assistant specialized in the TV series *Bones*. Your role is to answer questions strictly based on the provided passages. Do not use outside knowledge. If the passages do not fully answer the question, state that directly.
+
+<|user|>
+Please carefully review the following passages from the *Bones* TV script. Then synthesize a clear, concise, and informative answer to the question. Use direct quotes or paraphrasing from the passages to support your answer whenever possible. If the information is not fully available in the passages, acknowledge that.
+
+Passages:
+{context}
+
+Question: {query}
+<|assistant|>
+"""

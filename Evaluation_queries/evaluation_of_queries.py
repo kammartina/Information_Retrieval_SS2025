@@ -6,7 +6,7 @@ from Retrieval_ranking_answer.hybrid_retr import HybridRetriever
 # Load environment variables from .env file
 load_dotenv()
 EVAL_SET_PATH = os.getenv("EVAL_SET_PATH")
-LOG_FILE = os.getenv("EVAL_LOG_PATH")
+LOG_FILE = os.getenv("EVAL_LOG_PATH_RUN2")
 
 # Load the evaluation set from a .jsonl file
 def load_eval_set(path):
