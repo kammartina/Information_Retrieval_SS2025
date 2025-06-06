@@ -21,8 +21,11 @@ try:
 except Exception as e:
     st.error(f"Error importing HybridRetriever: {e}")
 
+# Display the image
+st.image("bones.jpg", channels="RGB", width=450)
+
 # Streamlit app layout
-st.title("🔍 Hybrid Bones RAG System")
+st.title("🔍 Hybrid Bones-Series RAG System")
 
 query = st.text_input("Enter your query:")
 

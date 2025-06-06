@@ -1,4 +1,4 @@
-"""Add commentMore actions
+"""
 CREATING A PERSISTENT CHROMADB COLLECTION
 
 This script creates a persistent ChromaDB collection from utterances stored in an SQLite database and their metadata.

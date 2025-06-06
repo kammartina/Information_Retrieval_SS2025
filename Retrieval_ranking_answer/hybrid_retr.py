@@ -1,5 +1,5 @@
-from Retrieval_ranking_answer.semantic_retr_colbertv2 import ColBERTReranker
-from Retrieval_ranking_answer.lexical_retr_spladev3 import SpladeRetriever
+from Retrieval_ranking_answer.semantic_retr_colbert import ColBERTReranker
+from Retrieval_ranking_answer.lexical_retr_splade import SpladeRetriever
 
 from transformers import AutoTokenizer, AutoModelForCausalLM
 import torch
@@ -42,12 +42,9 @@ class HybridRetriever:
         )
         self.llm_model.eval()
 
+    
     def generate_answer(self, query: str, retrieved_passages: list):
-        # Combine top contexts into one prompt
         context = "\n".join([f"{i+1}. {text}" for i, (_, text, _) in enumerate(retrieved_passages)])
-        
-        ## VERY BASIC, ORIGINAL (FIRST TRY) PROMPT
-        #prompt = f"""<|system|>\nYou are an intelligent assistant helping with information retrieval.\n<|user|>\nPlease synthesize an answer from the following passages to answer the question:\n\n{context}\n\nQuestion: {query}\n<|assistant|>"""
         
         ## this is a manually crafted prompt, but many modern open-source chat models use a structured prompt format
         prompt = f"""
@@ -70,7 +67,8 @@ class HybridRetriever:
                 max_new_tokens=256,
                 do_sample=True,
                 temperature=0.2,
-                repetition_penalty=1.1,
+                repetition_penalty=1.2,
+                top_k=20,
                 top_p=0.8,
                 eos_token_id=self.llm_tokenizer.eos_token_id,
             )
