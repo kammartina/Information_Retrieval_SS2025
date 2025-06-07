@@ -3,8 +3,10 @@ from Retrieval_ranking_answer.lexical_retr_splade import SpladeRetriever
 
 from transformers import AutoTokenizer, AutoModelForCausalLM
 import torch
+import os
 from dotenv import load_dotenv
 
+load_dotenv()
 
 class HybridRetriever:
     def __init__(self):
@@ -33,10 +35,11 @@ class HybridRetriever:
         return reranked_results
 
     def load_llm(self):
+        tiny_llama = os.getenv("LLM_ANSW_GEN_MODEL")
         print("Loading TinyLlama model...")
-        self.llm_tokenizer = AutoTokenizer.from_pretrained("TinyLlama/TinyLlama-1.1B-Chat-v1.0")
+        self.llm_tokenizer = AutoTokenizer.from_pretrained(tiny_llama)
         self.llm_model = AutoModelForCausalLM.from_pretrained(
-            "TinyLlama/TinyLlama-1.1B-Chat-v1.0",
+            tiny_llama,
             device_map="auto",
             torch_dtype=torch.float16 if torch.cuda.is_available() else torch.float32
         )
