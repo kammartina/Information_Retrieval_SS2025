@@ -58,7 +58,7 @@ for query_text, pattern in queries:
         })
 
 # Save to JSONL format
-jsonl_path = Path("/home/mlt_ml2/Inf_Retrieval_Project_Martina_Sandra/Evaluation_queries/bones_eval_set.jsonl")
+jsonl_path=os.getenv("EVAL_SET_PATH")
 with open(jsonl_path, "w", encoding="utf-8") as f:
     for entry in evaluation_data:
         json.dump(entry, f)
